@@ -1,0 +1,24 @@
+=============================
+Fecha/hora 2022-02-15 08:53:39.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":null,"idLog":false,"customer":null,"cargue":null,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-15 08:53:52.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2050,"idLog":2090,"customer":5,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-15 08:54:08.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2050,"idLog":2090,"customer":5,"cargue":1330,"capacidad_pago":"500000"}.
+=============================
+Fecha/hora 2022-02-15 08:54:16.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2051,"idLog":2091,"customer":5,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-15 08:55:02.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2053,"idLog":2093,"customer":5,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-15 08:55:30.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2053,"idLog":2093,"customer":5,"cargue":1330,"capacidad_pago":"500000"}.

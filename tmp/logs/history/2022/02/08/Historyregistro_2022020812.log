@@ -1,0 +1,8 @@
+=============================
+Fecha/hora 2022-02-08 12:01:22.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T12:01:22-05:00","modified":"2022-02-08T12:01:22-05:00","id":1933},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T12:01:22-05:00","modified":"2022-02-08T12:01:22-05:00","id":1933}}.
+=============================
+Fecha/hora 2022-02-08 12:57:38.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T12:57:38-05:00","modified":"2022-02-08T12:57:38-05:00","id":1935},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T12:57:38-05:00","modified":"2022-02-08T12:57:38-05:00","id":1935}}.

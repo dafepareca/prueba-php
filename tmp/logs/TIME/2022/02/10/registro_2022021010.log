@@ -1,0 +1,12 @@
+2022-02-10 10:25:20; 00:00:00.265; Consulta; InsertLog; AppController; Log; 1982;
+2022-02-10 10:25:23; 00:00:00.83; Declinada; Conteo logTransactional; logTransactional; PersistenceLogsTransactional; 1982;
+2022-02-10 10:25:24; 00:00:01.1456; Declinada; Insertar logTransactional; logTransactional; PersistenceLogsTransactional; 1982;
+2022-02-10 10:25:24; 00:00:01.1692; Consulta; InsertHistory; AppController; createHistory; 1982;
+2022-02-10 10:25:24; 00:00:07.7004; Consulta; Funcion completa; BaseCustomersController; consult; 1982;
+2022-02-10 10:26:39; 00:00:00.81; Declinada; EliminarHistoryDetails; AppController; updateHistory; 1982;
+2022-02-10 10:26:41; 00:00:01.1616; Declinada; Guardar History; AppController; updateHistory; 1982;
+2022-02-10 10:26:43; 00:00:00.81; Declinada; Conteo logTransactional; logTransactional; PersistenceLogsTransactional; 1982;
+2022-02-10 10:26:43; 00:00:00.81; Declinada; Eliminar logTransactional; logTransactional; PersistenceLogsTransactional; 1982;
+2022-02-10 10:26:44; 00:00:01.1527; Declinada; Insertar logTransactional; logTransactional; PersistenceLogsTransactional; 1982;
+2022-02-10 10:26:44; 00:00:06.6656; Evaluar Oferta; Funcion completa; BaseObligationsController; evaluar; 1982;
+2022-02-10 10:26:45; 00:00:00.55; Renderisar una Oferta; Funcion completa; BaseObligationsController; oferta; 1982;

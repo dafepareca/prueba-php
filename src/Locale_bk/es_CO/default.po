@@ -1,0 +1,1747 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-06-02 14:53-0500\n"
+"PO-Revision-Date: 2017-06-09 12:33-0500\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Language: es_CO\n"
+
+#: Controller/UsersController.php:59
+msgid "Invalid email or token"
+msgstr "Correo electrónico o token no válido"
+
+#: Controller/UsersController.php:90;93
+msgid "Token sent to registered mobile"
+msgstr "Token enviado al celular registrado"
+
+#: Controller/UsersController.php:97
+msgid "Invalid email. Please, try again."
+msgstr "Email inválido. Por favor, inténtelo de nuevo."
+
+#: Controller/UsersController.php:162
+msgid "The Profile has been saved."
+msgstr "Se ha guardado el perfil."
+
+#: Controller/UsersController.php:165
+msgid "The Profile could not be saved. Please, try again."
+msgstr "No se pudo guardar el perfil. Por favor, inténtelo de nuevo."
+
+#: Controller/Admin/AccessActivitiesController.php:84;111
+#: Controller/Admin/AccessGroupsController.php:63;91
+#: Controller/Admin/AccessLogsController.php:80;106
+#: Controller/Admin/BiUsersController.php:55;98
+#: Controller/Admin/BusinessUnitsController.php:62;87
+#: Controller/Admin/CustomersController.php:60;86
+#: Controller/Admin/ExternalCustomersController.php:92;143
+#: Controller/Admin/InternalCustomersController.php:55;106
+#: Controller/Admin/IpsGroupsController.php:63;89
+#: Controller/Admin/RolesController.php:60;85
+#: Controller/Admin/SettingCategoriesController.php:44;69
+#: Controller/Admin/SettingsController.php:64;92
+#: Controller/Admin/UnitManagersController.php:55;85
+#: Controller/Admin/UsersController.php:88;117
+#: Controller/Bi/DashboardsController.php:86;112
+#: Controller/Bi/DashboardsUrlsController.php:85;111
+#: Controller/Bi/DocumentsController.php:96;121
+#: Controller/External/DocumentsController.php:111;142
+#: Controller/Internal/DocumentsController.php:110;141
+#: Controller/Manager/CampaignsController.php:80;111
+#: Controller/Manager/DocumentsController.php:60;87
+msgid "The {0} has been saved."
+msgstr "Se ha guardado {0}."
+
+#: Controller/Admin/AccessActivitiesController.php:87;114
+#: Controller/Admin/AccessGroupsController.php:66;94
+#: Controller/Admin/AccessLogsController.php:83;109
+#: Controller/Admin/BiUsersController.php:58;101
+#: Controller/Admin/BusinessUnitsController.php:65;90
+#: Controller/Admin/CustomersController.php:63;89
+#: Controller/Admin/ExternalCustomersController.php:95;146
+#: Controller/Admin/InternalCustomersController.php:58;109
+#: Controller/Admin/IpsGroupsController.php:66;92
+#: Controller/Admin/RolesController.php:63;88
+#: Controller/Admin/SettingCategoriesController.php:47;72
+#: Controller/Admin/SettingsController.php:67;95
+#: Controller/Admin/UnitManagersController.php:58;88
+#: Controller/Admin/UsersController.php:91;120
+#: Controller/Bi/DashboardsController.php:89;115
+#: Controller/Bi/DashboardsUrlsController.php:88;114
+#: Controller/Bi/DocumentsController.php:99;124
+#: Controller/External/DocumentsController.php:114;145
+#: Controller/Internal/DocumentsController.php:113;144
+#: Controller/Manager/CampaignsController.php:83;114
+#: Controller/Manager/DocumentsController.php:63;90
+msgid "The {0} could not be saved. Please, try again."
+msgstr "El {0} no se pudo guardar. Por favor, inténtelo de nuevo."
+
+#: Controller/Admin/AccessActivitiesController.php:135
+#: Controller/Admin/AccessGroupsController.php:113
+#: Controller/Admin/AccessLogsController.php:129
+#: Controller/Admin/BiUsersController.php:130
+#: Controller/Admin/BusinessUnitsController.php:110
+#: Controller/Admin/CustomersController.php:109
+#: Controller/Admin/ExternalCustomersController.php:166
+#: Controller/Admin/InternalCustomersController.php:137
+#: Controller/Admin/IpsGroupsController.php:111
+#: Controller/Admin/RolesController.php:107
+#: Controller/Admin/SettingCategoriesController.php:91
+#: Controller/Admin/SettingsController.php:117
+#: Controller/Admin/UnitManagersController.php:109
+#: Controller/Admin/UsersController.php:140
+#: Controller/Bi/DashboardsController.php:135
+#: Controller/Bi/DashboardsUrlsController.php:135
+#: Controller/Bi/DocumentsController.php:144
+#: Controller/External/DocumentsController.php:171
+#: Controller/Internal/DocumentsController.php:170
+#: Controller/Manager/CampaignsController.php:144
+#: Controller/Manager/DocumentsController.php:111
+msgid "The {0} has been deleted."
+msgstr "Se ha eliminado {0}."
+
+#: Controller/Admin/AccessActivitiesController.php:137
+#: Controller/Admin/AccessGroupsController.php:115
+#: Controller/Admin/AccessLogsController.php:131
+#: Controller/Admin/BiUsersController.php:132
+#: Controller/Admin/BusinessUnitsController.php:112
+#: Controller/Admin/CustomersController.php:111
+#: Controller/Admin/ExternalCustomersController.php:168
+#: Controller/Admin/InternalCustomersController.php:139
+#: Controller/Admin/IpsGroupsController.php:113
+#: Controller/Admin/RolesController.php:109
+#: Controller/Admin/SettingCategoriesController.php:93
+#: Controller/Admin/SettingsController.php:119
+#: Controller/Admin/UnitManagersController.php:111
+#: Controller/Admin/UsersController.php:142
+#: Controller/Bi/DashboardsController.php:137
+#: Controller/Bi/DashboardsUrlsController.php:137
+#: Controller/Bi/DocumentsController.php:146
+#: Controller/External/DocumentsController.php:173
+#: Controller/Internal/DocumentsController.php:172
+#: Controller/Manager/CampaignsController.php:146
+#: Controller/Manager/DocumentsController.php:113
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "No se pudo eliminar {0}. Por favor, inténtelo de nuevo."
+
+#: Controller/Admin/BiUsersController.php:149
+#: Controller/Admin/ExternalCustomersController.php:185
+#: Controller/Admin/InternalCustomersController.php:156
+#: Controller/Admin/UnitManagersController.php:128
+#: Controller/Admin/UsersController.php:159
+msgid "The {0}: {1} has been archivated."
+msgstr "El {0}: {1} ha sido archivado."
+
+#: Controller/Admin/BiUsersController.php:151
+#: Controller/Admin/ExternalCustomersController.php:187
+#: Controller/Admin/InternalCustomersController.php:158
+#: Controller/Admin/UnitManagersController.php:130
+#: Controller/Admin/UsersController.php:161
+msgid "The {0} could not be archivated. Please, try again."
+msgstr "El {0} no se pudo archivar. Por favor, inténtelo de nuevo."
+
+#: Controller/Admin/ExternalCustomersController.php:78
+msgid "No customer selected"
+msgstr "Ningún cliente seleccionado"
+
+#: Controller/Admin/IpsGroupsController.php:28
+msgid "No Access Group selected. Please, try again."
+msgstr "No se ha seleccionado ningún Grupo de Acceso. Por favor, inténtelo de nuevo."
+
+#: Controller/Bi/DashboardsController.php:30
+#: Controller/Bi/DocumentsController.php:39
+#: Controller/External/DocumentsController.php:51
+#: Controller/Internal/DocumentsController.php:51
+msgid "No campaign selected. Please, try again."
+msgstr "No se ha seleccionado ninguna campaña. Por favor, inténtelo de nuevo."
+
+#: Controller/Bi/DashboardsUrlsController.php:30
+msgid "No dashboards selected. Please, try again."
+msgstr "No se han seleccionado tablero. Por favor, inténtelo de nuevo."
+
+#: Controller/Bi/DocumentsController.php:191
+#: Controller/External/DocumentsController.php:221
+#: Controller/Internal/DocumentsController.php:220
+msgid "Error downloading file, please try later."
+msgstr "Error al descargar el archivo. Inténtalo más tarde."
+
+#: Controller/Bi/DocumentsController.php:233;239
+#: Controller/External/DocumentsController.php:263;269
+#: Controller/Internal/DocumentsController.php:262;268
+msgid "Sent document."
+msgstr "Documento enviado."
+
+#: Controller/Bi/DocumentsController.php:243
+#: Controller/External/DocumentsController.php:273
+#: Controller/Internal/DocumentsController.php:272
+msgid "Error sending documen. Please, try again."
+msgstr "Error al enviar el documento. Por favor, inténtelo de nuevo."
+
+#: Controller/Manager/CampaignsController.php:159
+#: Template/Bi/Dashboards/add.ctp:53 Template/Bi/Dashboards/edit.ctp:38
+#: Template/Bi/Documents/add.ctp:55 Template/Bi/Documents/edit.ctp:53
+#: Template/External/Documents/add.ctp:55
+#: Template/External/Documents/edit.ctp:53
+#: Template/Internal/Documents/add.ctp:55
+#: Template/Internal/Documents/edit.ctp:53
+#: Template/Manager/Campaigns/add.ctp:38;39
+msgid "Select item"
+msgstr "Seleccione una opción"
+
+#: Model/Behavior/BeforeDeleteBehavior.php:48
+msgid "There are %s linked to this record."
+msgstr "Hay %s vinculad@s a este registro."
+
+#: Model/Table/AttachmentsTable.php:116
+msgid "These files extension are allowed: .gif, .jpg, .jpeg, .png"
+msgstr "Se permite la extensión de estos archivos: .gif, .jpg, .jpeg, .png"
+
+#: Model/Table/DocumentsTable.php:106
+msgid "File is required"
+msgstr "Se requiere un archivo"
+
+#: Model/Table/UserStatusesTable.php:33 Template/Admin/BiUsers/add.ctp:55
+#: Template/Admin/Element/search/bi_users.ctp:48
+#: Template/Admin/Element/search/external_customers.ctp:49
+#: Template/Admin/Element/search/internal_customers.ctp:48
+#: Template/Admin/ExternalCustomers/add.ctp:62
+#: Template/Admin/UnitManagers/add.ctp:55
+msgid "Active"
+msgstr "Activo"
+
+#: Model/Table/UserStatusesTable.php:34
+#: Template/Admin/Element/search/bi_users.ctp:48
+#: Template/Admin/Element/search/external_customers.ctp:49
+#: Template/Admin/Element/search/internal_customers.ctp:48
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: Template/Admin/AccessActivities/index.ctp:9
+msgid "Access Activities"
+msgstr "Actividades de acceso"
+
+#: Template/Admin/AccessActivities/index.ctp:11;13
+#: Template/Admin/AccessGroups/index.ctp:15;17
+#: Template/Admin/AccessLogs/index.ctp:11;13
+#: Template/Admin/Audits/index.ctp:11;13
+#: Template/Admin/BusinessUnits/index.ctp:15;17
+#: Template/Admin/Customers/index.ctp:15;17
+#: Template/Admin/IpsGroups/index.ctp:20;22
+#: Template/Admin/Roles/index.ctp:15;17
+#: Template/Admin/SettingCategories/index.ctp:13;15
+#: Template/Admin/Settings/index.ctp:13;15 Template/Admin/Users/index.ctp:35;37
+#: Template/Bake/Template/index.ctp:21;23 Template/Bi/Campaigns/index.ctp:12;14
+#: Template/Bi/Dashboards/index.ctp:19;21
+#: Template/Bi/DashboardsUrls/index.ctp:20;22
+#: Template/Bi/Documents/index.ctp:18;20
+#: Template/External/Documents/index.ctp:15;17
+#: Template/Internal/Documents/index.ctp:15;17
+#: Template/Manager/Campaigns/index.ctp:15;17
+#: Template/Manager/Documents/index.ctp:13;15
+msgid "Refresh"
+msgstr "Refrescar"
+
+#: Template/Admin/AccessActivities/index.ctp:34
+#: Template/Admin/AccessLogs/index.ctp:36 Template/Admin/Audits/index.ctp:36
+#: Template/Bi/Documents/view.ctp:14 Template/External/Documents/view.ctp:14
+#: Template/Internal/Documents/view.ctp:14 Template/Layout/default.ctp:149
+#: Template/Manager/Documents/view.ctp:14
+msgid "User"
+msgstr "Usuario"
+
+#: Template/Admin/AccessActivities/index.ctp:35
+#: Template/Admin/AccessLogs/view.ctp:40 Template/Admin/Audits/view.ctp:20
+msgid "Model"
+msgstr "Modelo"
+
+#: Template/Admin/AccessActivities/index.ctp:37
+#: Template/Admin/AccessGroups/index.ctp:40
+#: Template/Admin/AccessGroups/view.ctp:16 Template/Admin/Audits/view.ctp:26
+#: Template/Admin/BusinessUnits/view.ctp:14
+#: Template/Admin/SettingCategories/index.ctp:37
+#: Template/Bi/Campaigns/view.ctp:22 Template/Bi/Dashboards/view.ctp:20
+#: Template/Bi/Documents/view.ctp:22 Template/External/Documents/view.ctp:22
+#: Template/Internal/Documents/view.ctp:22
+#: Template/Manager/Campaigns/view.ctp:22
+#: Template/Manager/Documents/view.ctp:20
+msgid "Description"
+msgstr "Descripción"
+
+#: Template/Admin/AccessGroups/add.ctp:6 Template/Admin/AccessGroups/edit.ctp:6
+#: Template/Admin/AccessGroups/index.ctp:9
+#: Template/Admin/Element/aside/sidebar-menu.ctp:23
+msgid "Access Groups"
+msgstr "Grupos de Acceso"
+
+#: Template/Admin/AccessGroups/add.ctp:7;71
+#: Template/Admin/AccessGroups/index.ctp:12;14 Template/Admin/BiUsers/add.ctp:9
+#: Template/Admin/BusinessUnits/add.ctp:7
+#: Template/Admin/BusinessUnits/index.ctp:12;14
+#: Template/Admin/Customers/add.ctp:8 Template/Admin/Customers/index.ctp:12;14
+#: Template/Admin/ExternalCustomers/add.ctp:10
+#: Template/Admin/InternalCustomers/add.ctp:9
+#: Template/Admin/IpsGroups/add.ctp:9 Template/Admin/IpsGroups/index.ctp:17;19
+#: Template/Admin/Roles/add.ctp:7 Template/Admin/Roles/index.ctp:12;14
+#: Template/Admin/SettingCategories/add.ctp:7
+#: Template/Admin/SettingCategories/index.ctp:10;12
+#: Template/Admin/Settings/add.ctp:9 Template/Admin/Settings/index.ctp:10;12
+#: Template/Admin/UnitManagers/add.ctp:9 Template/Admin/Users/add.ctp:8
+#: Template/Admin/Users/index.ctp:11;12 Template/Bake/Template/index.ctp:18;20
+#: Template/Bi/Dashboards/add.ctp:8;67 Template/Bi/Dashboards/index.ctp:16;18
+#: Template/Bi/DashboardsUrls/add.ctp:8
+#: Template/Bi/DashboardsUrls/index.ctp:17;19
+#: Template/Bi/Documents/add.ctp:8;76 Template/Bi/Documents/index.ctp:15;17
+#: Template/Bi/Documents/send_email.ctp:50
+#: Template/External/Documents/add.ctp:8;76
+#: Template/External/Documents/index.ctp:12;14
+#: Template/External/Documents/send_email.ctp:50
+#: Template/Internal/Documents/add.ctp:8;76
+#: Template/Internal/Documents/index.ctp:12;14
+#: Template/Internal/Documents/send_email.ctp:50
+#: Template/Manager/Campaigns/add.ctp:9
+#: Template/Manager/Campaigns/index.ctp:12;14
+#: Template/Manager/Documents/add.ctp:7
+#: Template/Manager/Documents/index.ctp:10;12
+msgid "Add"
+msgstr "Adicionar"
+
+#: Template/Admin/AccessGroups/add.ctp:10;11
+#: Template/Admin/AccessGroups/edit.ctp:10;11
+#: Template/Admin/BiUsers/add.ctp:12;13 Template/Admin/BiUsers/edit.ctp:12;13
+#: Template/Admin/BusinessUnits/add.ctp:10;11
+#: Template/Admin/BusinessUnits/edit.ctp:10;11
+#: Template/Admin/Customers/add.ctp:11;12
+#: Template/Admin/Customers/edit.ctp:11;12
+#: Template/Admin/ExternalCustomers/add.ctp:13;14
+#: Template/Admin/ExternalCustomers/edit.ctp:12;13
+#: Template/Admin/InternalCustomers/add.ctp:12;13
+#: Template/Admin/InternalCustomers/edit.ctp:12;13
+#: Template/Admin/IpsGroups/add.ctp:12;14
+#: Template/Admin/IpsGroups/edit.ctp:12;14
+#: Template/Admin/IpsGroups/index.ctp:14;16 Template/Admin/Roles/add.ctp:10;11
+#: Template/Admin/Roles/edit.ctp:10;11
+#: Template/Admin/SettingCategories/add.ctp:10;11
+#: Template/Admin/SettingCategories/edit.ctp:15;16
+#: Template/Admin/Settings/add.ctp:12;13 Template/Admin/Settings/edit.ctp:15;16
+#: Template/Admin/UnitManagers/add.ctp:12;13
+#: Template/Admin/UnitManagers/edit.ctp:12;13
+#: Template/Admin/Users/add.ctp:11;12 Template/Admin/Users/edit.ctp:11;12
+#: Template/Admin/Users/inactivate.ctp:11;12
+#: Template/Bake/Element/form.ctp:13;14 Template/Bi/Dashboards/add.ctp:11;12
+#: Template/Bi/Dashboards/edit.ctp:11;12 Template/Bi/Dashboards/index.ctp:13;15
+#: Template/Bi/DashboardsUrls/add.ctp:11;12
+#: Template/Bi/DashboardsUrls/edit.ctp:12;13
+#: Template/Bi/DashboardsUrls/index.ctp:14;16
+#: Template/Bi/Documents/add.ctp:11;12 Template/Bi/Documents/edit.ctp:16;17
+#: Template/Bi/Documents/index.ctp:12;14
+#: Template/Bi/Documents/send_email.ctp:11;12
+#: Template/External/Documents/add.ctp:11;12
+#: Template/External/Documents/edit.ctp:16;17
+#: Template/External/Documents/send_email.ctp:11;12
+#: Template/Internal/Documents/add.ctp:11;12
+#: Template/Internal/Documents/edit.ctp:16;17
+#: Template/Internal/Documents/send_email.ctp:11;12
+#: Template/Layout/_error.ctp:43 Template/Manager/Campaigns/add.ctp:12;13
+#: Template/Manager/Campaigns/edit.ctp:12;13
+#: Template/Manager/Documents/add.ctp:10;11
+#: Template/Manager/Documents/edit.ctp:15;16 Template/Users/profile.ctp:10;11
+msgid "Back"
+msgstr "Volver"
+
+#: Template/Admin/AccessGroups/add.ctp:24
+#: Template/Admin/AccessGroups/edit.ctp:24
+#: Template/Admin/AccessGroups/view.ctp:7
+msgid "Access Group Information"
+msgstr "Información del Grupo de Acceso"
+
+#: Template/Admin/AccessGroups/add.ctp:63
+msgid "Ips"
+msgstr "Ips"
+
+#: Template/Admin/AccessGroups/add.ctp:67
+#: Template/Admin/AccessGroups/view.ctp:12
+#: Template/Admin/BusinessUnits/view.ctp:12
+#: Template/Admin/Customers/view.ctp:12 Template/Admin/Roles/view.ctp:12
+#: Template/Admin/Users/inactivate.ctp:37 Template/Bi/Campaigns/view.ctp:12
+#: Template/Manager/Campaigns/view.ctp:12 Template/Users/profile.ctp:36
+msgid "Name"
+msgstr "Nombre"
+
+#: Template/Admin/AccessGroups/add.ctp:68
+msgid "IP"
+msgstr "IP"
+
+#: Template/Admin/AccessGroups/add.ctp:92
+#: Template/Admin/AccessGroups/edit.ctp:43 Template/Admin/BiUsers/add.ctp:144
+#: Template/Admin/BiUsers/edit.ctp:168 Template/Admin/BusinessUnits/add.ctp:42
+#: Template/Admin/BusinessUnits/edit.ctp:42 Template/Admin/Customers/add.ctp:64
+#: Template/Admin/Customers/edit.ctp:64
+#: Template/Admin/ExternalCustomers/add.ctp:155
+#: Template/Admin/ExternalCustomers/edit.ctp:176
+#: Template/Admin/InternalCustomers/add.ctp:146
+#: Template/Admin/InternalCustomers/edit.ctp:170
+#: Template/Admin/IpsGroups/add.ctp:48 Template/Admin/IpsGroups/edit.ctp:48
+#: Template/Admin/Roles/add.ctp:42 Template/Admin/Roles/edit.ctp:42
+#: Template/Admin/SettingCategories/add.ctp:42
+#: Template/Admin/SettingCategories/edit.ctp:47
+#: Template/Admin/Settings/add.ctp:50 Template/Admin/Settings/edit.ctp:53
+#: Template/Admin/UnitManagers/add.ctp:77
+#: Template/Admin/UnitManagers/edit.ctp:76 Template/Admin/Users/add.ctp:58
+#: Template/Admin/Users/edit.ctp:58 Template/Admin/Users/inactivate.ctp:78
+#: Template/Bake/Element/form.ctp:84 Template/Bi/Dashboards/add.ctp:88
+#: Template/Bi/Dashboards/edit.ctp:43 Template/Bi/DashboardsUrls/add.ctp:42
+#: Template/Bi/DashboardsUrls/edit.ctp:44 Template/Bi/Documents/add.ctp:101
+#: Template/Bi/Documents/edit.ctp:59 Template/External/Documents/add.ctp:101
+#: Template/External/Documents/edit.ctp:59
+#: Template/Internal/Documents/add.ctp:101
+#: Template/Internal/Documents/edit.ctp:59
+#: Template/Manager/Campaigns/add.ctp:45 Template/Manager/Campaigns/edit.ctp:45
+#: Template/Manager/Documents/add.ctp:44 Template/Manager/Documents/edit.ctp:48
+#: Template/Users/profile.ctp:88
+msgid "Save"
+msgstr "Guardar"
+
+#: Template/Admin/AccessGroups/add.ctp:95
+#: Template/Admin/AccessGroups/edit.ctp:46 Template/Admin/BiUsers/add.ctp:147
+#: Template/Admin/BiUsers/edit.ctp:171 Template/Admin/BusinessUnits/add.ctp:45
+#: Template/Admin/BusinessUnits/edit.ctp:45 Template/Admin/Customers/add.ctp:67
+#: Template/Admin/Customers/edit.ctp:67
+#: Template/Admin/ExternalCustomers/add.ctp:158
+#: Template/Admin/ExternalCustomers/edit.ctp:179
+#: Template/Admin/InternalCustomers/add.ctp:149
+#: Template/Admin/InternalCustomers/edit.ctp:173
+#: Template/Admin/IpsGroups/add.ctp:51 Template/Admin/IpsGroups/edit.ctp:51
+#: Template/Admin/Roles/add.ctp:45 Template/Admin/Roles/edit.ctp:45
+#: Template/Admin/SettingCategories/add.ctp:45
+#: Template/Admin/SettingCategories/edit.ctp:50
+#: Template/Admin/Settings/add.ctp:53 Template/Admin/Settings/edit.ctp:56
+#: Template/Admin/UnitManagers/add.ctp:80
+#: Template/Admin/UnitManagers/edit.ctp:79 Template/Admin/Users/add.ctp:61
+#: Template/Admin/Users/edit.ctp:61 Template/Admin/Users/inactivate.ctp:81
+#: Template/Bake/Element/form.ctp:87 Template/Bi/Dashboards/add.ctp:91
+#: Template/Bi/Dashboards/edit.ctp:46 Template/Bi/DashboardsUrls/add.ctp:45
+#: Template/Bi/DashboardsUrls/edit.ctp:47 Template/Bi/Documents/add.ctp:104
+#: Template/Bi/Documents/edit.ctp:62 Template/Bi/Documents/send_email.ctp:77
+#: Template/External/Documents/add.ctp:104
+#: Template/External/Documents/edit.ctp:62
+#: Template/External/Documents/send_email.ctp:77
+#: Template/Internal/Documents/add.ctp:104
+#: Template/Internal/Documents/edit.ctp:62
+#: Template/Internal/Documents/send_email.ctp:77
+#: Template/Manager/Campaigns/add.ctp:48 Template/Manager/Campaigns/edit.ctp:48
+#: Template/Manager/Documents/add.ctp:47 Template/Manager/Documents/edit.ctp:51
+#: Template/Users/profile.ctp:91
+msgid "Required fields"
+msgstr "Campos requeridos"
+
+#: Template/Admin/AccessGroups/edit.ctp:7
+#: Template/Admin/AccessGroups/index.ctp:56 Template/Admin/BiUsers/edit.ctp:9
+#: Template/Admin/BusinessUnits/edit.ctp:7
+#: Template/Admin/BusinessUnits/index.ctp:55
+#: Template/Admin/Customers/edit.ctp:8 Template/Admin/Customers/index.ctp:59
+#: Template/Admin/ExternalCustomers/edit.ctp:9
+#: Template/Admin/InternalCustomers/edit.ctp:9
+#: Template/Admin/IpsGroups/edit.ctp:9 Template/Admin/IpsGroups/index.ctp:60
+#: Template/Admin/Roles/edit.ctp:7 Template/Admin/Roles/index.ctp:55
+#: Template/Admin/SettingCategories/edit.ctp:12
+#: Template/Admin/SettingCategories/index.ctp:50
+#: Template/Admin/Settings/edit.ctp:12 Template/Admin/Settings/index.ctp:53
+#: Template/Admin/UnitManagers/edit.ctp:9 Template/Admin/Users/edit.ctp:8
+#: Template/Admin/Users/index.ctp:92 Template/Bake/Template/index.ctp:62
+#: Template/Bi/Dashboards/edit.ctp:8 Template/Bi/Dashboards/index.ctp:59
+#: Template/Bi/DashboardsUrls/edit.ctp:9
+#: Template/Bi/DashboardsUrls/index.ctp:60 Template/Bi/Documents/edit.ctp:13
+#: Template/Bi/Documents/index.ctp:56 Template/External/Documents/edit.ctp:13
+#: Template/External/Documents/index.ctp:56
+#: Template/Internal/Documents/edit.ctp:13
+#: Template/Internal/Documents/index.ctp:56
+#: Template/Manager/Campaigns/edit.ctp:9
+#: Template/Manager/Campaigns/index.ctp:57
+#: Template/Manager/Documents/edit.ctp:12
+#: Template/Manager/Documents/index.ctp:53
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Admin/AccessGroups/index.ctp:62 Template/Admin/BiUsers/add.ctp:116
+#: Template/Admin/BiUsers/edit.ctp:128
+#: Template/Admin/BusinessUnits/index.ctp:61
+#: Template/Admin/Customers/index.ctp:65 Template/Admin/Roles/index.ctp:61
+#: Template/Admin/Users/index.ctp:98 Template/Bake/Template/index.ctp:66
+#: Template/Bi/Campaigns/index.ctp:55 Template/Bi/Dashboards/index.ctp:64
+#: Template/Bi/DashboardsUrls/index.ctp:65 Template/Bi/Documents/index.ctp:60
+#: Template/External/Documents/index.ctp:60
+#: Template/Internal/Documents/index.ctp:60
+#: Template/Manager/Campaigns/index.ctp:62
+#: Template/Manager/Documents/index.ctp:57
+msgid "View"
+msgstr "Ver"
+
+#: Template/Admin/AccessGroups/index.ctp:68
+#: Template/Admin/BusinessUnits/index.ctp:67
+#: Template/Admin/Customers/index.ctp:71 Template/Admin/IpsGroups/index.ctp:67
+#: Template/Admin/Roles/index.ctp:67
+#: Template/Admin/SettingCategories/index.ctp:54
+#: Template/Admin/Settings/index.ctp:57 Template/Admin/Users/index.ctp:104
+#: Template/Bake/Template/index.ctp:70 Template/Bi/Dashboards/index.ctp:69
+#: Template/Bi/DashboardsUrls/index.ctp:70 Template/Bi/Documents/index.ctp:64
+#: Template/External/Documents/index.ctp:64
+#: Template/Internal/Documents/index.ctp:64 Template/Layout/default.ctp:118
+#: Template/Manager/Campaigns/index.ctp:68
+#: Template/Manager/Documents/index.ctp:61
+msgid "Delete"
+msgstr "Eliminar"
+
+#: Template/Admin/AccessGroups/index.ctp:83
+#: Template/Admin/AccessGroups/view.ctp:19
+#: Template/Admin/AccessLogs/index.ctp:37 Template/Admin/AccessLogs/view.ctp:26
+msgid "Ip Address"
+msgstr "Dirección IP"
+
+#: Template/Admin/AccessLogs/index.ctp:35
+msgid "Date Logout"
+msgstr "Fecha de salida"
+
+#: Template/Admin/AccessGroups/index.ctp:94
+#: Template/Admin/AccessGroups/view.ctp:15 Template/Bake/Template/view.ctp:78
+#: Template/Bi/Dashboards/add.ctp:53 Template/Bi/Dashboards/edit.ctp:38
+#: Template/Bi/Dashboards/index.ctp:91 Template/Bi/Dashboards/view.ctp:17
+#: Template/Bi/Documents/add.ctp:55 Template/Bi/Documents/edit.ctp:53
+#: Template/External/Documents/add.ctp:55
+#: Template/External/Documents/edit.ctp:53
+#: Template/External/Documents/view.ctp:25
+#: Template/Internal/Documents/add.ctp:55
+#: Template/Internal/Documents/edit.ctp:53
+#: Template/Internal/Documents/view.ctp:25
+msgid "Yes"
+msgstr "Si"
+
+#: Template/Admin/AccessGroups/index.ctp:94
+#: Template/Admin/AccessGroups/view.ctp:15 Template/Bake/Template/view.ctp:78
+#: Template/Bi/Dashboards/add.ctp:53 Template/Bi/Dashboards/edit.ctp:38
+#: Template/Bi/Dashboards/index.ctp:91 Template/Bi/Dashboards/view.ctp:17
+#: Template/Bi/Documents/add.ctp:55 Template/Bi/Documents/edit.ctp:53
+#: Template/External/Documents/add.ctp:55
+#: Template/External/Documents/edit.ctp:53
+#: Template/External/Documents/view.ctp:25
+#: Template/Internal/Documents/add.ctp:55
+#: Template/Internal/Documents/edit.ctp:53
+#: Template/Internal/Documents/view.ctp:25
+msgid "No"
+msgstr "No"
+
+#: Template/Admin/AccessGroups/view.ctp:14
+msgid "All Ips"
+msgstr "Todas las Ips"
+
+#: Template/Admin/AccessGroups/view.ctp:26 Template/Admin/Audits/view.ctp:43
+#: Template/Admin/BiUsers/view.ctp:35 Template/Admin/BusinessUnits/view.ctp:16
+#: Template/Admin/Customers/view.ctp:26
+#: Template/Admin/ExternalCustomers/view.ctp:37
+#: Template/Admin/InternalCustomers/view.ctp:35
+#: Template/Admin/Roles/view.ctp:16 Template/Admin/UnitManagers/view.ctp:37
+#: Template/Admin/Users/view.ctp:35 Template/Bi/Campaigns/view.ctp:24
+#: Template/Bi/Dashboards/view.ctp:22 Template/Bi/Documents/view.ctp:26
+#: Template/External/Documents/view.ctp:26
+#: Template/Internal/Documents/view.ctp:26
+#: Template/Manager/Campaigns/view.ctp:24
+#: Template/Manager/Documents/view.ctp:24
+msgid "Created"
+msgstr "Creado"
+
+#: Template/Admin/AccessGroups/view.ctp:28 Template/Admin/BiUsers/view.ctp:37
+#: Template/Admin/BusinessUnits/view.ctp:18
+#: Template/Admin/Customers/view.ctp:28
+#: Template/Admin/ExternalCustomers/view.ctp:39
+#: Template/Admin/InternalCustomers/view.ctp:37
+#: Template/Admin/Roles/view.ctp:18 Template/Admin/UnitManagers/view.ctp:43
+#: Template/Admin/Users/view.ctp:37 Template/Bi/Campaigns/view.ctp:26
+#: Template/Bi/Dashboards/view.ctp:24 Template/Manager/Campaigns/view.ctp:26
+#: Template/Manager/Documents/view.ctp:22
+msgid "Modified"
+msgstr "Modificado"
+
+#: Template/Admin/AccessGroups/view.ctp:34
+#: Template/Admin/AccessLogs/view.ctp:63 Template/Admin/Audits/view.ctp:75
+#: Template/Admin/BiUsers/view.ctp:46 Template/Admin/BusinessUnits/view.ctp:24
+#: Template/Admin/Customers/view.ctp:34
+#: Template/Admin/Element/search/access_activities.ctp:67
+#: Template/Admin/Element/search/access_logs.ctp:67
+#: Template/Admin/Element/search/audits.ctp:60
+#: Template/Admin/Element/search/bi_users.ctp:54
+#: Template/Admin/Element/search/external_customers.ctp:55
+#: Template/Admin/Element/search/internal_customers.ctp:54
+#: Template/Admin/Element/search/settings.ctp:51
+#: Template/Admin/Element/search/unit_managers.ctp:54
+#: Template/Admin/Element/search/users.ctp:55
+#: Template/Admin/ExternalCustomers/view.ctp:48
+#: Template/Admin/InternalCustomers/view.ctp:46
+#: Template/Admin/Roles/view.ctp:24 Template/Admin/UnitManagers/view.ctp:53
+#: Template/Admin/Users/view.ctp:46 Template/Bake/Template/view.ctp:99
+#: Template/Bi/Campaigns/view.ctp:32 Template/Bi/Dashboards/view.ctp:30
+#: Template/Bi/DashboardsUrls/view.ctp:24 Template/Bi/Documents/view.ctp:32
+#: Template/Element/Flash/auth.ctp:8 Template/External/Documents/view.ctp:32
+#: Template/Internal/Documents/view.ctp:32 Template/Layout/default.ctp:107;151
+#: Template/Manager/Campaigns/view.ctp:32
+#: Template/Manager/Documents/view.ctp:30
+msgid "Close"
+msgstr "Cerrar"
+
+#: Template/Admin/AccessLogs/index.ctp:9
+msgid "Logs Sessions"
+msgstr "Registro de Sesiones"
+
+#: Template/Admin/AccessLogs/index.ctp:38
+msgid "User Agent"
+msgstr "User Agent"
+
+#: Template/Admin/AccessLogs/index.ctp:59 Template/Admin/Audits/index.ctp:60
+msgid "Details"
+msgstr "Detalles"
+
+#: Template/Admin/AccessLogs/view.ctp:7
+msgid "Access Log Information"
+msgstr "Información del Registro de Acceso"
+
+#: Template/Admin/AccessLogs/view.ctp:24
+msgid "Date Login"
+msgstr "Fecha de ingreso"
+
+#: Template/Admin/AccessLogs/view.ctp:39
+msgid "Date"
+msgstr "Fecha"
+
+#: Template/Admin/AccessLogs/view.ctp:41
+msgid "Activity Type"
+msgstr "Typo de Actividad"
+
+#: Template/Admin/AccessLogs/view.ctp:56
+msgid "Activities by session"
+msgstr "Actividades por sesión"
+
+#: Template/Admin/Audits/index.ctp:9
+#: Template/Admin/Element/aside/sidebar-menu.ctp:50
+msgid "Audit"
+msgstr "Auditoria"
+
+#: Template/Admin/Audits/index.ctp:39
+msgid "Changes"
+msgstr "Cambios"
+
+#: Template/Admin/Audits/index.ctp:35
+msgid "Event"
+msgstr "Evento"
+
+#: Template/Admin/Audits/index.ctp:38
+msgid "Identifier"
+msgstr "Identificador"
+
+#: Template/Admin/Audits/view.ctp:8
+msgid "Audit Detail Information"
+msgstr "Información detallada de la Auditoría"
+
+#: Template/Admin/Audits/view.ctp:14
+msgid "Id"
+msgstr "Id"
+
+#: Template/Admin/Audits/view.ctp:17
+msgid "Event type"
+msgstr "Tipo Evento"
+
+#: Template/Admin/Audits/view.ctp:23
+msgid "Model id"
+msgstr "Model id"
+
+#: Template/Admin/Audits/view.ctp:29
+msgid "Source Id"
+msgstr "Source Id"
+
+#: Template/Admin/Audits/view.ctp:32
+msgid "Source Ip"
+msgstr "Source Ip"
+
+#: Template/Admin/Audits/view.ctp:35
+msgid "Source Url"
+msgstr "Source Url"
+
+#: Template/Admin/Audits/view.ctp:38
+msgid "Deltas"
+msgstr "Deltas"
+
+#: Template/Admin/Audits/view.ctp:54
+msgid "Field"
+msgstr "Campo"
+
+#: Template/Admin/Audits/view.ctp:55
+msgid "Old Value"
+msgstr "Valor Anterior"
+
+#: Template/Admin/Audits/view.ctp:56
+msgid "New Value"
+msgstr "Nuevo Valor"
+
+#: Template/Admin/BiUsers/add.ctp:8 Template/Admin/BiUsers/edit.ctp:8
+msgid "Bi Users"
+msgstr "Usuarios BI"
+
+#: Template/Admin/BiUsers/add.ctp:26 Template/Admin/BiUsers/edit.ctp:26
+#: Template/Admin/BiUsers/view.ctp:7
+msgid "Bi User Information"
+msgstr "Información de Usuario BI"
+
+#: Template/Admin/BiUsers/add.ctp:54 Template/Admin/BiUsers/edit.ctp:55
+#: Template/Admin/Element/search/access_activities.ctp:60;61
+#: Template/Admin/Element/search/access_logs.ctp:61
+#: Template/Admin/Element/search/audits.ctp:53;54
+#: Template/Admin/Element/search/bi_users.ctp:47;48
+#: Template/Admin/Element/search/external_customers.ctp:47;48;49
+#: Template/Admin/Element/search/internal_customers.ctp:47;48
+#: Template/Admin/Element/search/settings.ctp:45
+#: Template/Admin/Element/search/unit_managers.ctp:47;48
+#: Template/Admin/Element/search/users.ctp:47;48;49
+#: Template/Admin/ExternalCustomers/add.ctp:61
+#: Template/Admin/ExternalCustomers/edit.ctp:60
+#: Template/Admin/InternalCustomers/add.ctp:54
+#: Template/Admin/InternalCustomers/edit.ctp:54
+#: Template/Admin/UnitManagers/add.ctp:54
+#: Template/Admin/UnitManagers/edit.ctp:53 Template/Admin/Users/add.ctp:40
+#: Template/Admin/Users/edit.ctp:39
+msgid "Select Item"
+msgstr "Seleccione una opción"
+
+#: Template/Admin/BiUsers/add.ctp:62 Template/Admin/BiUsers/edit.ctp:63
+#: Template/Admin/ExternalCustomers/add.ctp:69
+#: Template/Admin/ExternalCustomers/edit.ctp:68
+#: Template/Admin/InternalCustomers/add.ctp:61
+#: Template/Admin/InternalCustomers/edit.ctp:62
+#: Template/Admin/UnitManagers/add.ctp:66
+#: Template/Admin/UnitManagers/edit.ctp:65 Template/Admin/Users/add.ctp:47
+#: Template/Admin/Users/edit.ctp:47 Template/Users/profile.ctp:67
+msgid "Search"
+msgstr "Buscar"
+
+#: Template/Admin/BiUsers/add.ctp:69 Template/Admin/BiUsers/edit.ctp:70
+#: Template/Admin/InternalCustomers/add.ctp:68
+#: Template/Admin/InternalCustomers/edit.ctp:69
+msgid "Campaign access"
+msgstr "Acceso a la campaña"
+
+#: Template/Admin/BiUsers/add.ctp:72 Template/Admin/BiUsers/edit.ctp:73
+#: Template/Admin/ExternalCustomers/add.ctp:81
+#: Template/Admin/ExternalCustomers/edit.ctp:80
+#: Template/Admin/InternalCustomers/add.ctp:74
+#: Template/Admin/InternalCustomers/edit.ctp:75
+#: Template/Bi/Campaigns/index.ctp:9 Template/Manager/Campaigns/add.ctp:8
+#: Template/Bi/Element/aside/sidebar-menu.ctp:16
+#: Template/Manager/Campaigns/edit.ctp:8 Template/Manager/Campaigns/index.ctp:9
+#: Template/Manager/Element/aside/sidebar-menu.ctp:16
+msgid "Campaigns"
+msgstr "Campañas"
+
+#: Template/Admin/BiUsers/add.ctp:114 Template/Admin/BiUsers/edit.ctp:126
+#: Template/Admin/ExternalCustomers/add.ctp:126
+#: Template/Admin/ExternalCustomers/edit.ctp:135
+#: Template/Admin/InternalCustomers/add.ctp:116
+#: Template/Admin/InternalCustomers/edit.ctp:128
+#: Template/Admin/UnitManagers/view.ctp:33 Template/Bi/Campaigns/view.ctp:14
+#: Template/Manager/Campaigns/view.ctp:14
+msgid "Business Unit"
+msgstr "Unidad de Negocio"
+
+#: Template/Admin/BiUsers/add.ctp:115 Template/Admin/BiUsers/edit.ctp:127
+#: Template/Admin/ExternalCustomers/add.ctp:127
+#: Template/Admin/ExternalCustomers/edit.ctp:136
+#: Template/Admin/InternalCustomers/add.ctp:117
+#: Template/Admin/InternalCustomers/edit.ctp:129
+#: Template/Bi/Dashboards/view.ctp:12 Template/Bi/Documents/view.ctp:12
+#: Template/External/Documents/view.ctp:12
+#: Template/Internal/Documents/view.ctp:12
+#: Template/Manager/Documents/view.ctp:12
+msgid "Campaign"
+msgstr "Campaña"
+
+#: Template/Admin/BiUsers/add.ctp:117 Template/Admin/BiUsers/edit.ctp:129
+#: Template/Admin/InternalCustomers/add.ctp:119
+#: Template/Admin/InternalCustomers/edit.ctp:131
+msgid "Upload"
+msgstr "Descarga"
+
+#: Template/Admin/BiUsers/view.ctp:25
+#: Template/Admin/ExternalCustomers/view.ctp:25
+#: Template/Admin/InternalCustomers/view.ctp:25
+#: Template/Admin/UnitManagers/view.ctp:25
+#: Template/Admin/Users/inactivate.ctp:43 Template/Admin/Users/view.ctp:25
+#: Template/Bi/Documents/add.ctp:73 Template/Bi/Documents/send_email.ctp:47
+#: Template/External/Documents/add.ctp:73
+#: Template/External/Documents/send_email.ctp:47
+#: Template/Internal/Documents/add.ctp:73
+#: Template/Internal/Documents/send_email.ctp:47
+#: Template/Users/get_token.ctp:14;15 Template/Users/login.ctp:14;15
+#: Template/Users/profile.ctp:42
+msgid "Email"
+msgstr "Email"
+
+#: Template/Admin/BiUsers/view.ctp:27
+#: Template/Admin/ExternalCustomers/view.ctp:27
+#: Template/Admin/InternalCustomers/view.ctp:27
+#: Template/Admin/UnitManagers/view.ctp:27 Template/Admin/Users/view.ctp:27
+#: Template/Users/login.ctp:19
+msgid "Token"
+msgstr "Token"
+
+#: Template/Admin/BiUsers/view.ctp:29
+#: Template/Admin/ExternalCustomers/view.ctp:29
+#: Template/Admin/InternalCustomers/view.ctp:29
+#: Template/Admin/UnitManagers/view.ctp:29
+#: Template/Admin/Users/inactivate.ctp:49 Template/Admin/Users/index.ctp:61
+#: Template/Admin/Users/view.ctp:29 Template/Users/profile.ctp:50
+msgid "Mobile"
+msgstr "Celular"
+
+#: Template/Admin/BiUsers/view.ctp:31
+#: Template/Admin/ExternalCustomers/view.ctp:31
+#: Template/Admin/InternalCustomers/view.ctp:31
+#: Template/Admin/UnitManagers/view.ctp:31
+#: Template/Admin/Users/inactivate.ctp:55 Template/Admin/Users/index.ctp:64
+#: Template/Admin/Users/view.ctp:31
+msgid "Access Group"
+msgstr "Grupo de Acceso"
+
+#: Template/Admin/BiUsers/view.ctp:33
+#: Template/Admin/ExternalCustomers/view.ctp:35
+#: Template/Admin/InternalCustomers/view.ctp:33
+#: Template/Admin/UnitManagers/view.ctp:35 Template/Admin/Users/view.ctp:33
+msgid "Last Login"
+msgstr "Último Login"
+
+#: Template/Admin/BusinessUnits/add.ctp:6
+#: Template/Admin/BusinessUnits/edit.ctp:6
+#: Template/Admin/BusinessUnits/index.ctp:9
+#: Template/Admin/Customers/index.ctp:40 Template/Admin/Customers/view.ctp:24
+#: Template/Admin/Element/aside/sidebar-menu.ctp:7
+msgid "Business Units"
+msgstr "Unidades de Negocio"
+
+#: Template/Admin/BusinessUnits/add.ctp:24
+#: Template/Admin/BusinessUnits/edit.ctp:24
+#: Template/Admin/BusinessUnits/view.ctp:7
+msgid "Business Unit Information"
+msgstr "Información de Unidad de Negocio"
+
+#: Template/Admin/Customers/add.ctp:7 Template/Admin/Customers/edit.ctp:7
+#: Template/Admin/Customers/index.ctp:9
+#: Template/Admin/Element/aside/sidebar-menu.ctp:12
+msgid "Customers"
+msgstr "Clientes"
+
+#: Template/Admin/Customers/add.ctp:25 Template/Admin/Customers/edit.ctp:25
+#: Template/Admin/Customers/view.ctp:7
+msgid "Customer Information"
+msgstr "Información de Cliente"
+
+#: Template/Admin/Customers/index.ctp:41
+msgid "Contact name"
+msgstr "Nombre de Contacto"
+
+#: Template/Admin/Customers/index.ctp:42
+msgid "Contact email"
+msgstr "Email de Contacto"
+
+#: Template/Admin/Customers/index.ctp:43
+msgid "Contact position"
+msgstr "Cargo de Contacto"
+
+#: Template/Admin/Customers/index.ctp:44
+msgid "Contact phone"
+msgstr "Teléfono de Contacto"
+
+#: Template/Admin/Customers/view.ctp:14
+msgid "Contact Name"
+msgstr "Nombre de Contacto"
+
+#: Template/Admin/Customers/view.ctp:16
+msgid "Contact Email"
+msgstr "Email de Contacto"
+
+#: Template/Admin/Customers/view.ctp:18
+msgid "Contact Position"
+msgstr "Cargo de Contacto"
+
+#: Template/Admin/Customers/view.ctp:20
+msgid "Contact Phone"
+msgstr "Teléfono de Contacto"
+
+#: Template/Admin/Customers/view.ctp:22
+msgid "Business Unit Count"
+msgstr "Contador de unidad de negocio"
+
+#: Template/Admin/Element/ips.ctp:30 Template/Admin/Element/rows_bi.ctp:37
+#: Template/Admin/Element/rows_external.ctp:30
+#: Template/Admin/Element/rows_internal.ctp:38
+#: Template/Bi/Element/emails.ctp:19 Template/Bi/Element/urls.ctp:35
+#: Template/External/Element/emails.ctp:19
+#: Template/Internal/Element/emails.ctp:19 Template/Manager/Element/urls.ctp:35
+msgid "Remove"
+msgstr "Eliminar"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:3
+#: Template/Bi/DashboardsUrls/view.ctp:14
+#: Template/Bi/Element/aside/sidebar-menu.ctp:4
+#: Template/External/Element/aside/sidebar-menu.ctp:4
+#: Template/Internal/Element/aside/sidebar-menu.ctp:4
+#: Template/Manager/Element/aside/sidebar-menu.ctp:4
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:5
+#: Template/Admin/Users/index.ctp:15
+#: Template/Bi/Element/aside/sidebar-menu.ctp:2
+#: Template/Element/aside/sidebar-menu.ctp:2
+#: Template/External/Element/aside/sidebar-menu.ctp:2
+#: Template/Internal/Element/aside/sidebar-menu.ctp:2
+#: Template/Manager/Element/aside/sidebar-menu.ctp:2
+msgid "Administrator"
+msgstr "Administrador"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:16
+msgid "Users and group access"
+msgstr "Usuarios y Grupos de Acceso"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:18
+#: Template/Admin/Users/index.ctp:9 Template/Users/profile.ctp:6
+msgid "Users"
+msgstr "Usuarios\t"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:28
+#: Template/Admin/Roles/add.ctp:6 Template/Admin/Roles/edit.ctp:6
+#: Template/Admin/Roles/index.ctp:9
+msgid "Roles"
+msgstr "Roles"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:32
+msgid "Configuration"
+msgstr "Configuración"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:34
+#: Template/Admin/SettingCategories/add.ctp:6
+#: Template/Admin/SettingCategories/edit.ctp:11
+#: Template/Admin/SettingCategories/index.ctp:8
+msgid "Setting Categories"
+msgstr "Categorías de Configuración"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:39
+#: Template/Admin/Settings/add.ctp:8 Template/Admin/Settings/edit.ctp:11
+#: Template/Admin/Settings/index.ctp:8
+msgid "Settings"
+msgstr "Ajustes"
+
+#: Template/Admin/Settings/add.ctp:37 Template/Admin/Settings/edit.ctp:40
+msgid "Setting Category"
+msgstr "Categoría de Configuración"
+
+#: Template/Admin/Settings/add.ctp:39
+msgid "Value"
+msgstr "Valor"
+
+#: Template/Admin/Settings/add.ctp:43
+msgid "Type Key"
+msgstr "Tipo Campo"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:43
+msgid "Logs"
+msgstr "Logs"
+
+#: Template/Admin/Element/aside/sidebar-menu.ctp:45
+msgid "Sessions"
+msgstr "Sesiones"
+
+#: Template/Admin/Element/search/access_activities.ctp:52
+#: Template/Admin/Element/search/audits.ctp:46
+msgid "Search by date"
+msgstr "Buscar por fecha"
+
+#: Template/Admin/Element/search/access_activities.ctp:66
+#: Template/Admin/Element/search/access_logs.ctp:66
+#: Template/Admin/Element/search/audits.ctp:59
+#: Template/Admin/Element/search/bi_users.ctp:53
+#: Template/Admin/Element/search/external_customers.ctp:54
+#: Template/Admin/Element/search/internal_customers.ctp:53
+#: Template/Admin/Element/search/settings.ctp:50
+#: Template/Admin/Element/search/unit_managers.ctp:53
+#: Template/Admin/Element/search/users.ctp:54
+msgid "Filter"
+msgstr "Filtrar"
+
+#: Template/Admin/Element/search/access_logs.ctp:52
+msgid "Search by date login"
+msgstr "Buscar por fecha de login"
+
+#: Template/Admin/Element/search/audits.ctp:54
+msgid "Resource"
+msgstr "Recurso"
+
+#: Template/Admin/Element/search/bi_users.ctp:38
+#: Template/Admin/Element/search/external_customers.ctp:38
+#: Template/Admin/Element/search/internal_customers.ctp:38
+#: Template/Admin/Element/search/settings.ctp:37
+#: Template/Admin/Element/search/unit_managers.ctp:38
+#: Template/Admin/Element/search/users.ctp:38
+#: Template/Element/search/generic.ctp:12
+msgid "Search by name"
+msgstr "Buscar por nombre"
+
+#: Template/Admin/ExternalCustomers/add.ctp:9 Template/Admin/Users/index.ctp:31
+msgid "External Customer"
+msgstr "Cliente Externo"
+
+#: Template/Admin/ExternalCustomers/add.ctp:27
+#: Template/Admin/ExternalCustomers/edit.ctp:26
+msgid "External Customer Information"
+msgstr "Información de Cliente Externo"
+
+#: Template/Admin/ExternalCustomers/add.ctp:53
+#: Template/Admin/ExternalCustomers/edit.ctp:52
+#: Template/Admin/ExternalCustomers/view.ctp:33
+#: Template/Bi/Campaigns/view.ctp:16 Template/Manager/Campaigns/view.ctp:16
+msgid "Customer"
+msgstr "Cliente"
+
+#: Template/Admin/ExternalCustomers/add.ctp:77
+#: Template/Admin/ExternalCustomers/edit.ctp:76
+msgid "External customers can view dashboards for associated campaigns"
+msgstr "Los clientes externos pueden ver los tableros de las campañas asociadas"
+
+#: Template/Admin/ExternalCustomers/add.ctp:128
+#: Template/Admin/ExternalCustomers/edit.ctp:137
+#: Template/Admin/InternalCustomers/add.ctp:118
+#: Template/Admin/InternalCustomers/edit.ctp:130
+#: Template/External/Documents/index.ctp:77
+#: Template/Internal/Documents/index.ctp:77
+msgid "Download"
+msgstr "Descargar"
+
+#: Template/Admin/ExternalCustomers/edit.ctp:8
+msgid "External Customers"
+msgstr "Clientes Externos"
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:13
+msgid "Select customer by create External Customer"
+msgstr "Seleccione un cliente por crear el acceso a cliente externo"
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:17
+msgid "Select Customer"
+msgstr "Seleccione Cliente"
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:21
+msgid "Next"
+msgstr "Siguiente"
+
+#: Template/Admin/ExternalCustomers/view.ctp:7
+msgid "External Customer  Information"
+msgstr "Información de Cliente Externo"
+
+#: Template/Admin/InternalCustomers/add.ctp:8 Template/Admin/Users/index.ctp:27
+msgid "Internal Customer"
+msgstr "Cliente Interno"
+
+#: Template/Admin/InternalCustomers/add.ctp:26
+#: Template/Admin/InternalCustomers/edit.ctp:26
+msgid "Internal Customer Information"
+msgstr "Información de Cliente Interno"
+
+#: Template/Admin/InternalCustomers/add.ctp:70
+#: Template/Admin/InternalCustomers/edit.ctp:71
+msgid "Internal customers can view dashboards for associated campaigns"
+msgstr "Los clientes internos pueden ver los tableros de las campañas asociadas"
+
+#: Template/Admin/InternalCustomers/edit.ctp:8
+msgid "Internal Customers"
+msgstr "Clientes Internos"
+
+#: Template/Admin/InternalCustomers/view.ctp:7
+msgid "Internal Customer  Information"
+msgstr "Información de Cliente Interno"
+
+#: Template/Admin/IpsGroups/add.ctp:7 Template/Admin/IpsGroups/edit.ctp:7
+#: Template/Admin/IpsGroups/index.ctp:9
+msgid "Ips Groups"
+msgstr "Grupos de Ips"
+
+#: Template/Admin/IpsGroups/add.ctp:27 Template/Admin/IpsGroups/edit.ctp:27
+msgid "Ips Group Information"
+msgstr "Información de Grupos de Ips"
+
+#: Template/Admin/Roles/add.ctp:24 Template/Admin/Roles/edit.ctp:24
+#: Template/Admin/Roles/view.ctp:7
+msgid "Role Information"
+msgstr "Información de Rol"
+
+#: Template/Admin/Roles/view.ctp:14
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: Template/Admin/SettingCategories/add.ctp:24
+#: Template/Admin/SettingCategories/edit.ctp:29
+msgid "Setting Category Information"
+msgstr "Información de la Categoría de  Configuración"
+
+#: Template/Admin/Settings/add.ctp:26 Template/Admin/Settings/edit.ctp:29
+msgid "Setting Information"
+msgstr "Información de Ajuste"
+
+#: Template/Admin/Settings/index.ctp:36
+msgid "Category"
+msgstr "Categoría"
+
+#: Template/Admin/Settings/index.ctp:38
+msgid "Label"
+msgstr "Etiqueta"
+
+#: Template/Admin/Settings/index.ctp:39
+msgid "value"
+msgstr "Valor"
+
+#: Template/Admin/Settings/index.ctp:40
+msgid "Type key"
+msgstr "Tipo de Ajuste"
+
+#: Template/Admin/UnitManagers/add.ctp:8 Template/Admin/UnitManagers/edit.ctp:8
+msgid "Unit Managers"
+msgstr "Gerentes de Unidad"
+
+#: Template/Admin/UnitManagers/add.ctp:26
+#: Template/Admin/UnitManagers/edit.ctp:25
+msgid "Manager Unit Information"
+msgstr "Información de Gerente de Unidad"
+
+#: Template/Admin/UnitManagers/view.ctp:7
+msgid "Unit Manager Information"
+msgstr "Información de Unidad de Negocio"
+
+#: Template/Admin/UnitManagers/view.ctp:41
+msgid "Archived"
+msgstr "Archivado"
+
+#: Template/Admin/Users/add.ctp:7 Template/Admin/Users/edit.ctp:7
+#: Template/Admin/Users/inactivate.ctp:7
+msgid "Administrators"
+msgstr "Administradores"
+
+#: Template/Admin/Users/add.ctp:25 Template/Admin/Users/edit.ctp:24
+#: Template/Admin/Users/inactivate.ctp:24 Template/Admin/Users/view.ctp:7
+msgid "Administrator Information"
+msgstr "Información de Administrador"
+
+#: Template/Admin/Users/inactivate.ctp:8
+msgid "Inactivate"
+msgstr "Inactivado"
+
+#: Template/Admin/Users/inactivate.ctp:61 Template/Admin/Users/index.ctp:63
+#: Template/Bi/Campaigns/view.ctp:18 Template/Bi/Dashboards/view.ctp:18
+#: Template/Manager/Campaigns/view.ctp:18
+msgid "Status"
+msgstr "Estado"
+
+#: Template/Admin/Users/inactivate.ctp:71
+msgid "Inactivation reason"
+msgstr "Motivo de INactivación"
+
+#: Template/Admin/Users/index.ctp:19
+msgid "Unit Manager"
+msgstr "Gerente de Unidad"
+
+#: Template/Admin/Users/index.ctp:23
+msgid "Bi User"
+msgstr "Usuario BI"
+
+#: Template/Admin/Users/index.ctp:118 Template/Layout/default.ctp:132
+msgid "Archive"
+msgstr "Archivo"
+
+#: Template/Alerts/alert.ctp:5 Template/Bi/BusinessUnits/load_menu.ctp:9
+#: Template/Bi/Campaigns/index.ctp:62 Template/Bi/Dashboards/add.ctp:6
+#: Template/Bi/Dashboards/edit.ctp:6 Template/Bi/Dashboards/index.ctp:9
+#: Template/Bi/Dashboards/load_url.ctp:5
+#: Template/External/BusinessUnits/load_menu.ctp:9
+#: Template/External/Dashboards/load_url.ctp:5
+#: Template/Internal/BusinessUnits/load_menu.ctp:9
+#: Template/Internal/Dashboards/load_url.ctp:5
+#: Template/Manager/BusinessUnits/load_menu.ctp:9
+#: Template/Manager/Dashboards/load_url.ctp:5
+msgid "Dashboards"
+msgstr "Tableros"
+
+#: Template/Bi/Campaigns/index.ctp:70 Template/Bi/Documents/add.ctp:6
+#: Template/Bi/Documents/edit.ctp:11 Template/Bi/Documents/index.ctp:8
+#: Template/Bi/Documents/send_email.ctp:6
+#: Template/External/BusinessUnits/load_menu.ctp:39
+#: Template/External/Documents/add.ctp:6
+#: Template/External/Documents/edit.ctp:11
+#: Template/External/Documents/index.ctp:8
+#: Template/External/Documents/send_email.ctp:6
+#: Template/Internal/BusinessUnits/load_menu.ctp:39
+#: Template/Internal/Documents/add.ctp:6
+#: Template/Internal/Documents/edit.ctp:11
+#: Template/Internal/Documents/index.ctp:8
+#: Template/Internal/Documents/send_email.ctp:6
+#: Template/Manager/Campaigns/index.ctp:81 Template/Manager/Documents/add.ctp:6
+#: Template/Manager/Documents/edit.ctp:11
+#: Template/Manager/Documents/index.ctp:8
+msgid "Documents"
+msgstr "Documentos"
+
+#: Template/Bi/Campaigns/index.ctp:79 Template/Bi/Campaigns/view.ctp:19
+#: Template/Bi/Dashboards/add.ctp:52 Template/Bi/Dashboards/edit.ctp:37
+#: Template/Bi/Dashboards/index.ctp:90 Template/Bi/Dashboards/view.ctp:19
+#: Template/Manager/Campaigns/add.ctp:40 Template/Manager/Campaigns/edit.ctp:40
+#: Template/Manager/Campaigns/index.ctp:89
+#: Template/Manager/Campaigns/view.ctp:19
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: Template/Bi/Campaigns/index.ctp:79 Template/Bi/Campaigns/view.ctp:19
+#: Template/Bi/Dashboards/add.ctp:52 Template/Bi/Dashboards/edit.ctp:37
+#: Template/Bi/Dashboards/index.ctp:90 Template/Bi/Dashboards/view.ctp:19
+#: Template/Manager/Campaigns/add.ctp:40 Template/Manager/Campaigns/edit.ctp:40
+#: Template/Manager/Campaigns/index.ctp:89
+#: Template/Manager/Campaigns/view.ctp:19
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: Template/Bi/Campaigns/view.ctp:7 Template/Manager/Campaigns/add.ctp:26
+#: Template/Manager/Campaigns/edit.ctp:26 Template/Manager/Campaigns/view.ctp:7
+msgid "Campaign Information"
+msgstr "Información de Campaña"
+
+#: Template/Bi/Campaigns/view.ctp:20 Template/Manager/Campaigns/view.ctp:20
+msgid "Dashboard Count"
+msgstr "Contador de Tableros"
+
+#: Template/Bi/Dashboards/add.ctp:25 Template/Bi/Dashboards/edit.ctp:25
+#: Template/Bi/Dashboards/view.ctp:7
+msgid "Dashboard Information"
+msgstr "Información de Tablero"
+
+#: Template/Bi/Dashboards/add.ctp:58 Template/Bi/Dashboards/index.ctp:82
+msgid "Urls"
+msgstr "Urls"
+
+#: Template/Bi/Dashboards/add.ctp:62 Template/Bi/DashboardsUrls/view.ctp:12
+msgid "Url"
+msgstr "Url"
+
+#: Template/Bi/Dashboards/add.ctp:63 Template/Bi/DashboardsUrls/view.ctp:16
+msgid "Start Time"
+msgstr "Hora de Inicio"
+
+#: Template/Bi/Dashboards/add.ctp:64 Template/Bi/DashboardsUrls/view.ctp:18
+msgid "End Time"
+msgstr "Hora de Finalización"
+
+#: Template/Bi/Dashboards/view.ctp:14 Template/Bi/Documents/view.ctp:19
+#: Template/External/Documents/view.ctp:19
+#: Template/Internal/Documents/view.ctp:19
+msgid "Title"
+msgstr "Título"
+
+#: Template/Bi/Dashboards/view.ctp:16
+msgid "Access Public"
+msgstr "Acceso Público"
+
+#: Template/Bi/DashboardsUrls/add.ctp:6 Template/Bi/DashboardsUrls/edit.ctp:7
+#: Template/Bi/DashboardsUrls/index.ctp:9
+msgid "Dashboards Urls"
+msgstr "Urls de Tablero"
+
+#: Template/Bi/DashboardsUrls/add.ctp:25 Template/Bi/DashboardsUrls/edit.ctp:26
+#: Template/Bi/DashboardsUrls/view.ctp:7
+msgid "Dashboards Url Information"
+msgstr "Información de Url de Tablero"
+
+#: Template/Bi/Documents/add.ctp:25 Template/Bi/Documents/edit.ctp:30
+#: Template/Bi/Documents/view.ctp:7 Template/External/Documents/add.ctp:25
+#: Template/External/Documents/edit.ctp:30
+#: Template/External/Documents/view.ctp:7
+#: Template/Internal/Documents/add.ctp:25
+#: Template/Internal/Documents/edit.ctp:30
+#: Template/Internal/Documents/view.ctp:7 Template/Manager/Documents/add.ctp:24
+#: Template/Manager/Documents/edit.ctp:29 Template/Manager/Documents/view.ctp:7
+msgid "Document Information"
+msgstr "Información de Documento"
+
+#: Template/Bi/Documents/add.ctp:59 Template/Bi/Documents/index.ctp:76
+#: Template/Bi/Documents/send_email.ctp:8
+#: Template/Bi/Documents/send_email.ctp:25
+#: Template/External/Documents/add.ctp:59
+#: Template/Internal/Documents/send_email.ctp:8
+#: Template/Internal/Documents/send_email.ctp:25
+msgid "Send by email"
+msgstr "Enviar por Email"
+
+#: Template/Bi/Documents/add.ctp:64 Template/Bi/Documents/send_email.ctp:38
+#: Template/External/Documents/add.ctp:64
+#: Template/External/Documents/send_email.ctp:38
+#: Template/Internal/Documents/add.ctp:64
+#: Template/Internal/Documents/send_email.ctp:38
+msgid "Subject"
+msgstr "Asunto"
+
+#: Template/Bi/Documents/add.ctp:65 Template/Bi/Documents/send_email.ctp:39
+#: Template/External/Documents/add.ctp:65
+#: Template/External/Documents/send_email.ctp:39
+#: Template/Internal/Documents/add.ctp:65
+#: Template/Internal/Documents/send_email.ctp:39
+msgid "Message"
+msgstr "Mensaje"
+
+#: Template/Bi/Documents/add.ctp:69 Template/Bi/Documents/send_email.ctp:43
+#: Template/External/Documents/add.ctp:69
+#: Template/External/Documents/send_email.ctp:43
+#: Template/Internal/Documents/add.ctp:69
+#: Template/Internal/Documents/send_email.ctp:43
+msgid "From"
+msgstr "Desde"
+
+#: Template/Bi/Documents/send_email.ctp:74
+#: Template/External/Documents/send_email.ctp:74
+#: Template/Internal/Documents/send_email.ctp:74
+msgid "Send"
+msgstr "Enviar"
+
+#: Template/Bi/Documents/view.ctp:16 Template/External/Documents/view.ctp:16
+#: Template/Internal/Documents/view.ctp:16
+msgid "File name"
+msgstr "Nombre de archivo"
+
+#: Template/Bi/Documents/view.ctp:24 Template/External/Documents/view.ctp:24
+#: Template/Internal/Documents/view.ctp:24
+msgid "Access public"
+msgstr "Acceso público"
+
+#: Template/Bi/Element/aside/sidebar-menu.ctp:10
+#: Template/Manager/Element/aside/sidebar-menu.ctp:10
+msgid "Administration"
+msgstr "Administración"
+
+#: Template/Bi/Element/search/dashboards.ctp:12
+#: Template/Bi/Element/search/documents.ctp:12
+#: Template/External/Element/search/dashboards.ctp:12
+#: Template/External/Element/search/documents.ctp:12
+#: Template/Internal/Element/search/dashboards.ctp:12
+#: Template/Internal/Element/search/documents.ctp:12
+#: Template/Manager/Element/search/dashboards.ctp:12
+msgid "Search by title"
+msgstr "Buscar por título"
+
+#: Template/Element/footer.ctp:6
+msgid "Version"
+msgstr "Versión"
+
+#: Template/Element/nav-top.ctp:112 Template/Users/profile.ctp:7
+msgid "Profile"
+msgstr "Perfil"
+
+#: Template/Element/nav-top.ctp:117
+msgid "Sign out"
+msgstr "Desconectar"
+
+#: Template/Layout/_error.ctp:35 Template/Layout/default.ctp:103;105
+#: Template/Error/_error500.ctp:41 Template/Error/error400.ctp:36
+#: Template/Error/error404.ctp:20 Template/Error/error500.ctp:20
+msgid "Error"
+msgstr "Error"
+
+#: Template/Layout/default.ctp:16
+msgid "Loading data .. please wait.."
+msgstr "Cargando datos .. por favor espere .."
+
+#: Template/Layout/default.ctp:111
+msgid "Are you sure you want to delete this element?"
+msgstr "¿Seguro que quieres eliminar este elemento?"
+
+#: Template/Layout/default.ctp:113
+msgid "Confirm Delete"
+msgstr "Confirmar eliminación"
+
+#: Template/Layout/default.ctp:117;131
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: Template/Layout/default.ctp:125
+msgid "Are you sure you want to archive this element?"
+msgstr "¿Está seguro de que desea archivar este elemento?"
+
+#: Template/Layout/default.ctp:127
+msgid "Confirm Archive User"
+msgstr "Confirmar Archivoar Usuario"
+
+#: Template/Manager/Documents/view.ctp:16
+msgid "File"
+msgstr "Archivo"
+
+#: Template/Manager/Documents/view.ctp:18
+msgid "File Dir"
+msgstr "Dir Archivo"
+
+#: Template/Users/get_token.ctp:18 Template/Users/login.ctp:23
+msgid "Get Token"
+msgstr "Obtener Token"
+
+#: Template/Users/get_token.ctp:19 Template/Users/login.ctp:22
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+#: Template/Users/login.ctp:18
+msgid "Password"
+msgstr "Contraseña"
+
+#: Template/Users/profile.ctp:23
+msgid "Profile Information"
+msgstr "Información de Perfil de Usuario"
+
+#: Template/Users/profile.ctp:56
+msgid "Role"
+msgstr "Rol"
+
+#: Template/Users/profile.ctp:76
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: Template/Users/profile.ctp:77
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña"
+
+#: Template/Users/profile.ctp:79
+msgid "Leave empty if you do not want to change"
+msgstr "Dejar vacío si no desea cambiar"
+
+#: View/Helper/NestedHelper.php:30
+msgid "Image no found"
+msgstr "Imagen no encontrada"
+
+#: Template/Error/_error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr "Ha ocurrido un error interno"
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr "La dirección solicitada {0} no se encontró en este servidor."
+
+#: Template/Error/error404.ctp:22
+msgid "The requested address %s was not found on this server."
+msgstr "La dirección solicitada %s no se encontró en este servidor."
+
+#: Template/Error/error500.ctp:21 Error/ExceptionRenderer.php:260
+msgid "An Internal Error Has Occurred."
+msgstr "Ha ocurrido un error interno."
+
+#: Controller/Component/AuthComponent.php:496
+msgid "You are not authorized to access that location."
+msgstr "No está autorizado para acceder a esa ubicación."
+
+#: Controller/Component/CsrfComponent.php:155
+msgid "Missing CSRF token cookie"
+msgstr "Falta la cookie de token CSRF"
+
+#: Controller/Component/CsrfComponent.php:159
+msgid "CSRF token mismatch."
+msgstr "CSRF token mismatch."
+
+#: Error/ExceptionRenderer.php:258
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: Http/Response.php:2258
+msgid "The requested file contains `..` and will not be read."
+msgstr "El archivo solicitado contiene `..` y no se leerá."
+
+#: Http/Response.php:2269
+msgid "The requested file was not found"
+msgstr "No se encontró el archivo solicitado."
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr "{0,number,#,###.##} KB"
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr "{0,number,#,###.##} MB"
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr "{0,number,#,###.##} GB"
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr "{0,number,#,###.##} TB"
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] "{0,number,integer} Byte"
+msgstr[1] "{0,number,integer} Bytes"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr "desde ahora {0}"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr "hace {0}"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr "después {0} "
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr "antes {0} "
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr "justo ahora"
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr "hace un segundo"
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr "hace un minuto"
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr "hace una hora"
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr "hace un día"
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr "hace una semana"
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr "hace un mes"
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr "hace un año"
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr "en un segundo"
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr "en un minuto"
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr "en una hora"
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr "en un día"
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr "en una semana"
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr "en un mes"
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr "en un año"
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr "hoy"
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr "hace %s"
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr "En %s"
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] "{0} año"
+msgstr[1] "{0} años"
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] "{0} mes"
+msgstr[1] "{0} meses"
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] "{0} semana"
+msgstr[1] "{0} semanas"
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] "{0} día"
+msgstr[1] "{0} días"
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} hora"
+msgstr[1] "{0} horas"
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} minuto"
+msgstr[1] "{0} minutos"
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} segundo"
+msgstr[1] "{0} segundos"
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr "Este valor ya está en uso"
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr "Este valor no existe"
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr "El conteo no coincide con {0} {1}"
+
+#: Utility/Text.php:899
+msgid "and"
+msgstr "y"
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr "El campo es requerido"
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr "Este campo no puede dejarse vacío"
+
+#: Validation/Validator.php:1801
+msgid "The provided value is invalid"
+msgstr "El valor proporcionado no es válido"
+
+#: View/Helper/FormHelper.php:1016
+msgid "New %s"
+msgstr "%s Nuevos"
+
+#: View/Helper/FormHelper.php:1019
+msgid "Edit %s"
+msgstr "%s Editados"
+
+#: View/Helper/FormHelper.php:1895
+msgid "Submit"
+msgstr "Enviar"
+
+#: View/Helper/HtmlHelper.php:793
+msgid "Home"
+msgstr "Inicio"
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr "Enero"
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr "Febrero"
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr "Marzo"
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr "Abril"
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr "Mayo"
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr "Junio"
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr "Julio"
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr "Agosto"
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr "Septiembre"
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr "Octubre"
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr "Noviembre"
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr "Diciembre"
+
+#: Template/Layout/default.ctp:
+msgid "Access denied / prohibited"
+msgstr "Acceso denegado / prohibido"
+
+msgid "Session may have expired due to inactivity"
+msgstr "La sesión puede haber caducado por inactividad"
+
+msgid "You are entering an unauthorized zone"
+msgstr "Está ingresando a una zona no autorizada"
+
+msgid "If the problem persists, check with the platform administrator"
+msgstr "Sí el problema persiste, consulte con el administrador de la plataforma"
+
+msgid "campaigns"
+msgstr "campañas"
+
+msgid "users"
+msgstr "usuarios"
+
+msgid "dashboards"
+msgstr "tableros"
+
+msgid "customers"
+msgstr "clientes"
+
+msgid "settings"
+msgstr "ajustes"
+
+msgid "Latest Logins"
+msgstr "Últimos Accesos"
+
+msgid "View All Sessions"
+msgstr "Ver todos los ingresos"
+
+msgid "Logout Type"
+msgstr "Estado Sesión"

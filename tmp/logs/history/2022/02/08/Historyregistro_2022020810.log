@@ -1,0 +1,36 @@
+=============================
+Fecha/hora 2022-02-08 10:09:13.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:09:13-05:00","modified":"2022-02-08T10:09:13-05:00","id":1922},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:09:13-05:00","modified":"2022-02-08T10:09:13-05:00","id":1922}}.
+=============================
+Fecha/hora 2022-02-08 10:14:11.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:14:11-05:00","modified":"2022-02-08T10:14:11-05:00","id":1923},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:14:11-05:00","modified":"2022-02-08T10:14:11-05:00","id":1923}}.
+=============================
+Fecha/hora 2022-02-08 10:20:08.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":null,"customer_identification":null,"answer":1,"user_id":7},"Log":{"answer":true,"user_id":7},"SaveLOG":false}.
+=============================
+Fecha/hora 2022-02-08 10:26:04.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":null,"customer_identification":null,"answer":1,"user_id":7},"Log":{"answer":true,"user_id":7},"SaveLOG":false}.
+=============================
+Fecha/hora 2022-02-08 10:34:02.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":null,"customer_identification":null,"answer":1,"user_id":7},"Log":{"answer":true,"user_id":7},"SaveLOG":false}.
+=============================
+Fecha/hora 2022-02-08 10:36:45.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":null,"customer_identification":null,"answer":1,"user_id":7},"Log":{"answer":true,"user_id":7},"SaveLOG":false}.
+=============================
+Fecha/hora 2022-02-08 10:37:43.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":null,"customer_identification":null,"answer":1,"user_id":7},"Log":{"answer":true,"user_id":7},"SaveLOG":false}.
+=============================
+Fecha/hora 2022-02-08 10:44:15.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:44:15-05:00","modified":"2022-02-08T10:44:15-05:00","id":1926},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T10:44:15-05:00","modified":"2022-02-08T10:44:15-05:00","id":1926}}.
+=============================
+Fecha/hora 2022-02-08 10:47:08.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":1,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":1,"answer":true,"user_id":7,"created":"2022-02-08T10:47:07-05:00","modified":"2022-02-08T10:47:07-05:00","id":1927},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":1,"answer":true,"user_id":7,"created":"2022-02-08T10:47:07-05:00","modified":"2022-02-08T10:47:07-05:00","id":1927}}.

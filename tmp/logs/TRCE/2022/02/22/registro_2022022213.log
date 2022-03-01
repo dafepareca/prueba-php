@@ -1,0 +1,148 @@
+=============================
+Fecha/hora 2022-02-22 13:09:51.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":null,"idLog":false,"customer":null,"cargue":null,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:10:27.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2788,"idLog":2773,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:10:51.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2788,"idLog":2773,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:10:56.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2788,"idLog":2773,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:13:23.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":null,"idLog":false,"customer":null,"cargue":null,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:13:31.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2789,"idLog":2774,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:13:49.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2789,"idLog":2774,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:13:52.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2789,"idLog":2774,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:17:28.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2790,"idLog":2775,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:17:43.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2790,"idLog":2775,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:17:54.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2790,"idLog":2775,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:20:36.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2791,"idLog":2776,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:21:25.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2791,"idLog":2776,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:21:29.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2791,"idLog":2776,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:21:41.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2792,"idLog":2777,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:21:59.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2792,"idLog":2777,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:22:35.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2793,"idLog":2778,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:22:50.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2793,"idLog":2778,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:22:56.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2793,"idLog":2778,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:24:21.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2794,"idLog":2779,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:24:37.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2794,"idLog":2779,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:24:40.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2794,"idLog":2779,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:25:56.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2795,"idLog":2780,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:26:10.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2795,"idLog":2780,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:26:13.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2795,"idLog":2780,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:43:07.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2796,"idLog":2781,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:45:14.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2796,"idLog":2781,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:45:33.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2796,"idLog":2781,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:50:19.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2797,"idLog":2782,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:50:50.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2797,"idLog":2782,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:51:28.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2797,"idLog":2782,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:54:40.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2798,"idLog":2783,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:55:25.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2798,"idLog":2783,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:55:29.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2798,"idLog":2783,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:57:42.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":2799,"idLog":2784,"customer":588153,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-22 13:57:58.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":2799,"idLog":2784,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.
+=============================
+Fecha/hora 2022-02-22 13:58:00.
+Mensaje:Finaliza la función de Resumen de creditos.
+Parametros:{"idHistory":2799,"idLog":2784,"customer":588153,"cargue":1330,"capacidad_pago":"10000000"}.

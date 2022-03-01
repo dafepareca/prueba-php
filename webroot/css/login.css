@@ -1,0 +1,129 @@
+body{
+    background: rgba(255, 255, 255, 0.72);
+}
+
+div h3 span{
+    color : #FFF;
+    font-size:14px;
+}
+h1{
+    font-weight: 200;
+}
+
+.intro-header{
+    background: url('../img/dataweb/foto-home-web-data-davivienda.jpg');
+    background-size: cover;
+    min-height: 100%;
+    width: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding-top: 5%;
+    color: #f8f8f8;
+    height: 90vh;
+}
+
+.input-group-addon {
+    background-color: #ed1c27;
+    color: #fff;
+}
+
+.dataweb{
+    color: #ffffff;
+
+}
+
+footer {
+    position: relative;
+    display: block;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 80px;
+    background: #000000;
+    color: white;
+}
+
+footer a{
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+
+    .img-footer {
+        /* display: none; */
+        margin: 0 auto;
+        display: block;
+        float: none !important;
+        height: 15px;
+    }
+
+}
+
+@media screen and (max-width:642px){
+    footer{
+        position: relative;
+        display:block;
+        text-align: center;
+    }
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+
+.navbar-default {
+    background-image: linear-gradient(to bottom,#ed1c27 0,#ed1c27 100%);
+}
+
+
+.btn-orange{
+    background-color: #7F9ADD;
+    border-radius: 0px;
+    margin: 5px;
+    padding: 5px 20px;
+
+    font-size: 16px;
+    font-weight: inherit;
+}
+
+.btn-orange:hover {
+    background-color: #2B2B2B;
+    border-radius: 0px;
+    margin: 5px;
+    font-weight: inherit;
+    color:#FFF !important;
+}
+
+.line{
+    border-bottom : 1px solid #7F9ADD;
+    margin-bottom: 10px;
+}
+
+.outter{
+    padding: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.29);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.message.error{
+    color: #b40c00;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    border-bottom: 1px solid #CCC;
+    margin: 10px;
+}
+@media (max-width: 767px){
+    .container {
+        margin-top:0;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}

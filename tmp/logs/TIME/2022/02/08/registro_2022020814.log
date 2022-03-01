@@ -1,0 +1,5 @@
+2022-02-08 14:12:12; 00:00:00.753; Consulta; InsertLog; AppController; Log; 1937;
+2022-02-08 14:12:16; 00:00:00.515; Declinada; Conteo logTransactional; logTransactional; PersistenceLogsTransactional; 1937;
+2022-02-08 14:12:16; 00:00:00.0; Declinada; Insertar logTransactional; logTransactional; PersistenceLogsTransactional; 1937;
+2022-02-08 14:12:16; 00:00:00.341; Consulta; InsertHistory; AppController; createHistory; ;
+2022-02-08 14:12:16; 00:00:07.7934; Consulta; Funcion completa; BaseCustomersController; consult; ;

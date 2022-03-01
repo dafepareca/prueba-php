@@ -1,0 +1,20 @@
+=============================
+Fecha/hora 2022-02-08 11:23:52.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:23:52-05:00","modified":"2022-02-08T11:23:52-05:00","id":1928},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:23:52-05:00","modified":"2022-02-08T11:23:52-05:00","id":1928}}.
+=============================
+Fecha/hora 2022-02-08 11:32:05.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:32:05-05:00","modified":"2022-02-08T11:32:05-05:00","id":1929},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:32:05-05:00","modified":"2022-02-08T11:32:05-05:00","id":1929}}.
+=============================
+Fecha/hora 2022-02-08 11:48:46.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:48:46-05:00","modified":"2022-02-08T11:48:46-05:00","id":1930},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:48:46-05:00","modified":"2022-02-08T11:48:46-05:00","id":1930}}.
+=============================
+Fecha/hora 2022-02-08 11:52:24.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:52:24-05:00","modified":"2022-02-08T11:52:24-05:00","id":1931},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:52:24-05:00","modified":"2022-02-08T11:52:24-05:00","id":1931}}.
+=============================
+Fecha/hora 2022-02-08 11:56:36.
+Mensaje:Función LOG.
+Parametros:{"Data":{"customer_type_identification_id":1,"customer_identification":5,"answer":1,"user_id":7},"Log":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:56:36-05:00","modified":"2022-02-08T11:56:36-05:00","id":1932},"SaveLOG":{"customer_type_identification_id":1,"customer_identification":5,"answer":true,"user_id":7,"created":"2022-02-08T11:56:36-05:00","modified":"2022-02-08T11:56:36-05:00","id":1932}}.

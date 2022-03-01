@@ -1,0 +1,8 @@
+=============================
+Fecha/hora 2022-02-10 12:53:14.
+Mensaje:Finalizo la función consulta.
+Parametros:{"idHistory":1950,"idLog":1992,"customer":70049518,"cargue":1330,"capacidad_pago":null}.
+=============================
+Fecha/hora 2022-02-10 12:54:12.
+Mensaje:Finalizo la función de generar una oferta de negociación.
+Parametros:{"idHistory":1950,"idLog":1992,"customer":70049518,"cargue":1330,"capacidad_pago":"1000000"}.

@@ -1,0 +1,4600 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-04-24 18:22-0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppController.php:733
+#: Controller/Admin/UsersController.php:200
+#: Controller/Asesor/UsersController.php:216
+#: Controller/Coordinador/UsersController.php:198
+msgid "Error validación usuario"
+msgstr ""
+
+#: Controller/AppController.php:780
+#: Controller/Admin/UsersController.php:247
+#: Controller/Asesor/UsersController.php:263
+#: Controller/Coordinador/UsersController.php:245
+msgid "The password has been saved."
+msgstr ""
+
+#: Controller/AppController.php:783
+#: Controller/UsersController.php:200
+#: Controller/Admin/UsersController.php:250
+#: Controller/Asesor/UsersController.php:189;266
+#: Controller/Coordinador/UsersController.php:248
+msgid "The Profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AppController.php:802
+#: Controller/CityOfficesController.php:65;90
+#: Controller/Admin/AccessActivitiesController.php:89;116
+#: Controller/Admin/AccessGroupsController.php:68;96
+#: Controller/Admin/AccessLogsController.php:89;115
+#: Controller/Admin/AdjustedObligationsController.php:73;98
+#: Controller/Admin/AsesorController.php:128;192
+#: Controller/Admin/BusinessController.php:66;91
+#: Controller/Admin/ChargesController.php:72;97
+#: Controller/Admin/CoordinadorController.php:135;176
+#: Controller/Admin/CustomersController.php:63;89
+#: Controller/Admin/IpsGroupsController.php:67;93
+#: Controller/Admin/LogsController.php:78;105
+#: Controller/Admin/RolesController.php:64;89
+#: Controller/Admin/SettingCategoriesController.php:47;72
+#: Controller/Admin/SettingsController.php:72;100
+#: Controller/Admin/TicketsController.php:71;98;130;162;206
+#: Controller/Admin/TrainingResourcesController.php:82;108
+#: Controller/Admin/TrainingsController.php:65;90
+#: Controller/Admin/UnitManagersController.php:56;86
+#: Controller/Admin/UsersController.php:118;147
+#: Controller/Asesor/CityOfficesController.php:66;91
+#: Controller/Asesor/CommitteesController.php:90;117
+#: Controller/Asesor/HistoryCustomersController.php:69;96
+#: Controller/Asesor/TicketsController.php:137;165;213;245;270
+#: Controller/Coordinador/AsesorController.php:113;142
+#: Controller/Coordinador/CityOfficesController.php:66;91
+#: Controller/Coordinador/CommitteesController.php:110;137
+#: Controller/Coordinador/HistoryCustomersController.php:69;96
+#: Controller/Coordinador/TicketsController.php:98;126
+#: Controller/Coordinador/UsersController.php:115;144
+#: Controller/Super/AccessActivitiesController.php:89;116
+#: Controller/Super/AccessGroupsController.php:68;96
+#: Controller/Super/AccessLogsController.php:89;115
+#: Controller/Super/AdminsController.php:123;175
+#: Controller/Super/AnnualEffectiveRateTdcController.php:66;92
+#: Controller/Super/AsesorController.php:113;144
+#: Controller/Super/BiUsersController.php:65;113
+#: Controller/Super/BusinessController.php:67;94
+#: Controller/Super/BusinessUnitsController.php:65;90
+#: Controller/Super/CityOfficesController.php:65;90
+#: Controller/Super/CndCodesController.php:65;90
+#: Controller/Super/negotiationReasonController.php:65;90
+#: Controller/Super/ConditionsController.php:144;177
+#: Controller/Super/CoordinadorController.php:113;144
+#: Controller/Super/CustomerTypeIdentificationsController.php:63;88
+#: Controller/Super/CustomersController.php:63;89
+#: Controller/Super/ExternalCustomersController.php:98;150
+#: Controller/Super/InternalCustomersController.php:59;114
+#: Controller/Super/IpsGroupsController.php:67;93
+#: Controller/Super/LegalCodesController.php:65;90
+#: Controller/Super/OfficesController.php:88;114
+#: Controller/Super/ProductCodesController.php:65;90
+#: Controller/Super/RolesController.php:64;89
+#: Controller/Super/SchedulesController.php:88;114
+#: Controller/Super/SettingCategoriesController.php:47;72
+#: Controller/Super/SettingsController.php:72;100
+#: Controller/Super/StateReasonsController.php:65;90
+#: Controller/Super/TicketsController.php:70;97;129;161;205
+#: Controller/Super/TypeObligationsController.php:65;90
+#: Controller/Super/UnitManagersController.php:56;86
+#: Controller/Super/UsersController.php:128;157
+#: Controller/Super/ValueStagesController.php:87;114
+msgid "The {0} could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BaseCustomersController.php:159
+#: Controller/UsersController.php:626
+msgid "Información cliente"
+msgstr ""
+
+#: Controller/BaseCustomersController.php:161
+#: Controller/UsersController.php:628
+msgid "El cliente no cuenta con obligaciones para negociar."
+msgstr ""
+
+#: Controller/BaseCustomersController.php:172
+#: Controller/UsersController.php:632
+msgid "El cliente no se encuentra en la base."
+msgstr ""
+
+#: Controller/BaseCustomersController.php:300
+#: Controller/BaseObligationsController.php:80
+#: Controller/Asesor/CustomersController.php:40
+#: Controller/Coordinador/CustomersController.php:44
+msgid "Debe consultar el cliente..."
+msgstr ""
+
+#: Controller/BaseCustomersController.php:355
+#: Controller/Asesor/CustomersController.php:94
+#: Controller/Coordinador/CustomersController.php:97
+msgid "Información actualizada"
+msgstr ""
+
+#: Controller/BaseCustomersController.php:367
+#: Controller/Asesor/CustomersController.php:106
+#: Controller/Coordinador/CustomersController.php:109
+msgid "Error actualizando la información"
+msgstr ""
+
+#: Controller/BaseObligationsController.php:566
+#: Controller/Asesor/CommitteesController.php:216
+#: Controller/Coordinador/CommitteesController.php:235
+msgid "Negociación enviada al cliente."
+msgstr ""
+
+#: Controller/BaseObligationsController.php:576
+msgid "Error al generar la negociación."
+msgstr ""
+
+#: Controller/BaseObligationsController.php:832
+msgid "Propuesta enviada a comité"
+msgstr ""
+
+#: Controller/BaseObligationsController.php:838;846
+msgid "Error al enviar propuesta"
+msgstr ""
+
+#: Controller/BaseObligationsController.php:1119
+#: Controller/Component/DaviviendaComponent.php:111
+msgid "Su caso debe ser evaluado por un comité."
+msgstr ""
+
+#: Controller/BaseObligationsController.php:1120
+#: Controller/Component/DaviviendaComponent.php:112
+msgid "Lo sentimos, no tenemos ninguna oferta que se ajuste a su capacidad de pago."
+msgstr ""
+
+#: Controller/CityOfficesController.php:62;87
+#: Controller/Admin/AccessActivitiesController.php:86;113
+#: Controller/Admin/AccessGroupsController.php:65;93
+#: Controller/Admin/AccessLogsController.php:86;112
+#: Controller/Admin/AdjustedObligationsController.php:70;95
+#: Controller/Admin/AsesorController.php:125;184
+#: Controller/Admin/BusinessController.php:63;88
+#: Controller/Admin/ChargesController.php:69;94
+#: Controller/Admin/CoordinadorController.php:117;169
+#: Controller/Admin/CustomersController.php:60;86
+#: Controller/Admin/IpsGroupsController.php:64;90
+#: Controller/Admin/LogsController.php:75;102
+#: Controller/Admin/RolesController.php:61;86
+#: Controller/Admin/SettingCategoriesController.php:44;69
+#: Controller/Admin/SettingsController.php:69;97
+#: Controller/Admin/TicketsController.php:68;95;127;159;204
+#: Controller/Admin/TrainingResourcesController.php:78;105
+#: Controller/Admin/TrainingsController.php:62;87
+#: Controller/Admin/UnitManagersController.php:53;83
+#: Controller/Admin/UsersController.php:115;144
+#: Controller/Asesor/CityOfficesController.php:63;88
+#: Controller/Asesor/CommitteesController.php:87;114
+#: Controller/Asesor/HistoryCustomersController.php:66;93
+#: Controller/Asesor/TicketsController.php:134;162;210;242;268
+#: Controller/Coordinador/AsesorController.php:94;139
+#: Controller/Coordinador/CityOfficesController.php:63;88
+#: Controller/Coordinador/CommitteesController.php:107;134
+#: Controller/Coordinador/HistoryCustomersController.php:66;93
+#: Controller/Coordinador/TicketsController.php:94;123
+#: Controller/Coordinador/UsersController.php:112;141
+#: Controller/Super/AccessActivitiesController.php:86;113
+#: Controller/Super/AccessGroupsController.php:65;93
+#: Controller/Super/AccessLogsController.php:86;112
+#: Controller/Super/AdminsController.php:119;172
+#: Controller/Super/AnnualEffectiveRateTdcController.php:63;89
+#: Controller/Super/AsesorController.php:94;141
+#: Controller/Super/BiUsersController.php:62;110
+#: Controller/Super/BusinessController.php:64;91
+#: Controller/Super/BusinessUnitsController.php:62;87
+#: Controller/Super/CityOfficesController.php:62;87
+#: Controller/Super/CndCodesController.php:62;87
+#: Controller/Super/negotiationReasonController.php:65;90
+#: Controller/Super/ConditionsController.php:141;174
+#: Controller/Super/CoordinadorController.php:94;141
+#: Controller/Super/CustomerTypeIdentificationsController.php:60;85
+#: Controller/Super/CustomersController.php:60;86
+#: Controller/Super/ExternalCustomersController.php:95;147
+#: Controller/Super/InternalCustomersController.php:56;111
+#: Controller/Super/IpsGroupsController.php:64;90
+#: Controller/Super/LegalCodesController.php:62;87
+#: Controller/Super/OfficesController.php:85;111
+#: Controller/Super/ProductCodesController.php:62;87
+#: Controller/Super/RolesController.php:61;86
+#: Controller/Super/SchedulesController.php:85;111
+#: Controller/Super/SettingCategoriesController.php:44;69
+#: Controller/Super/SettingsController.php:69;97
+#: Controller/Super/StateReasonsController.php:62;87
+#: Controller/Super/TicketsController.php:67;94;126;158;203
+#: Controller/Super/TypeObligationsController.php:62;87
+#: Controller/Super/UnitManagersController.php:53;83
+#: Controller/Super/UsersController.php:125;154
+#: Controller/Super/ValueStagesController.php:84;111
+msgid "The {0} has been saved."
+msgstr ""
+
+#: Controller/CityOfficesController.php:109
+#: Controller/Admin/AccessActivitiesController.php:138
+#: Controller/Admin/AccessGroupsController.php:116
+#: Controller/Admin/AccessLogsController.php:136
+#: Controller/Admin/AdjustedObligationsController.php:117
+#: Controller/Admin/AsesorController.php:216
+#: Controller/Admin/BusinessController.php:110
+#: Controller/Admin/ChargesController.php:116
+#: Controller/Admin/CoordinadorController.php:200
+#: Controller/Admin/CustomersController.php:110
+#: Controller/Admin/IpsGroupsController.php:113
+#: Controller/Admin/LogsController.php:126
+#: Controller/Admin/RolesController.php:109
+#: Controller/Admin/SettingCategoriesController.php:92
+#: Controller/Admin/SettingsController.php:123
+#: Controller/Admin/TicketsController.php:183
+#: Controller/Admin/TrainingResourcesController.php:128
+#: Controller/Admin/TrainingsController.php:109
+#: Controller/Admin/UnitManagersController.php:108
+#: Controller/Admin/UsersController.php:168
+#: Controller/Asesor/CityOfficesController.php:110
+#: Controller/Asesor/CommitteesController.php:138
+#: Controller/Asesor/HistoryCustomersController.php:117
+#: Controller/Asesor/TicketsController.php:185
+#: Controller/Coordinador/AsesorController.php:162
+#: Controller/Coordinador/CityOfficesController.php:110
+#: Controller/Coordinador/HistoryCustomersController.php:117
+#: Controller/Coordinador/TicketsController.php:146
+#: Controller/Coordinador/UsersController.php:165
+#: Controller/Super/AccessActivitiesController.php:138
+#: Controller/Super/AccessGroupsController.php:116
+#: Controller/Super/AccessLogsController.php:136
+#: Controller/Super/AdminsController.php:198
+#: Controller/Super/AnnualEffectiveRateTdcController.php:111
+#: Controller/Super/AsesorController.php:166
+#: Controller/Super/BiUsersController.php:147
+#: Controller/Super/BusinessController.php:114
+#: Controller/Super/BusinessUnitsController.php:111
+#: Controller/Super/CityOfficesController.php:109
+#: Controller/Super/CndCodesController.php:109
+#: Controller/Super/negotiationReasonController.php:109
+#: Controller/Super/ConditionsController.php:204
+#: Controller/Super/CoordinadorController.php:166
+#: Controller/Super/CustomerTypeIdentificationsController.php:107
+#: Controller/Super/CustomersController.php:110
+#: Controller/Super/ExternalCustomersController.php:171
+#: Controller/Super/InternalCustomersController.php:146
+#: Controller/Super/IpsGroupsController.php:113
+#: Controller/Super/LegalCodesController.php:109
+#: Controller/Super/OfficesController.php:134
+#: Controller/Super/ProductCodesController.php:109
+#: Controller/Super/RolesController.php:109
+#: Controller/Super/SchedulesController.php:134
+#: Controller/Super/SettingCategoriesController.php:92
+#: Controller/Super/SettingsController.php:123
+#: Controller/Super/StateReasonsController.php:109
+#: Controller/Super/TicketsController.php:182
+#: Controller/Super/TypeObligationsController.php:109
+#: Controller/Super/UnitManagersController.php:108
+#: Controller/Super/UsersController.php:178
+#: Controller/Super/ValueStagesController.php:135
+msgid "The {0} has been deleted."
+msgstr ""
+
+#: Controller/CityOfficesController.php:111
+#: Controller/Admin/AccessActivitiesController.php:140
+#: Controller/Admin/AccessGroupsController.php:118
+#: Controller/Admin/AccessLogsController.php:138
+#: Controller/Admin/AdjustedObligationsController.php:119
+#: Controller/Admin/AsesorController.php:218
+#: Controller/Admin/BusinessController.php:112
+#: Controller/Admin/ChargesController.php:118
+#: Controller/Admin/CoordinadorController.php:202
+#: Controller/Admin/CustomersController.php:112
+#: Controller/Admin/IpsGroupsController.php:115
+#: Controller/Admin/LogsController.php:128
+#: Controller/Admin/RolesController.php:111
+#: Controller/Admin/SettingCategoriesController.php:94
+#: Controller/Admin/SettingsController.php:125
+#: Controller/Admin/TicketsController.php:185
+#: Controller/Admin/TrainingResourcesController.php:130
+#: Controller/Admin/TrainingsController.php:111
+#: Controller/Admin/UnitManagersController.php:110
+#: Controller/Admin/UsersController.php:170
+#: Controller/Asesor/CityOfficesController.php:112
+#: Controller/Asesor/CommitteesController.php:140
+#: Controller/Asesor/HistoryCustomersController.php:119
+#: Controller/Asesor/TicketsController.php:187
+#: Controller/Coordinador/AsesorController.php:164
+#: Controller/Coordinador/CityOfficesController.php:112
+#: Controller/Coordinador/HistoryCustomersController.php:119
+#: Controller/Coordinador/TicketsController.php:148
+#: Controller/Coordinador/UsersController.php:167
+#: Controller/Super/AccessActivitiesController.php:140
+#: Controller/Super/AccessGroupsController.php:118
+#: Controller/Super/AccessLogsController.php:138
+#: Controller/Super/AdminsController.php:200
+#: Controller/Super/AnnualEffectiveRateTdcController.php:113
+#: Controller/Super/AsesorController.php:168
+#: Controller/Super/BiUsersController.php:149
+#: Controller/Super/BusinessController.php:116
+#: Controller/Super/BusinessUnitsController.php:113
+#: Controller/Super/CityOfficesController.php:111
+#: Controller/Super/CndCodesController.php:111
+#: Controller/Super/negotiationReasonController.php:111
+#: Controller/Super/ConditionsController.php:206
+#: Controller/Super/CoordinadorController.php:168
+#: Controller/Super/CustomerTypeIdentificationsController.php:109
+#: Controller/Super/CustomersController.php:112
+#: Controller/Super/ExternalCustomersController.php:173
+#: Controller/Super/InternalCustomersController.php:148
+#: Controller/Super/IpsGroupsController.php:115
+#: Controller/Super/LegalCodesController.php:111
+#: Controller/Super/OfficesController.php:136
+#: Controller/Super/ProductCodesController.php:111
+#: Controller/Super/RolesController.php:111
+#: Controller/Super/SchedulesController.php:136
+#: Controller/Super/SettingCategoriesController.php:94
+#: Controller/Super/SettingsController.php:125
+#: Controller/Super/StateReasonsController.php:111
+#: Controller/Super/TicketsController.php:184
+#: Controller/Super/TypeObligationsController.php:111
+#: Controller/Super/UnitManagersController.php:110
+#: Controller/Super/UsersController.php:180
+#: Controller/Super/ValueStagesController.php:137
+msgid "The {0} could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:84
+#: Controller/Asesor/UsersController.php:73
+msgid "Access denied by location"
+msgstr ""
+
+#: Controller/UsersController.php:94
+#: Controller/Asesor/UsersController.php:83
+msgid "Invalid email or token"
+msgstr ""
+
+#: Controller/UsersController.php:125;128
+#: Controller/Asesor/UsersController.php:114;117
+msgid "Token sent to registered mobile"
+msgstr ""
+
+#: Controller/UsersController.php:132
+#: Controller/Asesor/UsersController.php:121
+msgid "Invalid email. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:197
+#: Controller/Asesor/UsersController.php:186
+msgid "The Profile has been saved."
+msgstr ""
+
+#: Controller/Admin/AccessActivitiesController.php:143
+#: Controller/Admin/AccessGroupsController.php:121
+#: Controller/Admin/AccessLogsController.php:141
+#: Controller/Admin/CustomersController.php:115
+#: Controller/Admin/IpsGroupsController.php:118
+#: Controller/Admin/RolesController.php:114
+#: Controller/Admin/SettingCategoriesController.php:97
+#: Controller/Admin/SettingsController.php:128
+#: Controller/Admin/UnitManagersController.php:113
+#: Controller/Admin/UsersController.php:173
+#: Controller/Coordinador/UsersController.php:170
+#: Controller/Super/AccessActivitiesController.php:143
+#: Controller/Super/AccessGroupsController.php:121
+#: Controller/Super/AccessLogsController.php:141
+#: Controller/Super/AdminsController.php:203
+#: Controller/Super/BiUsersController.php:152
+#: Controller/Super/BusinessUnitsController.php:116
+#: Controller/Super/CustomersController.php:115
+#: Controller/Super/ExternalCustomersController.php:176
+#: Controller/Super/InternalCustomersController.php:151
+#: Controller/Super/IpsGroupsController.php:118
+#: Controller/Super/RolesController.php:114
+#: Controller/Super/SettingCategoriesController.php:97
+#: Controller/Super/SettingsController.php:128
+#: Controller/Super/UnitManagersController.php:113
+#: Controller/Super/UsersController.php:183
+msgid "Delete failed. "
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:40
+#: Controller/Admin/CoordinadorController.php:40
+msgid "No business selected. Please, try again."
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:146
+#: Controller/Admin/CoordinadorController.php:122
+#: Controller/Coordinador/AsesorController.php:99
+#: Controller/Super/AdminsController.php:141
+#: Controller/Super/AsesorController.php:99
+#: Controller/Super/CoordinadorController.php:99
+msgid "Clave de acceso Dataweb"
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:150
+#: Controller/Admin/CoordinadorController.php:126
+#: Controller/Coordinador/AsesorController.php:103
+#: Controller/Super/AdminsController.php:145
+#: Controller/Super/AsesorController.php:103
+#: Controller/Super/CoordinadorController.php:103
+msgid "Su datos de acceso al sistema Dataweb son :"
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:235
+#: Controller/Admin/CoordinadorController.php:224
+#: Controller/Admin/UnitManagersController.php:130
+#: Controller/Admin/UsersController.php:190
+#: Controller/Coordinador/AsesorController.php:181
+#: Controller/Coordinador/UsersController.php:187
+#: Controller/Super/AdminsController.php:220
+#: Controller/Super/AsesorController.php:185
+#: Controller/Super/BiUsersController.php:169
+#: Controller/Super/CoordinadorController.php:185
+#: Controller/Super/ExternalCustomersController.php:193
+#: Controller/Super/InternalCustomersController.php:168
+#: Controller/Super/UnitManagersController.php:130
+#: Controller/Super/UsersController.php:200
+msgid "The {0}: {1} has been archivated."
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:237
+#: Controller/Admin/CoordinadorController.php:226
+#: Controller/Admin/UnitManagersController.php:132
+#: Controller/Admin/UsersController.php:192
+#: Controller/Coordinador/AsesorController.php:183
+#: Controller/Coordinador/UsersController.php:189
+#: Controller/Super/AdminsController.php:222
+#: Controller/Super/AsesorController.php:187
+#: Controller/Super/BiUsersController.php:171
+#: Controller/Super/CoordinadorController.php:187
+#: Controller/Super/ExternalCustomersController.php:195
+#: Controller/Super/InternalCustomersController.php:170
+#: Controller/Super/UnitManagersController.php:132
+#: Controller/Super/UsersController.php:202
+msgid "The {0} could not be archivated. Please, try again."
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:261
+#: Controller/Admin/CoordinadorController.php:251
+#: Controller/Super/AdminsController.php:242
+#: Controller/Super/UsersController.php:222
+msgid "password reset"
+msgstr ""
+
+#: Controller/Admin/AsesorController.php:263
+#: Controller/Admin/CoordinadorController.php:253
+#: Controller/Super/AdminsController.php:245
+#: Controller/Super/UsersController.php:225
+msgid "password no reset"
+msgstr ""
+
+#: Controller/Admin/IpsGroupsController.php:29
+#: Controller/Super/IpsGroupsController.php:29
+msgid "No Access Group selected. Please, try again."
+msgstr ""
+
+#: Controller/Admin/LogsController.php:171;398
+#: Template/Asesor/Committees/view.ctp:42;119
+#: Template/Asesor/Customers/consult.ctp:340
+#: Template/Asesor/Customers/information.ctp:80;214
+#: Template/Coordinador/Committees/view.ctp:45;123
+#: Template/Coordinador/Customers/consult-bk.ctp:346
+#: Template/Coordinador/Customers/information.ctp:80;214
+#: Template/Coordinador/HistoryCustomers/view.ctp:28;69
+#: Template/Customers/consult.ctp:463
+#: Template/Customers/information.ctp:80;214
+#: Template/HistoryCustomers/view.ctp:30;73
+#: Template/Obligations/oferta.ctp:26;249;350
+#: Template/Obligations/oferta_vehiculo.ctp:28
+#: Template/Obligations/pago_total_vehiculo.ctp:30
+#: Template/Obligations/resumen.ctp:24;61;109;192;237;342
+msgid "Obligación"
+msgstr ""
+
+#: Controller/Admin/SettingsController.php:151
+#: Controller/Super/SettingsController.php:151
+msgid "Settings saved."
+msgstr ""
+
+#: Controller/Admin/TrainingResourcesController.php:27
+msgid "No Access Training selected. Please, try again."
+msgstr ""
+
+#: Controller/Asesor/CommitteesController.php:276
+#: Controller/Coordinador/CommitteesController.php:308
+msgid "Negociación rechazada."
+msgstr ""
+
+#: Controller/Component/DaviviendaComponent.php:113
+msgid "Esta negociación se encuentra en zona gris."
+msgstr ""
+
+#: Controller/Super/ConditionsController.php:79
+msgid "No condition selected. Please, try again."
+msgstr ""
+
+#: Controller/Super/ConditionsController.php:228
+msgid "{0} have been sorted."
+msgstr ""
+
+#: Controller/Super/ConditionsController.php:228
+msgid "Condition"
+msgstr ""
+
+#: Controller/Super/ExternalCustomersController.php:81
+msgid "No customer selected"
+msgstr ""
+
+#: Controller/Super/OfficesController.php:33
+msgid "No city selected. Please, try again."
+msgstr ""
+
+#: Controller/Super/SchedulesController.php:33
+msgid "No office selected. Please, try again."
+msgstr ""
+
+#: Controller/Super/ValueStagesController.php:33
+msgid "No estapa selected. Please, try again."
+msgstr ""
+
+#: Model/Behavior/BeforeDeleteBehavior.php:48
+msgid "There are %s linked to this record."
+msgstr ""
+
+#: Model/Table/AsesorTable.php:134
+#: Model/Table/CoordinadorTable.php:178
+msgid "The code manager has already been taken"
+msgstr ""
+
+#: Model/Table/AttachmentsTable.php:116
+msgid "These files extension are allowed: .gif, .jpg, .jpeg, .png"
+msgstr ""
+
+#: Model/Table/ChargesTable.php:140
+msgid "These files extension are allowed: .csv, .zip"
+msgstr ""
+
+#: Model/Table/DocumentsTable.php:106
+msgid "File is required"
+msgstr ""
+
+#: Model/Table/DocumentsTable.php:111
+msgid "These files extension are allowed: .pdf, .txt, .zip, .csv, .xls, .xlsx"
+msgstr ""
+
+#: Template/Admin/AccessActivities/index.ctp:9
+#: Template/Super/AccessActivities/index.ctp:9
+msgid "Access Activities"
+msgstr ""
+
+#: Template/Admin/AccessActivities/index.ctp:11;13
+#: Template/Admin/AccessGroups/index.ctp:14;16
+#: Template/Admin/AccessLogs/index.ctp:11;13
+#: Template/Admin/AdjustedObligations/index.ctp:17;19
+#: Template/Admin/Asesor/index.ctp:16;18
+#: Template/Admin/Audits/index.ctp:11;13
+#: Template/Admin/Business/index.ctp:12;14;16
+#: Template/Admin/Business/reportusers.ctp:12;14
+#: Template/Admin/Charges/index.ctp:13;15
+#: Template/Admin/Coordinador/index.ctp:16;18
+#: Template/Admin/Customers/index.ctp:15;17
+#: Template/Admin/IpsGroups/index.ctp:20;22
+#: Template/Admin/Logs/index.ctp:13;15
+#: Template/Admin/Roles/index.ctp:15;17
+#: Template/Admin/SettingCategories/index.ctp:13;15
+#: Template/Admin/Settings/index.ctp:13;15
+#: Template/Admin/Settings/update.ctp:10;12
+#: Template/Admin/Tickets/index.ctp:13;15
+#: Template/Admin/TrainingResources/index.ctp:13;15
+#: Template/Admin/Trainings/index.ctp:13;15
+#: Template/Admin/Users/index.ctp:15;17
+#: Template/Asesor/Committees/index.ctp:10;12
+#: Template/Bake/Template/index.ctp:21;23
+#: Template/Coordinador/Asesor/index.ctp:39;41
+#: Template/Coordinador/Committees/index.ctp:10;12
+#: Template/Coordinador/Users/index.ctp:27;29
+#: Template/Super/AccessActivities/index.ctp:11;13
+#: Template/Super/AccessGroups/index.ctp:14;16
+#: Template/Super/AccessLogs/index.ctp:11;13
+#: Template/Super/Admins/index.ctp:23;25
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:13;15
+#: Template/Super/Asesor/index.ctp:39;41
+#: Template/Super/Audits/index.ctp:11;13
+#: Template/Super/Business/index.ctp:13;15
+#: Template/Super/CityOffices/index.ctp:13;15
+#: Template/Super/CndCodes/index.ctp:13;15
+#: Template/Super/negotiationReason/index.ctp:13;15
+#: Template/Super/Conditions/index.ctp:19;21
+#: Template/Super/Conditions/index_hp.ctp:19;21
+#: Template/Super/Coordinador/index.ctp:16;18
+#: Template/Super/CustomerTypeIdentifications/index.ctp:13;15
+#: Template/Super/Customers/index.ctp:15;17
+#: Template/Super/IpsGroups/index.ctp:20;22
+#: Template/Super/LegalCodes/index.ctp:13;15
+#: Template/Super/Offices/index.ctp:15;17
+#: Template/Super/ProductCodes/index.ctp:13;15
+#: Template/Super/Roles/index.ctp:15;17
+#: Template/Super/Schedules/index.ctp:15;17
+#: Template/Super/SettingCategories/index.ctp:13;15
+#: Template/Super/Settings/index.ctp:13;15
+#: Template/Super/Settings/update.ctp:10;12
+#: Template/Super/StateReasons/index.ctp:13;15
+#: Template/Super/Tickets/index.ctp:10;12
+#: Template/Super/TypeObligations/index.ctp:10;12
+#: Template/Super/Users/index.ctp:23;25
+#: Template/Super/ValueStages/index.ctp:15;17
+#: Template/Tickets/admin.ctp:13;15
+#: Template/Tickets/index.ctp:13;15
+#: Template/TypeObligations/index.ctp:13;15
+msgid "Refresh"
+msgstr ""
+
+#: Template/Admin/AccessActivities/index.ctp:34
+#: Template/Admin/AccessLogs/index.ctp:36
+#: Template/Admin/Audits/index.ctp:36
+#: Template/Admin/Logs/view.ctp:12
+#: Template/Admin/Tickets/view.ctp:16
+#: Template/Layout/default.ctp:178
+#: Template/Super/AccessActivities/index.ctp:34
+#: Template/Super/AccessLogs/index.ctp:36
+#: Template/Super/Audits/index.ctp:36
+#: Template/Super/Element/search/access_logs.ctp:53
+#: Template/Super/Tickets/view.ctp:16
+#: Template/Tickets/view.ctp:14
+msgid "User"
+msgstr ""
+
+#: Template/Admin/AccessActivities/index.ctp:35
+#: Template/Admin/AccessLogs/view.ctp:43
+#: Template/Admin/Audits/view.ctp:20
+#: Template/Super/AccessActivities/index.ctp:35
+#: Template/Super/AccessLogs/view.ctp:43
+#: Template/Super/Audits/view.ctp:20
+msgid "Model"
+msgstr ""
+
+#: Template/Admin/AccessActivities/index.ctp:37
+#: Template/Admin/AccessGroups/index.ctp:38
+#: Template/Admin/AccessGroups/view.ctp:16
+#: Template/Admin/Audits/view.ctp:26
+#: Template/Admin/SettingCategories/index.ctp:37
+#: Template/Admin/Tickets/view.ctp:26
+#: Template/Admin/Trainings/view.ctp:14
+#: Template/Asesor/Trainings/view.ctp:14
+#: Template/Super/AccessActivities/index.ctp:37
+#: Template/Super/AccessGroups/index.ctp:38
+#: Template/Super/AccessGroups/view.ctp:16
+#: Template/Super/Audits/view.ctp:26
+#: Template/Super/LegalCodes/view.ctp:18
+#: Template/Super/ProductCodes/view.ctp:12
+#: Template/Super/SettingCategories/index.ctp:37
+#: Template/Super/Tickets/view.ctp:26
+#: Template/Super/TypeObligations/view.ctp:14
+#: Template/Tickets/view.ctp:20
+#: Template/TypeObligations/view.ctp:14
+msgid "Description"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:6
+#: Template/Admin/AccessGroups/edit.ctp:6
+#: Template/Admin/AccessGroups/index.ctp:9
+#: Template/Super/AccessGroups/add.ctp:6
+#: Template/Super/AccessGroups/edit.ctp:6
+#: Template/Super/AccessGroups/index.ctp:9
+#: Template/Super/Element/aside/sidebar-menu.ctp:131
+msgid "Access Groups"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:7;71
+#: Template/Admin/AccessGroups/index.ctp:11;13
+#: Template/Admin/AdjustedObligations/add.ctp:7
+#: Template/Admin/Asesor/add.ctp:8
+#: Template/Admin/Asesor/index.ctp:14;15
+#: Template/Admin/BiUsers/add.ctp:9
+#: Template/Admin/Business/add.ctp:7
+#: Template/Admin/Charges/add.ctp:7
+#: Template/Admin/Charges/index.ctp:10;12
+#: Template/Admin/Coordinador/add.ctp:8
+#: Template/Admin/Coordinador/index.ctp:14;15
+#: Template/Admin/Customers/add.ctp:8
+#: Template/Admin/Customers/index.ctp:12;14
+#: Template/Admin/ExternalCustomers/add.ctp:10
+#: Template/Admin/InternalCustomers/add.ctp:9
+#: Template/Admin/IpsGroups/add.ctp:9
+#: Template/Admin/IpsGroups/index.ctp:17;19
+#: Template/Admin/Logs/add.ctp:7
+#: Template/Admin/Roles/add.ctp:7
+#: Template/Admin/Roles/index.ctp:12;14
+#: Template/Admin/SettingCategories/add.ctp:7
+#: Template/Admin/SettingCategories/index.ctp:10;12
+#: Template/Admin/Settings/add.ctp:9
+#: Template/Admin/Settings/index.ctp:10;12
+#: Template/Admin/Tickets/add.ctp:7
+#: Template/Admin/TrainingResources/add.ctp:7
+#: Template/Admin/TrainingResources/index.ctp:10;12
+#: Template/Admin/Trainings/add.ctp:7
+#: Template/Admin/Trainings/index.ctp:10;12
+#: Template/Admin/UnitManagers/add.ctp:9
+#: Template/Admin/Users/add.ctp:8
+#: Template/Asesor/Committees/add.ctp:7
+#: Template/Bake/Template/index.ctp:18;20
+#: Template/Coordinador/Asesor/add.ctp:8
+#: Template/Coordinador/Asesor/index.ctp:11;12
+#: Template/Coordinador/Committees/add.ctp:7
+#: Template/Coordinador/Users/add.ctp:8
+#: Template/Coordinador/Users/index.ctp:11;12
+#: Template/Super/AccessGroups/add.ctp:7;72
+#: Template/Super/AccessGroups/index.ctp:11;13
+#: Template/Super/Admins/add.ctp:8
+#: Template/Super/Admins/index.ctp:11;12
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:7
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:10;12
+#: Template/Super/Asesor/add.ctp:8
+#: Template/Super/Asesor/index.ctp:11;12
+#: Template/Super/Business/add.ctp:7
+#: Template/Super/Business/index.ctp:10;12
+#: Template/Super/CityOffices/add.ctp:7
+#: Template/Super/CityOffices/index.ctp:10;12
+#: Template/Super/CndCodes/add.ctp:7
+#: Template/Super/CndCodes/index.ctp:10;12
+#: Template/Super/negotiationReason/add.ctp:7
+#: Template/Super/negotiationReason/index.ctp:10;12
+#: Template/Super/Conditions/add.ctp:8
+#: Template/Super/Conditions/index.ctp:14;16;18
+#: Template/Super/Conditions/index_hp.ctp:14;16;18
+#: Template/Super/Coordinador/add.ctp:8
+#: Template/Super/Coordinador/index.ctp:14;15
+#: Template/Super/CustomerTypeIdentifications/add.ctp:7
+#: Template/Super/CustomerTypeIdentifications/index.ctp:10;12
+#: Template/Super/Customers/add.ctp:8
+#: Template/Super/Customers/index.ctp:12;14
+#: Template/Super/ExternalCustomers/add.ctp:10
+#: Template/Super/InternalCustomers/add.ctp:9
+#: Template/Super/IpsGroups/add.ctp:9
+#: Template/Super/IpsGroups/index.ctp:17;19
+#: Template/Super/LegalCodes/add.ctp:7
+#: Template/Super/LegalCodes/index.ctp:10;12
+#: Template/Super/Offices/add.ctp:7;53
+#: Template/Super/Offices/index.ctp:12;14
+#: Template/Super/ProductCodes/add.ctp:7
+#: Template/Super/ProductCodes/index.ctp:10;12
+#: Template/Super/Roles/add.ctp:7
+#: Template/Super/Roles/index.ctp:12;14
+#: Template/Super/Schedules/add.ctp:7
+#: Template/Super/Schedules/index.ctp:12;14
+#: Template/Super/SettingCategories/add.ctp:7
+#: Template/Super/SettingCategories/index.ctp:10;12
+#: Template/Super/Settings/add.ctp:9
+#: Template/Super/Settings/index.ctp:10;12
+#: Template/Super/StateReasons/add.ctp:7
+#: Template/Super/StateReasons/index.ctp:10;12
+#: Template/Super/Tickets/add.ctp:7
+#: Template/Super/TypeObligations/add.ctp:7
+#: Template/Super/UnitManagers/add.ctp:9
+#: Template/Super/Users/add.ctp:8
+#: Template/Super/Users/index.ctp:11;12
+#: Template/Super/ValueStages/add.ctp:7
+#: Template/Super/ValueStages/index.ctp:12;14
+#: Template/Tickets/add.ctp:7
+#: Template/Tickets/admin.ctp:10;12
+#: Template/Tickets/index.ctp:10;12
+#: Template/TypeObligations/add.ctp:7
+#: Template/TypeObligations/index.ctp:10;12
+msgid "Add"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:10;11
+#: Template/Admin/AccessGroups/edit.ctp:10;11
+#: Template/Admin/AdjustedObligations/add.ctp:10;11
+#: Template/Admin/AdjustedObligations/edit.ctp:15;16
+#: Template/Admin/AdjustedObligations/index.ctp:11;12
+#: Template/Admin/Asesor/add.ctp:11;12
+#: Template/Admin/Asesor/edit.ctp:11;12
+#: Template/Admin/Asesor/inactivate.ctp:11;12
+#: Template/Admin/Asesor/index.ctp:12;13
+#: Template/Admin/BiUsers/add.ctp:12;13
+#: Template/Admin/BiUsers/edit.ctp:12;13
+#: Template/Admin/Business/add.ctp:10;11
+#: Template/Admin/Business/edit.ctp:15;16
+#: Template/Admin/Business/reportusers.ctp:10;11
+#: Template/Admin/Charges/add.ctp:10;11
+#: Template/Admin/Charges/edit.ctp:15;16
+#: Template/Admin/Coordinador/add.ctp:11;12
+#: Template/Admin/Coordinador/edit.ctp:11;12
+#: Template/Admin/Coordinador/inactivate.ctp:11;12
+#: Template/Admin/Coordinador/index.ctp:12;13
+#: Template/Admin/Customers/add.ctp:11;12
+#: Template/Admin/Customers/edit.ctp:11;12
+#: Template/Admin/ExternalCustomers/add.ctp:13;14
+#: Template/Admin/ExternalCustomers/edit.ctp:12;13
+#: Template/Admin/InternalCustomers/add.ctp:12;13
+#: Template/Admin/InternalCustomers/edit.ctp:12;13
+#: Template/Admin/IpsGroups/add.ctp:12;14
+#: Template/Admin/IpsGroups/edit.ctp:12;14
+#: Template/Admin/IpsGroups/index.ctp:14;16
+#: Template/Admin/Logs/add.ctp:10;11
+#: Template/Admin/Logs/edit.ctp:15;16
+#: Template/Admin/Roles/add.ctp:10;11
+#: Template/Admin/Roles/edit.ctp:10;11
+#: Template/Admin/SettingCategories/add.ctp:10;11
+#: Template/Admin/SettingCategories/edit.ctp:15;16
+#: Template/Admin/Settings/add.ctp:12;13
+#: Template/Admin/Settings/edit.ctp:10;11
+#: Template/Admin/Tickets/add.ctp:10;11
+#: Template/Admin/Tickets/edit.ctp:15;16
+#: Template/Admin/TrainingResources/add.ctp:10;11
+#: Template/Admin/TrainingResources/edit.ctp:15;16
+#: Template/Admin/Trainings/add.ctp:10;11
+#: Template/Admin/Trainings/edit.ctp:15;16
+#: Template/Admin/UnitManagers/add.ctp:12;13
+#: Template/Admin/UnitManagers/edit.ctp:12;13
+#: Template/Admin/Users/add.ctp:11;12
+#: Template/Admin/Users/edit.ctp:11;12
+#: Template/Admin/Users/inactivate.ctp:11;12
+#: Template/Asesor/Committees/add.ctp:10;11
+#: Template/Asesor/Committees/edit.ctp:15;16
+#: Template/Asesor/Layout/_error.ctp:43
+#: Template/Bake/Element/form.ctp:13;14
+#: Template/Coordinador/Asesor/add.ctp:11;12
+#: Template/Coordinador/Asesor/edit.ctp:11;12
+#: Template/Coordinador/Asesor/inactivate.ctp:11;12
+#: Template/Coordinador/Committees/add.ctp:10;11
+#: Template/Coordinador/Committees/edit.ctp:15;16
+#: Template/Coordinador/Users/add.ctp:11;12
+#: Template/Coordinador/Users/edit.ctp:11;12
+#: Template/Coordinador/Users/inactivate.ctp:11;12
+#: Template/Layout/_error.ctp:43
+#: Template/Super/AccessGroups/add.ctp:10;11
+#: Template/Super/AccessGroups/edit.ctp:10;11
+#: Template/Super/Admins/add.ctp:11;12
+#: Template/Super/Admins/edit.ctp:11;12
+#: Template/Super/Admins/inactivate.ctp:11;12
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:10;11
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:15;16
+#: Template/Super/Asesor/add.ctp:11;12
+#: Template/Super/Asesor/edit.ctp:21;22
+#: Template/Super/Asesor/inactivate.ctp:11;12
+#: Template/Super/Business/add.ctp:10;11
+#: Template/Super/Business/edit.ctp:15;16
+#: Template/Super/CityOffices/add.ctp:10;11
+#: Template/Super/CityOffices/edit.ctp:15;16
+#: Template/Super/CndCodes/add.ctp:10;11
+#: Template/Super/CndCodes/edit.ctp:15;16
+#: Template/Super/Conditions/add.ctp:11;13
+#: Template/Super/Conditions/edit.ctp:15;17
+#: Template/Super/Conditions/index.ctp:12
+#: Template/Super/Conditions/index_hp.ctp:12
+#: Template/Super/Conditions/sort.ctp:11;12
+#: Template/Super/Coordinador/add.ctp:11;12
+#: Template/Super/Coordinador/edit.ctp:21;22
+#: Template/Super/Coordinador/inactivate.ctp:11;12
+#: Template/Super/Coordinador/index.ctp:12;13
+#: Template/Super/CustomerTypeIdentifications/add.ctp:10;11
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:15;16
+#: Template/Super/Customers/add.ctp:11;12
+#: Template/Super/Customers/edit.ctp:11;12
+#: Template/Super/ExternalCustomers/add.ctp:13;14
+#: Template/Super/ExternalCustomers/edit.ctp:12;13
+#: Template/Super/InternalCustomers/add.ctp:12;13
+#: Template/Super/InternalCustomers/edit.ctp:12;13
+#: Template/Super/IpsGroups/add.ctp:12;14
+#: Template/Super/IpsGroups/edit.ctp:12;14
+#: Template/Super/IpsGroups/index.ctp:14;16
+#: Template/Super/LegalCodes/add.ctp:10;11
+#: Template/Super/LegalCodes/edit.ctp:15;16
+#: Template/Super/Offices/add.ctp:10;11
+#: Template/Super/Offices/edit.ctp:15;16
+#: Template/Super/Offices/index.ctp:10;11
+#: Template/Super/ProductCodes/add.ctp:10;11
+#: Template/Super/ProductCodes/edit.ctp:15;16
+#: Template/Super/Roles/add.ctp:10;11
+#: Template/Super/Roles/edit.ctp:10;11
+#: Template/Super/Schedules/add.ctp:10;11
+#: Template/Super/Schedules/edit.ctp:15;16
+#: Template/Super/Schedules/index.ctp:10;11
+#: Template/Super/SettingCategories/add.ctp:10;11
+#: Template/Super/SettingCategories/edit.ctp:15;16
+#: Template/Super/Settings/add.ctp:12;13
+#: Template/Super/Settings/edit.ctp:10;11
+#: Template/Super/StateReasons/add.ctp:10;11
+#: Template/Super/StateReasons/edit.ctp:15;16
+#: Template/Super/Tickets/add.ctp:10;11
+#: Template/Super/Tickets/edit.ctp:15;16
+#: Template/Super/TypeObligations/add.ctp:10;11
+#: Template/Super/TypeObligations/edit.ctp:15;16
+#: Template/Super/UnitManagers/add.ctp:12;13
+#: Template/Super/UnitManagers/edit.ctp:12;13
+#: Template/Super/Users/add.ctp:11;12
+#: Template/Super/Users/edit.ctp:11;12
+#: Template/Super/Users/inactivate.ctp:11;12
+#: Template/Super/ValueStages/add.ctp:10;11
+#: Template/Super/ValueStages/edit.ctp:15;16
+#: Template/Super/ValueStages/index.ctp:10;11
+#: Template/Tickets/add.ctp:10;11
+#: Template/Tickets/developing.ctp:15;16
+#: Template/Tickets/edit.ctp:15;16
+#: Template/Tickets/solve.ctp:15;16
+#: Template/TypeObligations/add.ctp:10;11
+#: Template/TypeObligations/edit.ctp:15;16
+#: Template/Users/profile.ctp:10;11
+msgid "Back"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:24
+#: Template/Admin/AccessGroups/edit.ctp:24
+#: Template/Admin/AccessGroups/view.ctp:7
+#: Template/Super/AccessGroups/add.ctp:24
+#: Template/Super/AccessGroups/edit.ctp:24
+#: Template/Super/AccessGroups/view.ctp:7
+msgid "Access Group Information"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:63
+#: Template/Super/AccessGroups/add.ctp:64
+msgid "Ips"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:67
+#: Template/Admin/AccessGroups/view.ctp:12
+#: Template/Admin/Asesor/inactivate.ctp:37
+#: Template/Admin/Business/view.ctp:12
+#: Template/Admin/Coordinador/inactivate.ctp:37
+#: Template/Admin/Customers/view.ctp:12
+#: Template/Admin/Roles/view.ctp:12
+#: Template/Admin/Trainings/view.ctp:12
+#: Template/Admin/Users/inactivate.ctp:37
+#: Template/Asesor/Committees/index.ctp:33
+#: Template/Asesor/Trainings/view.ctp:12
+#: Template/Coordinador/Asesor/inactivate.ctp:37
+#: Template/Coordinador/Committees/index.ctp:33
+#: Template/Coordinador/Users/inactivate.ctp:37
+#: Template/Super/AccessGroups/add.ctp:68
+#: Template/Super/AccessGroups/view.ctp:12
+#: Template/Super/Admins/inactivate.ctp:37
+#: Template/Super/Asesor/inactivate.ctp:37
+#: Template/Super/Business/view.ctp:12
+#: Template/Super/CityOffices/view.ctp:12
+#: Template/Super/Coordinador/inactivate.ctp:37
+#: Template/Super/Customers/view.ctp:12
+#: Template/Super/Offices/view.ctp:12
+#: Template/Super/Roles/view.ctp:12
+#: Template/Super/Users/inactivate.ctp:37
+#: Template/Users/profile.ctp:36
+msgid "Name"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:68
+#: Template/Super/AccessGroups/add.ctp:69
+msgid "IP"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:92
+#: Template/Admin/AccessGroups/edit.ctp:43
+#: Template/Admin/AdjustedObligations/add.ctp:58
+#: Template/Admin/AdjustedObligations/edit.ctp:63
+#: Template/Admin/Asesor/add.ctp:56
+#: Template/Admin/Asesor/edit.ctp:72
+#: Template/Admin/Asesor/inactivate.ctp:78
+#: Template/Admin/BiUsers/add.ctp:145
+#: Template/Admin/BiUsers/edit.ctp:169
+#: Template/Admin/Business/add.ctp:41
+#: Template/Admin/Business/edit.ctp:46
+#: Template/Admin/Charges/add.ctp:45
+#: Template/Admin/Charges/edit.ctp:46
+#: Template/Admin/Coordinador/add.ctp:56
+#: Template/Admin/Coordinador/edit.ctp:70
+#: Template/Admin/Coordinador/inactivate.ctp:78
+#: Template/Admin/Customers/add.ctp:64
+#: Template/Admin/Customers/edit.ctp:64
+#: Template/Admin/ExternalCustomers/add.ctp:157
+#: Template/Admin/ExternalCustomers/edit.ctp:179
+#: Template/Admin/InternalCustomers/add.ctp:148
+#: Template/Admin/InternalCustomers/edit.ctp:172
+#: Template/Admin/IpsGroups/add.ctp:48
+#: Template/Admin/IpsGroups/edit.ctp:48
+#: Template/Admin/Logs/add.ctp:42
+#: Template/Admin/Logs/edit.ctp:47
+#: Template/Admin/Roles/add.ctp:42
+#: Template/Admin/Roles/edit.ctp:42
+#: Template/Admin/SettingCategories/add.ctp:42
+#: Template/Admin/SettingCategories/edit.ctp:47
+#: Template/Admin/Settings/add.ctp:51
+#: Template/Admin/Settings/edit.ctp:49
+#: Template/Admin/Settings/update.ctp:110
+#: Template/Admin/Tickets/add.ctp:46
+#: Template/Admin/Tickets/edit.ctp:51
+#: Template/Admin/TrainingResources/add.ctp:42
+#: Template/Admin/TrainingResources/edit.ctp:47
+#: Template/Admin/Trainings/add.ctp:40
+#: Template/Admin/Trainings/edit.ctp:45
+#: Template/Admin/UnitManagers/add.ctp:76
+#: Template/Admin/UnitManagers/edit.ctp:76
+#: Template/Admin/Users/add.ctp:58
+#: Template/Admin/Users/edit.ctp:58
+#: Template/Admin/Users/inactivate.ctp:78
+#: Template/Asesor/Committees/add.ctp:40
+#: Template/Asesor/Committees/edit.ctp:45
+#: Template/Bake/Element/form.ctp:84
+#: Template/Coordinador/Asesor/add.ctp:58
+#: Template/Coordinador/Asesor/edit.ctp:58
+#: Template/Coordinador/Asesor/inactivate.ctp:78
+#: Template/Coordinador/Committees/add.ctp:40
+#: Template/Coordinador/Committees/edit.ctp:45
+#: Template/Coordinador/Users/add.ctp:58
+#: Template/Coordinador/Users/edit.ctp:58
+#: Template/Coordinador/Users/inactivate.ctp:78
+#: Template/Element/modal_update_password.ctp:29
+#: Template/Super/AccessGroups/add.ctp:93
+#: Template/Super/AccessGroups/edit.ctp:44
+#: Template/Super/Admins/add.ctp:58
+#: Template/Super/Admins/edit.ctp:57
+#: Template/Super/Admins/inactivate.ctp:78
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:42
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:47
+#: Template/Super/Asesor/add.ctp:58
+#: Template/Super/Asesor/edit.ctp:77
+#: Template/Super/Asesor/inactivate.ctp:78
+#: Template/Super/Business/add.ctp:49
+#: Template/Super/Business/edit.ctp:54
+#: Template/Super/CityOffices/add.ctp:44
+#: Template/Super/CityOffices/edit.ctp:49
+#: Template/Super/CndCodes/add.ctp:41
+#: Template/Super/CndCodes/edit.ctp:46
+#: Template/Super/Conditions/add.ctp:48
+#: Template/Super/Conditions/edit.ctp:50
+#: Template/Super/Conditions/sort.ctp:55
+#: Template/Super/Coordinador/add.ctp:55
+#: Template/Super/Coordinador/edit.ctp:77
+#: Template/Super/Coordinador/inactivate.ctp:78
+#: Template/Super/CustomerTypeIdentifications/add.ctp:41
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:46
+#: Template/Super/Customers/add.ctp:64
+#: Template/Super/Customers/edit.ctp:64
+#: Template/Super/ExternalCustomers/add.ctp:157
+#: Template/Super/ExternalCustomers/edit.ctp:179
+#: Template/Super/InternalCustomers/add.ctp:148
+#: Template/Super/InternalCustomers/edit.ctp:172
+#: Template/Super/IpsGroups/add.ctp:48
+#: Template/Super/IpsGroups/edit.ctp:48
+#: Template/Super/LegalCodes/add.ctp:52
+#: Template/Super/LegalCodes/edit.ctp:57
+#: Template/Super/Offices/add.ctp:74
+#: Template/Super/Offices/edit.ctp:50
+#: Template/Super/ProductCodes/add.ctp:43
+#: Template/Super/ProductCodes/edit.ctp:47
+#: Template/Super/Roles/add.ctp:42
+#: Template/Super/Roles/edit.ctp:42
+#: Template/Super/Schedules/add.ctp:44
+#: Template/Super/Schedules/edit.ctp:46
+#: Template/Super/SettingCategories/add.ctp:42
+#: Template/Super/SettingCategories/edit.ctp:47
+#: Template/Super/Settings/add.ctp:51
+#: Template/Super/Settings/edit.ctp:49
+#: Template/Super/Settings/update.ctp:110
+#: Template/Super/StateReasons/add.ctp:41
+#: Template/Super/StateReasons/edit.ctp:46
+#: Template/Super/Tickets/add.ctp:46
+#: Template/Super/Tickets/edit.ctp:51
+#: Template/Super/TypeObligations/add.ctp:43
+#: Template/Super/TypeObligations/edit.ctp:48
+#: Template/Super/UnitManagers/add.ctp:76
+#: Template/Super/UnitManagers/edit.ctp:76
+#: Template/Super/Users/add.ctp:59
+#: Template/Super/Users/edit.ctp:58
+#: Template/Super/Users/inactivate.ctp:78
+#: Template/Super/ValueStages/add.ctp:40
+#: Template/Super/ValueStages/edit.ctp:45
+#: Template/Tickets/add.ctp:65
+#: Template/Tickets/developing.ctp:44
+#: Template/Tickets/edit.ctp:49
+#: Template/Tickets/solve.ctp:44
+#: Template/TypeObligations/add.ctp:41
+#: Template/TypeObligations/edit.ctp:46
+#: Template/Users/profile.ctp:88
+msgid "Save"
+msgstr ""
+
+#: Template/Admin/AccessGroups/add.ctp:95
+#: Template/Admin/AccessGroups/edit.ctp:46
+#: Template/Admin/AdjustedObligations/add.ctp:61
+#: Template/Admin/AdjustedObligations/edit.ctp:66
+#: Template/Admin/Asesor/add.ctp:59
+#: Template/Admin/Asesor/edit.ctp:75
+#: Template/Admin/Asesor/inactivate.ctp:81
+#: Template/Admin/BiUsers/add.ctp:148
+#: Template/Admin/BiUsers/edit.ctp:172
+#: Template/Admin/Business/add.ctp:44
+#: Template/Admin/Business/edit.ctp:49
+#: Template/Admin/Charges/add.ctp:48
+#: Template/Admin/Charges/edit.ctp:49
+#: Template/Admin/Coordinador/add.ctp:59
+#: Template/Admin/Coordinador/edit.ctp:73
+#: Template/Admin/Coordinador/inactivate.ctp:81
+#: Template/Admin/Customers/add.ctp:67
+#: Template/Admin/Customers/edit.ctp:67
+#: Template/Admin/ExternalCustomers/add.ctp:160
+#: Template/Admin/ExternalCustomers/edit.ctp:182
+#: Template/Admin/InternalCustomers/add.ctp:151
+#: Template/Admin/InternalCustomers/edit.ctp:175
+#: Template/Admin/IpsGroups/add.ctp:51
+#: Template/Admin/IpsGroups/edit.ctp:51
+#: Template/Admin/Logs/add.ctp:45
+#: Template/Admin/Logs/edit.ctp:50
+#: Template/Admin/Roles/add.ctp:45
+#: Template/Admin/Roles/edit.ctp:45
+#: Template/Admin/SettingCategories/add.ctp:45
+#: Template/Admin/SettingCategories/edit.ctp:50
+#: Template/Admin/Settings/add.ctp:54
+#: Template/Admin/Settings/edit.ctp:52
+#: Template/Admin/Settings/update.ctp:113
+#: Template/Admin/Tickets/add.ctp:49
+#: Template/Admin/Tickets/edit.ctp:54
+#: Template/Admin/TrainingResources/add.ctp:45
+#: Template/Admin/TrainingResources/edit.ctp:50
+#: Template/Admin/Trainings/add.ctp:43
+#: Template/Admin/Trainings/edit.ctp:48
+#: Template/Admin/UnitManagers/add.ctp:79
+#: Template/Admin/UnitManagers/edit.ctp:79
+#: Template/Admin/Users/add.ctp:61
+#: Template/Admin/Users/edit.ctp:61
+#: Template/Admin/Users/inactivate.ctp:81
+#: Template/Asesor/Committees/add.ctp:43
+#: Template/Asesor/Committees/edit.ctp:48
+#: Template/Bake/Element/form.ctp:87
+#: Template/Coordinador/Asesor/add.ctp:61
+#: Template/Coordinador/Asesor/edit.ctp:61
+#: Template/Coordinador/Asesor/inactivate.ctp:81
+#: Template/Coordinador/Committees/add.ctp:43
+#: Template/Coordinador/Committees/edit.ctp:48
+#: Template/Coordinador/Users/add.ctp:61
+#: Template/Coordinador/Users/edit.ctp:61
+#: Template/Coordinador/Users/inactivate.ctp:81
+#: Template/Super/AccessGroups/add.ctp:96
+#: Template/Super/AccessGroups/edit.ctp:47
+#: Template/Super/Admins/add.ctp:61
+#: Template/Super/Admins/edit.ctp:60
+#: Template/Super/Admins/inactivate.ctp:81
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:45
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:50
+#: Template/Super/Asesor/add.ctp:61
+#: Template/Super/Asesor/edit.ctp:80
+#: Template/Super/Asesor/inactivate.ctp:81
+#: Template/Super/Business/add.ctp:52
+#: Template/Super/Business/edit.ctp:57
+#: Template/Super/CityOffices/add.ctp:47
+#: Template/Super/CityOffices/edit.ctp:52
+#: Template/Super/CndCodes/add.ctp:44
+#: Template/Super/CndCodes/edit.ctp:49
+#: Template/Super/Conditions/add.ctp:51
+#: Template/Super/Conditions/edit.ctp:53
+#: Template/Super/Coordinador/add.ctp:58
+#: Template/Super/Coordinador/edit.ctp:80
+#: Template/Super/Coordinador/inactivate.ctp:81
+#: Template/Super/CustomerTypeIdentifications/add.ctp:44
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:49
+#: Template/Super/Customers/add.ctp:67
+#: Template/Super/Customers/edit.ctp:67
+#: Template/Super/ExternalCustomers/add.ctp:160
+#: Template/Super/ExternalCustomers/edit.ctp:182
+#: Template/Super/InternalCustomers/add.ctp:151
+#: Template/Super/InternalCustomers/edit.ctp:175
+#: Template/Super/IpsGroups/add.ctp:51
+#: Template/Super/IpsGroups/edit.ctp:51
+#: Template/Super/LegalCodes/add.ctp:55
+#: Template/Super/LegalCodes/edit.ctp:60
+#: Template/Super/Offices/add.ctp:77
+#: Template/Super/Offices/edit.ctp:53
+#: Template/Super/ProductCodes/add.ctp:46
+#: Template/Super/ProductCodes/edit.ctp:50
+#: Template/Super/Roles/add.ctp:45
+#: Template/Super/Roles/edit.ctp:45
+#: Template/Super/Schedules/add.ctp:47
+#: Template/Super/Schedules/edit.ctp:49
+#: Template/Super/SettingCategories/add.ctp:45
+#: Template/Super/SettingCategories/edit.ctp:50
+#: Template/Super/Settings/add.ctp:54
+#: Template/Super/Settings/edit.ctp:52
+#: Template/Super/Settings/update.ctp:113
+#: Template/Super/StateReasons/add.ctp:44
+#: Template/Super/StateReasons/edit.ctp:49
+#: Template/Super/Tickets/add.ctp:49
+#: Template/Super/Tickets/edit.ctp:54
+#: Template/Super/TypeObligations/add.ctp:46
+#: Template/Super/TypeObligations/edit.ctp:51
+#: Template/Super/UnitManagers/add.ctp:79
+#: Template/Super/UnitManagers/edit.ctp:79
+#: Template/Super/Users/add.ctp:62
+#: Template/Super/Users/edit.ctp:61
+#: Template/Super/Users/inactivate.ctp:81
+#: Template/Super/ValueStages/add.ctp:43
+#: Template/Super/ValueStages/edit.ctp:48
+#: Template/Tickets/add.ctp:68
+#: Template/Tickets/developing.ctp:47
+#: Template/Tickets/edit.ctp:52
+#: Template/Tickets/solve.ctp:47
+#: Template/TypeObligations/add.ctp:44
+#: Template/TypeObligations/edit.ctp:49
+#: Template/Users/profile.ctp:91
+msgid "Required fields"
+msgstr ""
+
+#: Template/Admin/AccessGroups/edit.ctp:7
+#: Template/Admin/AccessGroups/index.ctp:54
+#: Template/Admin/AdjustedObligations/edit.ctp:12
+#: Template/Admin/Asesor/edit.ctp:8
+#: Template/Admin/Asesor/index.ctp:68
+#: Template/Admin/BiUsers/edit.ctp:9
+#: Template/Admin/Business/edit.ctp:12
+#: Template/Admin/Charges/edit.ctp:12
+#: Template/Admin/Charges/index.ctp:56
+#: Template/Admin/Coordinador/edit.ctp:8
+#: Template/Admin/Coordinador/index.ctp:69
+#: Template/Admin/Customers/edit.ctp:8
+#: Template/Admin/Customers/index.ctp:58
+#: Template/Admin/ExternalCustomers/edit.ctp:9
+#: Template/Admin/InternalCustomers/edit.ctp:9
+#: Template/Admin/IpsGroups/edit.ctp:9
+#: Template/Admin/IpsGroups/index.ctp:60
+#: Template/Admin/Logs/edit.ctp:12
+#: Template/Admin/Roles/edit.ctp:7
+#: Template/Admin/Roles/index.ctp:55
+#: Template/Admin/SettingCategories/edit.ctp:12
+#: Template/Admin/SettingCategories/index.ctp:50
+#: Template/Admin/Settings/edit.ctp:7
+#: Template/Admin/Settings/index.ctp:53
+#: Template/Admin/Tickets/edit.ctp:12
+#: Template/Admin/TrainingResources/edit.ctp:12
+#: Template/Admin/TrainingResources/index.ctp:49
+#: Template/Admin/Trainings/edit.ctp:12
+#: Template/Admin/Trainings/index.ctp:49
+#: Template/Admin/UnitManagers/edit.ctp:9
+#: Template/Admin/Users/edit.ctp:8
+#: Template/Admin/Users/index.ctp:67
+#: Template/Asesor/Committees/edit.ctp:12
+#: Template/Bake/Template/index.ctp:62
+#: Template/Coordinador/Asesor/edit.ctp:8
+#: Template/Coordinador/Asesor/index.ctp:91
+#: Template/Coordinador/Committees/edit.ctp:12
+#: Template/Coordinador/Users/edit.ctp:8
+#: Template/Coordinador/Users/index.ctp:78
+#: Template/Super/AccessGroups/edit.ctp:7
+#: Template/Super/AccessGroups/index.ctp:54
+#: Template/Super/Admins/edit.ctp:8
+#: Template/Super/Admins/index.ctp:74
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:12
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:49
+#: Template/Super/Asesor/edit.ctp:18
+#: Template/Super/Asesor/index.ctp:96
+#: Template/Super/Business/edit.ctp:12
+#: Template/Super/Business/index.ctp:52
+#: Template/Super/CityOffices/edit.ctp:12
+#: Template/Super/CityOffices/index.ctp:49
+#: Template/Super/CndCodes/edit.ctp:12
+#: Template/Super/CndCodes/index.ctp:50
+#: Template/Super/Conditions/edit.ctp:12
+#: Template/Super/Conditions/index.ctp:61
+#: Template/Super/Conditions/index_hp.ctp:65
+#: Template/Super/Coordinador/edit.ctp:18
+#: Template/Super/Coordinador/index.ctp:69
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:12
+#: Template/Super/CustomerTypeIdentifications/index.ctp:49
+#: Template/Super/Customers/edit.ctp:8
+#: Template/Super/Customers/index.ctp:58
+#: Template/Super/ExternalCustomers/edit.ctp:9
+#: Template/Super/InternalCustomers/edit.ctp:9
+#: Template/Super/IpsGroups/edit.ctp:9
+#: Template/Super/IpsGroups/index.ctp:60
+#: Template/Super/LegalCodes/edit.ctp:12
+#: Template/Super/LegalCodes/index.ctp:52
+#: Template/Super/Offices/edit.ctp:12
+#: Template/Super/Offices/index.ctp:52
+#: Template/Super/ProductCodes/edit.ctp:12
+#: Template/Super/ProductCodes/index.ctp:52
+#: Template/Super/Roles/edit.ctp:7
+#: Template/Super/Roles/index.ctp:55
+#: Template/Super/Schedules/edit.ctp:12
+#: Template/Super/Schedules/index.ctp:52
+#: Template/Super/SettingCategories/edit.ctp:12
+#: Template/Super/SettingCategories/index.ctp:50
+#: Template/Super/Settings/edit.ctp:7
+#: Template/Super/Settings/index.ctp:53
+#: Template/Super/StateReasons/edit.ctp:12
+#: Template/Super/StateReasons/index.ctp:49
+#: Template/Super/Tickets/edit.ctp:12
+#: Template/Super/TypeObligations/edit.ctp:12
+#: Template/Super/TypeObligations/index.ctp:48
+#: Template/Super/UnitManagers/edit.ctp:9
+#: Template/Super/Users/edit.ctp:8
+#: Template/Super/Users/index.ctp:77
+#: Template/Super/ValueStages/edit.ctp:12
+#: Template/Super/ValueStages/index.ctp:52
+#: Template/Tickets/developing.ctp:12
+#: Template/Tickets/edit.ctp:12
+#: Template/Tickets/solve.ctp:12
+#: Template/TypeObligations/edit.ctp:12
+#: Template/TypeObligations/index.ctp:51
+msgid "Edit"
+msgstr ""
+
+#: Template/Admin/AccessGroups/index.ctp:60
+#: Template/Admin/AdjustedObligations/index.ctp:57
+#: Template/Admin/Asesor/index.ctp:75
+#: Template/Admin/BiUsers/add.ctp:116
+#: Template/Admin/BiUsers/edit.ctp:128
+#: Template/Admin/Business/index.ctp:50
+#: Template/Admin/Charges/index.ctp:60
+#: Template/Admin/Coordinador/index.ctp:76
+#: Template/Admin/Customers/index.ctp:64
+#: Template/Admin/Roles/index.ctp:61
+#: Template/Admin/Tickets/index.ctp:59
+#: Template/Admin/TrainingResources/index.ctp:53
+#: Template/Admin/Trainings/index.ctp:53
+#: Template/Admin/Users/index.ctp:79
+#: Template/Asesor/Committees/index.ctp:48
+#: Template/Asesor/Trainings/index.ctp:42
+#: Template/Bake/Template/index.ctp:66
+#: Template/Coordinador/Asesor/index.ctp:97
+#: Template/Coordinador/Users/index.ctp:84
+#: Template/Super/AccessGroups/index.ctp:60
+#: Template/Super/Admins/index.ctp:80
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:53
+#: Template/Super/Asesor/index.ctp:102
+#: Template/Super/Business/index.ctp:56
+#: Template/Super/CityOffices/index.ctp:53
+#: Template/Super/CndCodes/index.ctp:54
+#: Template/Super/Conditions/index.ctp:66
+#: Template/Super/Conditions/index_hp.ctp:70
+#: Template/Super/Coordinador/index.ctp:76
+#: Template/Super/CustomerTypeIdentifications/index.ctp:53
+#: Template/Super/Customers/index.ctp:64
+#: Template/Super/LegalCodes/index.ctp:56
+#: Template/Super/Offices/index.ctp:57
+#: Template/Super/ProductCodes/index.ctp:56
+#: Template/Super/Roles/index.ctp:61
+#: Template/Super/Schedules/index.ctp:57
+#: Template/Super/StateReasons/index.ctp:53
+#: Template/Super/Tickets/index.ctp:56
+#: Template/Super/TypeObligations/index.ctp:52
+#: Template/Super/Users/index.ctp:83
+#: Template/Super/ValueStages/index.ctp:56
+#: Template/Tickets/admin.ctp:55
+#: Template/Tickets/index.ctp:53
+#: Template/TypeObligations/index.ctp:55
+msgid "View"
+msgstr ""
+
+#: Template/Admin/AccessGroups/index.ctp:66
+#: Template/Admin/Asesor/index.ctp:83
+#: Template/Admin/Charges/index.ctp:64
+#: Template/Admin/Coordinador/index.ctp:84
+#: Template/Admin/Customers/index.ctp:70
+#: Template/Admin/IpsGroups/index.ctp:67
+#: Template/Admin/Layout/default.ctp:101
+#: Template/Admin/Roles/index.ctp:67
+#: Template/Admin/SettingCategories/index.ctp:54
+#: Template/Admin/Settings/index.ctp:57
+#: Template/Admin/TrainingResources/index.ctp:57
+#: Template/Admin/Trainings/index.ctp:57
+#: Template/Admin/Users/index.ctp:92
+#: Template/Asesor/Layout/default.ctp:106
+#: Template/Bake/Template/index.ctp:70
+#: Template/Coordinador/Asesor/index.ctp:103
+#: Template/Coordinador/Layout/default.ctp:104
+#: Template/Coordinador/Users/index.ctp:90
+#: Template/Layout/asesor_2_bk.ctp:89
+#: Template/Layout/asesor_bk.ctp:93
+#: Template/Layout/default.ctp:144
+#: Template/Super/AccessGroups/index.ctp:66
+#: Template/Super/Admins/index.ctp:86
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:57
+#: Template/Super/Asesor/index.ctp:108
+#: Template/Super/Business/index.ctp:60
+#: Template/Super/CityOffices/index.ctp:57
+#: Template/Super/CndCodes/index.ctp:58
+#: Template/Super/Conditions/index.ctp:71
+#: Template/Super/Conditions/index_hp.ctp:75
+#: Template/Super/Coordinador/index.ctp:84
+#: Template/Super/CustomerTypeIdentifications/index.ctp:57
+#: Template/Super/Customers/index.ctp:70
+#: Template/Super/IpsGroups/index.ctp:67
+#: Template/Super/LegalCodes/index.ctp:60
+#: Template/Super/Offices/index.ctp:62
+#: Template/Super/ProductCodes/index.ctp:60
+#: Template/Super/Roles/index.ctp:67
+#: Template/Super/Schedules/index.ctp:62
+#: Template/Super/SettingCategories/index.ctp:54
+#: Template/Super/Settings/index.ctp:57
+#: Template/Super/StateReasons/index.ctp:57
+#: Template/Super/Users/index.ctp:89
+#: Template/Super/ValueStages/index.ctp:60
+#: Template/Tickets/index.ctp:58
+#: Template/TypeObligations/index.ctp:59
+msgid "Delete"
+msgstr ""
+
+#: Template/Admin/AccessGroups/index.ctp:81
+#: Template/Admin/AccessGroups/view.ctp:19
+#: Template/Admin/AccessLogs/index.ctp:37
+#: Template/Admin/AccessLogs/view.ctp:29
+#: Template/Super/AccessGroups/index.ctp:81
+#: Template/Super/AccessGroups/view.ctp:19
+#: Template/Super/AccessLogs/index.ctp:37
+#: Template/Super/AccessLogs/view.ctp:29
+msgid "Ip Address"
+msgstr ""
+
+#: Template/Admin/AccessGroups/index.ctp:92
+#: Template/Admin/AccessGroups/view.ctp:15
+#: Template/Admin/Logs/view.ctp:19
+#: Template/Bake/Template/view.ctp:78
+#: Template/Super/AccessGroups/index.ctp:92
+#: Template/Super/AccessGroups/view.ctp:15
+#: Template/Super/LegalCodes/index.ctp:81;82
+#: Template/Super/LegalCodes/view.ctp:15;17
+#: Template/Super/Offices/view.ctp:19
+#: Template/Super/ProductCodes/view.ctp:17;19
+#: Template/Tickets/view.ctp:17;19
+msgid "Yes"
+msgstr ""
+
+#: Template/Admin/AccessGroups/index.ctp:92
+#: Template/Admin/AccessGroups/view.ctp:15
+#: Template/Admin/Logs/view.ctp:19
+#: Template/Asesor/Obligations/evaluar.ctp:231
+#: Template/Asesor/Obligations/normalizar.ctp:146
+#: Template/Bake/Template/view.ctp:78
+#: Template/Coordinador/Obligations/evaluar.ctp:231
+#: Template/Coordinador/Obligations/normalizar.ctp:146
+#: Template/Super/AccessGroups/index.ctp:92
+#: Template/Super/AccessGroups/view.ctp:15
+#: Template/Super/LegalCodes/index.ctp:81;82
+#: Template/Super/LegalCodes/view.ctp:15;17
+#: Template/Super/Offices/view.ctp:19
+#: Template/Super/ProductCodes/view.ctp:17;19
+#: Template/Tickets/view.ctp:17;19
+msgid "No"
+msgstr ""
+
+#: Template/Admin/AccessGroups/view.ctp:14
+#: Template/Super/AccessGroups/view.ctp:14
+msgid "All Ips"
+msgstr ""
+
+#: Template/Admin/AccessGroups/view.ctp:26
+#: Template/Admin/Asesor/view.ctp:44
+#: Template/Admin/Audits/view.ctp:43
+#: Template/Admin/BiUsers/view.ctp:35
+#: Template/Admin/Business/view.ctp:14
+#: Template/Admin/Charges/view.ctp:24
+#: Template/Admin/Coordinador/view.ctp:47
+#: Template/Admin/Customers/view.ctp:26
+#: Template/Admin/ExternalCustomers/view.ctp:37
+#: Template/Admin/InternalCustomers/view.ctp:35
+#: Template/Admin/Logs/view.ctp:20
+#: Template/Admin/Roles/view.ctp:16
+#: Template/Admin/Tickets/view.ctp:32
+#: Template/Admin/Trainings/view.ctp:16
+#: Template/Admin/UnitManagers/view.ctp:37
+#: Template/Admin/Users/view.ctp:35
+#: Template/Coordinador/Asesor/view.ctp:35
+#: Template/Coordinador/Users/view.ctp:35
+#: Template/Super/AccessGroups/view.ctp:26
+#: Template/Super/Admins/view.ctp:35
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:16
+#: Template/Super/Asesor/view.ctp:35
+#: Template/Super/Audits/view.ctp:43
+#: Template/Super/Business/view.ctp:20
+#: Template/Super/Coordinador/view.ctp:47
+#: Template/Super/Customers/view.ctp:26
+#: Template/Super/ExternalCustomers/view.ctp:37
+#: Template/Super/InternalCustomers/view.ctp:35
+#: Template/Super/LegalCodes/view.ctp:22
+#: Template/Super/Roles/view.ctp:16
+#: Template/Super/StateReasons/view.ctp:14
+#: Template/Super/Tickets/view.ctp:32
+#: Template/Super/UnitManagers/view.ctp:37
+#: Template/Super/Users/view.ctp:35
+#: Template/Tickets/view.ctp:26
+msgid "Created"
+msgstr ""
+
+#: Template/Admin/AccessGroups/view.ctp:28
+#: Template/Admin/Asesor/view.ctp:48
+#: Template/Admin/BiUsers/view.ctp:37
+#: Template/Admin/Business/view.ctp:16
+#: Template/Admin/Coordinador/view.ctp:51
+#: Template/Admin/Customers/view.ctp:28
+#: Template/Admin/ExternalCustomers/view.ctp:39
+#: Template/Admin/InternalCustomers/view.ctp:37
+#: Template/Admin/Roles/view.ctp:18
+#: Template/Admin/Tickets/view.ctp:30
+#: Template/Admin/Trainings/view.ctp:18
+#: Template/Admin/UnitManagers/view.ctp:43
+#: Template/Admin/Users/view.ctp:37
+#: Template/Coordinador/Asesor/view.ctp:37
+#: Template/Coordinador/Users/view.ctp:37
+#: Template/Super/AccessGroups/view.ctp:28
+#: Template/Super/Admins/view.ctp:37
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:18
+#: Template/Super/Asesor/view.ctp:37
+#: Template/Super/Business/view.ctp:22
+#: Template/Super/Coordinador/view.ctp:51
+#: Template/Super/Customers/view.ctp:28
+#: Template/Super/ExternalCustomers/view.ctp:39
+#: Template/Super/InternalCustomers/view.ctp:37
+#: Template/Super/LegalCodes/view.ctp:20
+#: Template/Super/Roles/view.ctp:18
+#: Template/Super/StateReasons/view.ctp:16
+#: Template/Super/Tickets/view.ctp:30
+#: Template/Super/UnitManagers/view.ctp:43
+#: Template/Super/Users/view.ctp:37
+#: Template/Tickets/view.ctp:24
+msgid "Modified"
+msgstr ""
+
+#: Template/Admin/AccessGroups/view.ctp:34
+#: Template/Admin/AccessLogs/view.ctp:66
+#: Template/Admin/AdjustedObligations/view.ctp:72
+#: Template/Admin/Asesor/view.ctp:58
+#: Template/Admin/Audits/view.ctp:75
+#: Template/Admin/BiUsers/view.ctp:46
+#: Template/Admin/Business/view.ctp:22
+#: Template/Admin/Charges/view.ctp:30
+#: Template/Admin/Coordinador/view.ctp:61
+#: Template/Admin/Customers/view.ctp:34
+#: Template/Admin/Element/search/logs.ctp:59
+#: Template/Admin/Element/search/negociaciones.ctp:58
+#: Template/Admin/Element/search/users.ctp:55
+#: Template/Admin/ExternalCustomers/view.ctp:48
+#: Template/Admin/InternalCustomers/view.ctp:46
+#: Template/Admin/Layout/default.ctp:58;90
+#: Template/Admin/Logs/view.ctp:26
+#: Template/Admin/Roles/view.ctp:24
+#: Template/Admin/Tickets/view.ctp:45
+#: Template/Admin/TrainingResources/view.ctp:24
+#: Template/Admin/Trainings/view.ctp:24
+#: Template/Admin/UnitManagers/view.ctp:53
+#: Template/Admin/Users/view.ctp:46
+#: Template/Asesor/Layout/default.ctp:60;95
+#: Template/Asesor/Trainings/view.ctp:42
+#: Template/Bake/Template/view.ctp:99
+#: Template/Coordinador/Asesor/view.ctp:46
+#: Template/Coordinador/Element/search/users.ctp:54
+#: Template/Coordinador/Layout/default.ctp:58;93
+#: Template/Coordinador/Users/view.ctp:46
+#: Template/Element/Flash/auth.ctp:8
+#: Template/Element/search/tickets.ctp:50
+#: Template/Element/search/tickets_admin.ctp:52
+#: Template/Layout/asesor_2_bk.ctp:55;78
+#: Template/Layout/asesor_bk.ctp:57;82
+#: Template/Layout/default.ctp:25;133;180
+#: Template/Super/AccessGroups/view.ctp:34
+#: Template/Super/AccessLogs/view.ctp:66
+#: Template/Super/Admins/view.ctp:46
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:24
+#: Template/Super/Asesor/view.ctp:46
+#: Template/Super/Audits/view.ctp:75
+#: Template/Super/Business/view.ctp:28
+#: Template/Super/CityOffices/view.ctp:18
+#: Template/Super/CndCodes/view.ctp:22
+#: Template/Super/Conditions/view.ctp:24
+#: Template/Super/Coordinador/view.ctp:61
+#: Template/Super/CustomerTypeIdentifications/view.ctp:18
+#: Template/Super/Customers/view.ctp:34
+#: Template/Super/Element/search/access_activities.ctp:67
+#: Template/Super/Element/search/access_logs.ctp:61
+#: Template/Super/Element/search/audits.ctp:59
+#: Template/Super/Element/search/bi_users.ctp:54
+#: Template/Super/Element/search/external_customers.ctp:55
+#: Template/Super/Element/search/internal_customers.ctp:54
+#: Template/Super/Element/search/settings.ctp:51
+#: Template/Super/Element/search/unit_managers.ctp:54
+#: Template/Super/Element/search/users.ctp:56
+#: Template/Super/ExternalCustomers/view.ctp:48
+#: Template/Super/InternalCustomers/view.ctp:46
+#: Template/Super/LegalCodes/view.ctp:28
+#: Template/Super/Offices/view.ctp:24
+#: Template/Super/ProductCodes/view.ctp:24
+#: Template/Super/Roles/view.ctp:24
+#: Template/Super/Schedules/view.ctp:24
+#: Template/Super/StateReasons/view.ctp:22
+#: Template/Super/Tickets/view.ctp:45
+#: Template/Super/TypeObligations/view.ctp:22
+#: Template/Super/UnitManagers/view.ctp:53
+#: Template/Super/Users/view.ctp:46
+#: Template/Super/ValueStages/view.ctp:22
+#: Template/Tickets/view.ctp:33
+#: Template/TypeObligations/view.ctp:22
+msgid "Close"
+msgstr ""
+
+#: Template/Admin/AccessLogs/index.ctp:9
+#: Template/Super/AccessLogs/index.ctp:9
+msgid "Logs Sessions"
+msgstr ""
+
+#: Template/Admin/AccessLogs/index.ctp:38
+#: Template/Super/AccessLogs/index.ctp:38
+msgid "Logout Type"
+msgstr ""
+
+#: Template/Admin/AccessLogs/index.ctp:39
+#: Template/Super/AccessLogs/index.ctp:39
+msgid "User Agent"
+msgstr ""
+
+#: Template/Admin/AccessLogs/index.ctp:56
+#: Template/Admin/Audits/index.ctp:60
+#: Template/Super/AccessLogs/index.ctp:59
+#: Template/Super/Audits/index.ctp:63
+msgid "Details"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:7
+#: Template/Super/AccessLogs/view.ctp:7
+msgid "Access Log Information"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:24
+#: Template/Super/AccessLogs/view.ctp:24
+msgid "Date Login"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:26
+#: Template/Super/AccessLogs/view.ctp:26
+msgid "Date Logout"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:42
+#: Template/Super/AccessLogs/view.ctp:42
+msgid "Date"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:44
+#: Template/Admin/Audits/index.ctp:37
+#: Template/Super/AccessLogs/view.ctp:44
+#: Template/Super/Audits/index.ctp:37
+#: Template/Super/Element/search/audits.ctp:53
+msgid "Resource"
+msgstr ""
+
+#: Template/Admin/AccessLogs/view.ctp:59
+#: Template/Super/AccessLogs/view.ctp:59
+msgid "Activities by session"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/add.ctp:6
+#: Template/Admin/AdjustedObligations/edit.ctp:11
+msgid "Adjusted Obligations"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/add.ctp:24
+#: Template/Admin/AdjustedObligations/edit.ctp:29
+#: Template/Admin/AdjustedObligations/view.ctp:8
+msgid "Adjusted Obligation Information"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/index.ctp:9
+msgid "Obligaciones modificadas"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/index.ctp:13;15
+#: Template/Admin/Logs/index.ctp:10;12
+#: Template/Admin/Tickets/index.ctp:10;12
+#: Template/Admin/Users/index.ctp:12;14
+msgid "Exportar"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:13
+msgid "Date Negotiation"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:15
+msgid "Type Identification"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:17
+msgid "Identification"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:19
+msgid "Cliente"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:21
+msgid "Email cliente"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:23
+#: Template/Asesor/Committees/view.ctp:85
+#: Template/Asesor/Customers/information.ctp:57
+#: Template/Asesor/Element/_datos_cliente.ctp:17
+#: Template/Coordinador/Committees/view.ctp:89
+#: Template/Coordinador/Customers/information.ctp:57
+#: Template/Coordinador/HistoryCustomers/history.ctp:17
+#: Template/Customers/information.ctp:57
+#: Template/HistoryCustomers/history.ctp:17
+msgid "Ingresos"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:25
+#: Template/Asesor/Committees/view.ctp:86
+#: Template/Asesor/Customers/consult.ctp:103
+#: Template/Coordinador/Committees/view.ctp:90
+#: Template/Coordinador/Customers/consult-bk.ctp:104
+#: Template/Coordinador/HistoryCustomers/history.ctp:18
+#: Template/Customers/consult.ctp:95
+#: Template/HistoryCustomers/history.ctp:18
+msgid "Capacidad de Pago"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:27
+msgid "Office Name"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:29
+msgid "Customer Email"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:31
+msgid "User Dataweb"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:33
+msgid "Documentation Date"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:35
+msgid "Payment Agreed"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:49
+#: Template/Admin/Audits/view.ctp:54
+#: Template/Super/Audits/view.ctp:54
+msgid "Field"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:50
+#: Template/Admin/Audits/view.ctp:55
+#: Template/Super/Audits/view.ctp:55
+msgid "Old Value"
+msgstr ""
+
+#: Template/Admin/AdjustedObligations/view.ctp:51
+#: Template/Admin/Audits/view.ctp:56
+#: Template/Super/Audits/view.ctp:56
+msgid "New Value"
+msgstr ""
+
+#: Template/Admin/Asesor/add.ctp:7
+msgid "Asesor "
+msgstr ""
+
+#: Template/Admin/Asesor/add.ctp:25
+#: Template/Admin/Asesor/edit.ctp:24
+#: Template/Coordinador/Asesor/add.ctp:25
+#: Template/Super/Asesor/edit.ctp:34
+msgid "Asesor Information"
+msgstr ""
+
+#: Template/Admin/Asesor/add.ctp:37;46
+#: Template/Admin/Asesor/edit.ctp:38;47;59
+#: Template/Admin/BiUsers/add.ctp:54
+#: Template/Admin/BiUsers/edit.ctp:54
+#: Template/Admin/Coordinador/add.ctp:37;46
+#: Template/Admin/Coordinador/edit.ctp:37;47;58
+#: Template/Admin/Element/search/users.ctp:48
+#: Template/Admin/ExternalCustomers/add.ctp:61
+#: Template/Admin/ExternalCustomers/edit.ctp:60
+#: Template/Admin/InternalCustomers/add.ctp:54
+#: Template/Admin/InternalCustomers/edit.ctp:54
+#: Template/Admin/UnitManagers/add.ctp:54
+#: Template/Admin/UnitManagers/edit.ctp:53
+#: Template/Admin/Users/add.ctp:40
+#: Template/Admin/Users/edit.ctp:39
+#: Template/Coordinador/Asesor/add.ctp:41
+#: Template/Coordinador/Asesor/edit.ctp:39
+#: Template/Coordinador/Element/search/users.ctp:46;47;48
+#: Template/Coordinador/Users/add.ctp:40
+#: Template/Coordinador/Users/edit.ctp:39
+#: Template/Element/search/tickets.ctp:44
+#: Template/Element/search/tickets_admin.ctp:44;45;46
+#: Template/Super/Admins/add.ctp:41
+#: Template/Super/Admins/edit.ctp:40
+#: Template/Super/Asesor/add.ctp:40
+#: Template/Super/Asesor/edit.ctp:47;56;68
+#: Template/Super/Business/add.ctp:39
+#: Template/Super/Business/edit.ctp:44
+#: Template/Super/Conditions/add.ctp:36
+#: Template/Super/Conditions/edit.ctp:40
+#: Template/Super/Coordinador/add.ctp:37;46
+#: Template/Super/Coordinador/edit.ctp:47;57;68
+#: Template/Super/Element/search/access_activities.ctp:60;61
+#: Template/Super/Element/search/access_logs.ctp:55
+#: Template/Super/Element/search/audits.ctp:52;53
+#: Template/Super/Element/search/bi_users.ctp:47;48
+#: Template/Super/Element/search/external_customers.ctp:47;48;49
+#: Template/Super/Element/search/internal_customers.ctp:47;48
+#: Template/Super/Element/search/settings.ctp:43
+#: Template/Super/Element/search/unit_managers.ctp:47;48
+#: Template/Super/Element/search/users.ctp:47;48;49;50
+#: Template/Super/ExternalCustomers/add.ctp:61
+#: Template/Super/ExternalCustomers/edit.ctp:60
+#: Template/Super/InternalCustomers/add.ctp:54
+#: Template/Super/InternalCustomers/edit.ctp:54
+#: Template/Super/UnitManagers/add.ctp:54
+#: Template/Super/UnitManagers/edit.ctp:53
+#: Template/Super/Users/add.ctp:41
+#: Template/Super/Users/edit.ctp:39
+msgid "Select Item"
+msgstr ""
+
+#: Template/Admin/Asesor/dashboard.ctp:7
+#: Template/Admin/Coordinador/dashboard.ctp:7
+#: Template/Coordinador/Asesor/dashboard.ctp:7
+#: Template/Coordinador/Users/dashboard.ctp:7
+#: Template/Super/Admins/dashboard.ctp:7
+#: Template/Super/Asesor/dashboard.ctp:7
+#: Template/Super/Coordinador/dashboard.ctp:7
+#: Template/Super/Users/dashboard.ctp:7
+msgid "Control panel"
+msgstr ""
+
+#: Template/Admin/Asesor/dashboard.ctp:17
+#: Template/Admin/Coordinador/dashboard.ctp:17
+#: Template/Coordinador/Asesor/dashboard.ctp:17
+#: Template/Coordinador/Users/dashboard.ctp:17
+#: Template/Super/Admins/dashboard.ctp:17
+#: Template/Super/Asesor/dashboard.ctp:17
+#: Template/Super/Coordinador/dashboard.ctp:17
+#: Template/Super/Users/dashboard.ctp:17
+msgid "Latest Logins"
+msgstr ""
+
+#: Template/Admin/Asesor/dashboard.ctp:50
+#: Template/Admin/Coordinador/dashboard.ctp:50
+#: Template/Coordinador/Asesor/dashboard.ctp:50
+#: Template/Coordinador/Users/dashboard.ctp:44
+#: Template/Super/Admins/dashboard.ctp:44
+#: Template/Super/Asesor/dashboard.ctp:50
+#: Template/Super/Coordinador/dashboard.ctp:50
+#: Template/Super/Users/dashboard.ctp:44
+msgid "View All Sessions"
+msgstr ""
+
+#: Template/Admin/Asesor/edit.ctp:7
+#: Template/Admin/Asesor/index.ctp:10
+#: Template/Coordinador/Asesor/add.ctp:7
+#: Template/Coordinador/Asesor/index.ctp:19
+#: Template/Coordinador/Users/index.ctp:19
+#: Template/Super/Asesor/edit.ctp:17
+#: Template/Super/Asesor/index.ctp:19
+msgid "Asesor"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:7
+#: Template/Admin/Coordinador/inactivate.ctp:7
+#: Template/Admin/Users/add.ctp:7
+#: Template/Admin/Users/edit.ctp:7
+#: Template/Admin/Users/inactivate.ctp:7
+#: Template/Coordinador/Asesor/edit.ctp:7
+#: Template/Coordinador/Asesor/inactivate.ctp:7
+#: Template/Coordinador/Users/add.ctp:7
+#: Template/Coordinador/Users/edit.ctp:7
+#: Template/Coordinador/Users/inactivate.ctp:7
+#: Template/Super/Admins/add.ctp:7
+#: Template/Super/Admins/edit.ctp:7
+#: Template/Super/Admins/inactivate.ctp:7
+#: Template/Super/Asesor/add.ctp:7
+#: Template/Super/Asesor/inactivate.ctp:7
+#: Template/Super/Coordinador/inactivate.ctp:7
+#: Template/Super/Users/add.ctp:7
+#: Template/Super/Users/edit.ctp:7
+#: Template/Super/Users/inactivate.ctp:7
+msgid "Administrators"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:8
+#: Template/Admin/Coordinador/inactivate.ctp:8
+#: Template/Admin/Users/inactivate.ctp:8
+#: Template/Coordinador/Asesor/inactivate.ctp:8
+#: Template/Coordinador/Users/inactivate.ctp:8
+#: Template/Super/Admins/inactivate.ctp:8
+#: Template/Super/Asesor/inactivate.ctp:8
+#: Template/Super/Coordinador/inactivate.ctp:8
+#: Template/Super/Users/inactivate.ctp:8
+msgid "Inactivate"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:24
+#: Template/Admin/Coordinador/inactivate.ctp:24
+#: Template/Admin/Users/add.ctp:25
+#: Template/Admin/Users/edit.ctp:24
+#: Template/Admin/Users/inactivate.ctp:24
+#: Template/Admin/Users/view.ctp:7
+#: Template/Coordinador/Asesor/edit.ctp:24
+#: Template/Coordinador/Asesor/inactivate.ctp:24
+#: Template/Coordinador/Asesor/view.ctp:7
+#: Template/Coordinador/Users/add.ctp:25
+#: Template/Coordinador/Users/edit.ctp:24
+#: Template/Coordinador/Users/inactivate.ctp:24
+#: Template/Coordinador/Users/view.ctp:7
+#: Template/Super/Admins/add.ctp:25
+#: Template/Super/Admins/edit.ctp:24
+#: Template/Super/Admins/inactivate.ctp:24
+#: Template/Super/Admins/view.ctp:7
+#: Template/Super/Asesor/add.ctp:25
+#: Template/Super/Asesor/inactivate.ctp:24
+#: Template/Super/Asesor/view.ctp:7
+#: Template/Super/Coordinador/inactivate.ctp:24
+#: Template/Super/Users/add.ctp:25
+#: Template/Super/Users/edit.ctp:24
+#: Template/Super/Users/inactivate.ctp:24
+#: Template/Super/Users/view.ctp:7
+msgid "Administrator Information"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:43
+#: Template/Admin/BiUsers/view.ctp:25
+#: Template/Admin/Coordinador/inactivate.ctp:43
+#: Template/Admin/Coordinador/view.ctp:22
+#: Template/Admin/ExternalCustomers/view.ctp:25
+#: Template/Admin/InternalCustomers/view.ctp:25
+#: Template/Admin/UnitManagers/view.ctp:25
+#: Template/Admin/Users/inactivate.ctp:43
+#: Template/Admin/Users/view.ctp:25
+#: Template/Coordinador/Asesor/inactivate.ctp:43
+#: Template/Coordinador/Asesor/view.ctp:25
+#: Template/Coordinador/Customers/consult-bk.ctp:175
+#: Template/Coordinador/Users/inactivate.ctp:43
+#: Template/Coordinador/Users/view.ctp:25
+#: Template/Customers/consult.ctp:259
+#: Template/Super/Admins/inactivate.ctp:43
+#: Template/Super/Admins/view.ctp:25
+#: Template/Super/Asesor/inactivate.ctp:43
+#: Template/Super/Asesor/view.ctp:25
+#: Template/Super/Coordinador/inactivate.ctp:43
+#: Template/Super/Coordinador/view.ctp:22
+#: Template/Super/ExternalCustomers/view.ctp:25
+#: Template/Super/InternalCustomers/view.ctp:25
+#: Template/Super/UnitManagers/view.ctp:25
+#: Template/Super/Users/inactivate.ctp:43
+#: Template/Super/Users/view.ctp:25
+#: Template/Users/get_token.ctp:14;15
+#: Template/Users/profile.ctp:42
+msgid "Email"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:49
+#: Template/Admin/Asesor/index.ctp:40
+#: Template/Admin/Asesor/view.ctp:22
+#: Template/Admin/BiUsers/view.ctp:29
+#: Template/Admin/Coordinador/inactivate.ctp:49
+#: Template/Admin/Coordinador/index.ctp:41
+#: Template/Admin/Coordinador/view.ctp:25
+#: Template/Admin/ExternalCustomers/view.ctp:29
+#: Template/Admin/InternalCustomers/view.ctp:29
+#: Template/Admin/UnitManagers/view.ctp:29
+#: Template/Admin/Users/inactivate.ctp:49
+#: Template/Admin/Users/index.ctp:40
+#: Template/Admin/Users/view.ctp:29
+#: Template/Coordinador/Asesor/inactivate.ctp:49
+#: Template/Coordinador/Asesor/index.ctp:64
+#: Template/Coordinador/Asesor/view.ctp:29
+#: Template/Coordinador/Users/inactivate.ctp:49
+#: Template/Coordinador/Users/index.ctp:53
+#: Template/Coordinador/Users/view.ctp:29
+#: Template/Super/Admins/inactivate.ctp:49
+#: Template/Super/Admins/index.ctp:49
+#: Template/Super/Admins/view.ctp:29
+#: Template/Super/Asesor/inactivate.ctp:49
+#: Template/Super/Asesor/index.ctp:65
+#: Template/Super/Asesor/view.ctp:29
+#: Template/Super/Coordinador/inactivate.ctp:49
+#: Template/Super/Coordinador/index.ctp:41
+#: Template/Super/Coordinador/view.ctp:25
+#: Template/Super/ExternalCustomers/view.ctp:29
+#: Template/Super/InternalCustomers/view.ctp:29
+#: Template/Super/UnitManagers/view.ctp:29
+#: Template/Super/Users/inactivate.ctp:49
+#: Template/Super/Users/index.ctp:49
+#: Template/Super/Users/view.ctp:29
+#: Template/Users/profile.ctp:50
+msgid "Mobile"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:55
+#: Template/Admin/Asesor/index.ctp:43
+#: Template/Admin/Asesor/view.ctp:25
+#: Template/Admin/BiUsers/view.ctp:31
+#: Template/Admin/Coordinador/inactivate.ctp:55
+#: Template/Admin/Coordinador/index.ctp:44
+#: Template/Admin/Coordinador/view.ctp:28
+#: Template/Admin/ExternalCustomers/view.ctp:31
+#: Template/Admin/InternalCustomers/view.ctp:31
+#: Template/Admin/UnitManagers/view.ctp:31
+#: Template/Admin/Users/inactivate.ctp:55
+#: Template/Admin/Users/index.ctp:43
+#: Template/Admin/Users/view.ctp:31
+#: Template/Coordinador/Asesor/inactivate.ctp:55
+#: Template/Coordinador/Asesor/index.ctp:67
+#: Template/Coordinador/Asesor/view.ctp:31
+#: Template/Coordinador/Users/inactivate.ctp:55
+#: Template/Coordinador/Users/index.ctp:56
+#: Template/Coordinador/Users/view.ctp:31
+#: Template/Super/Admins/inactivate.ctp:55
+#: Template/Super/Admins/index.ctp:52
+#: Template/Super/Admins/view.ctp:31
+#: Template/Super/Asesor/inactivate.ctp:55
+#: Template/Super/Asesor/index.ctp:68
+#: Template/Super/Asesor/view.ctp:31
+#: Template/Super/Coordinador/inactivate.ctp:55
+#: Template/Super/Coordinador/index.ctp:44
+#: Template/Super/Coordinador/view.ctp:28
+#: Template/Super/ExternalCustomers/view.ctp:31
+#: Template/Super/InternalCustomers/view.ctp:31
+#: Template/Super/UnitManagers/view.ctp:31
+#: Template/Super/Users/inactivate.ctp:55
+#: Template/Super/Users/index.ctp:52
+#: Template/Super/Users/view.ctp:31
+msgid "Access Group"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:61
+#: Template/Admin/Asesor/index.ctp:42
+#: Template/Admin/Coordinador/inactivate.ctp:61
+#: Template/Admin/Coordinador/index.ctp:43
+#: Template/Admin/Users/inactivate.ctp:61
+#: Template/Admin/Users/index.ctp:42
+#: Template/Coordinador/Asesor/inactivate.ctp:61
+#: Template/Coordinador/Asesor/index.ctp:66
+#: Template/Coordinador/Users/inactivate.ctp:61
+#: Template/Coordinador/Users/index.ctp:55
+#: Template/Super/Admins/inactivate.ctp:61
+#: Template/Super/Admins/index.ctp:51
+#: Template/Super/Asesor/inactivate.ctp:61
+#: Template/Super/Asesor/index.ctp:67
+#: Template/Super/Coordinador/inactivate.ctp:61
+#: Template/Super/Coordinador/index.ctp:43
+#: Template/Super/Users/inactivate.ctp:61
+#: Template/Super/Users/index.ctp:51
+msgid "Status"
+msgstr ""
+
+#: Template/Admin/Asesor/inactivate.ctp:71
+#: Template/Admin/Coordinador/inactivate.ctp:71
+#: Template/Admin/Users/inactivate.ctp:71
+#: Template/Coordinador/Asesor/inactivate.ctp:71
+#: Template/Coordinador/Users/inactivate.ctp:71
+#: Template/Super/Admins/inactivate.ctp:71
+#: Template/Super/Asesor/inactivate.ctp:71
+#: Template/Super/Coordinador/inactivate.ctp:71
+#: Template/Super/Users/inactivate.ctp:71
+msgid "Inactivation reason"
+msgstr ""
+
+#: Template/Admin/Asesor/index.ctp:9
+#: Template/Admin/Coordinador/index.ctp:9
+#: Template/Super/Coordinador/index.ctp:9
+msgid "Perfil"
+msgstr ""
+
+#: Template/Admin/Asesor/index.ctp:104
+#: Template/Admin/Coordinador/index.ctp:104
+#: Template/Admin/Layout/default.ctp:114
+#: Template/Admin/Users/index.ctp:113
+#: Template/Coordinador/Asesor/index.ctp:117
+#: Template/Coordinador/Users/index.ctp:104
+#: Template/Layout/default.ctp:161
+#: Template/Super/Admins/index.ctp:100
+#: Template/Super/Asesor/index.ctp:122
+#: Template/Super/Coordinador/index.ctp:104
+#: Template/Super/Users/index.ctp:103
+msgid "Archive"
+msgstr ""
+
+#: Template/Admin/Asesor/index.ctp:124
+#: Template/Admin/Coordinador/index.ctp:117
+#: Template/Super/Coordinador/index.ctp:117
+#: Template/Super/Users/index.ctp:116
+msgid "Reset password"
+msgstr ""
+
+#: Template/Admin/Asesor/view.ctp:7
+#: Template/Admin/Coordinador/add.ctp:25
+#: Template/Admin/Coordinador/edit.ctp:24
+#: Template/Admin/Coordinador/view.ctp:7
+#: Template/Super/Coordinador/add.ctp:25
+#: Template/Super/Coordinador/edit.ctp:34
+#: Template/Super/Coordinador/view.ctp:7
+msgid "Coordinador Information"
+msgstr ""
+
+#: Template/Admin/Asesor/view.ctp:28
+#: Template/Admin/BiUsers/view.ctp:33
+#: Template/Admin/Coordinador/view.ctp:31
+#: Template/Admin/ExternalCustomers/view.ctp:35
+#: Template/Admin/InternalCustomers/view.ctp:33
+#: Template/Admin/UnitManagers/view.ctp:35
+#: Template/Admin/Users/view.ctp:33
+#: Template/Coordinador/Asesor/view.ctp:33
+#: Template/Coordinador/Users/view.ctp:33
+#: Template/Super/Admins/view.ctp:33
+#: Template/Super/Asesor/view.ctp:33
+#: Template/Super/Coordinador/view.ctp:31
+#: Template/Super/ExternalCustomers/view.ctp:35
+#: Template/Super/InternalCustomers/view.ctp:33
+#: Template/Super/UnitManagers/view.ctp:35
+#: Template/Super/Users/view.ctp:33
+msgid "Last Login"
+msgstr ""
+
+#: Template/Admin/Asesor/view.ctp:35
+#: Template/Admin/Coordinador/view.ctp:38
+#: Template/Super/Coordinador/view.ctp:38
+msgid "Start Date"
+msgstr ""
+
+#: Template/Admin/Asesor/view.ctp:40
+#: Template/Admin/Coordinador/view.ctp:43
+#: Template/Super/Coordinador/view.ctp:43
+msgid "End Date"
+msgstr ""
+
+#: Template/Admin/Audits/index.ctp:9
+#: Template/Super/Audits/index.ctp:9
+#: Template/Super/Element/aside/sidebar-menu.ctp:183
+msgid "Audit"
+msgstr ""
+
+#: Template/Admin/Audits/index.ctp:38
+#: Template/Super/Audits/index.ctp:38
+msgid "Identifier"
+msgstr ""
+
+#: Template/Admin/Audits/index.ctp:39
+#: Template/Super/Audits/index.ctp:39
+msgid "Changes"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:8
+#: Template/Super/Audits/view.ctp:8
+msgid "Audit Detail Information"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:14
+#: Template/Super/Audits/view.ctp:14
+msgid "Id"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:17
+#: Template/Super/Audits/view.ctp:17
+msgid "Event type"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:23
+#: Template/Super/Audits/view.ctp:23
+msgid "Model id"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:29
+#: Template/Super/Audits/view.ctp:29
+msgid "Source Id"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:32
+#: Template/Super/Audits/view.ctp:32
+msgid "Source Ip"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:35
+#: Template/Super/Audits/view.ctp:35
+msgid "Source Url"
+msgstr ""
+
+#: Template/Admin/Audits/view.ctp:38
+#: Template/Super/Audits/view.ctp:38
+msgid "Deltas"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:8
+#: Template/Admin/BiUsers/edit.ctp:8
+msgid "Bi Users"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:26
+#: Template/Admin/BiUsers/edit.ctp:26
+#: Template/Admin/BiUsers/view.ctp:7
+msgid "Bi User Information"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:61
+#: Template/Admin/BiUsers/edit.ctp:62
+#: Template/Admin/ExternalCustomers/add.ctp:68
+#: Template/Admin/ExternalCustomers/edit.ctp:68
+#: Template/Admin/InternalCustomers/add.ctp:61
+#: Template/Admin/InternalCustomers/edit.ctp:62
+#: Template/Admin/TrainingResources/add.ctp:34
+#: Template/Admin/UnitManagers/add.ctp:65
+#: Template/Admin/UnitManagers/edit.ctp:65
+#: Template/Admin/Users/add.ctp:47
+#: Template/Admin/Users/edit.ctp:47
+#: Template/Coordinador/Asesor/edit.ctp:47
+#: Template/Coordinador/Users/add.ctp:47
+#: Template/Coordinador/Users/edit.ctp:47
+#: Template/Super/Asesor/add.ctp:47
+#: Template/Super/ExternalCustomers/add.ctp:68
+#: Template/Super/ExternalCustomers/edit.ctp:68
+#: Template/Super/InternalCustomers/add.ctp:61
+#: Template/Super/InternalCustomers/edit.ctp:62
+#: Template/Super/UnitManagers/add.ctp:65
+#: Template/Super/UnitManagers/edit.ctp:65
+#: Template/Super/Users/add.ctp:48
+#: Template/Super/Users/edit.ctp:47
+#: Template/Tickets/add.ctp:47;52;57
+#: Template/Users/profile.ctp:67
+msgid "Search"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:68
+#: Template/Admin/BiUsers/edit.ctp:69
+#: Template/Admin/InternalCustomers/add.ctp:68
+#: Template/Admin/InternalCustomers/edit.ctp:69
+#: Template/Super/InternalCustomers/add.ctp:68
+#: Template/Super/InternalCustomers/edit.ctp:69
+msgid "Campaign access"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:71
+#: Template/Admin/BiUsers/edit.ctp:72
+#: Template/Admin/ExternalCustomers/add.ctp:80
+#: Template/Admin/ExternalCustomers/edit.ctp:80
+#: Template/Admin/InternalCustomers/add.ctp:74
+#: Template/Admin/InternalCustomers/edit.ctp:75
+#: Template/Super/ExternalCustomers/add.ctp:80
+#: Template/Super/ExternalCustomers/edit.ctp:80
+#: Template/Super/InternalCustomers/add.ctp:74
+#: Template/Super/InternalCustomers/edit.ctp:75
+msgid "Campaigns"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:114
+#: Template/Admin/BiUsers/edit.ctp:126
+#: Template/Admin/ExternalCustomers/add.ctp:126
+#: Template/Admin/ExternalCustomers/edit.ctp:136
+#: Template/Admin/InternalCustomers/add.ctp:117
+#: Template/Admin/InternalCustomers/edit.ctp:129
+#: Template/Admin/UnitManagers/view.ctp:33
+#: Template/Super/ExternalCustomers/add.ctp:126
+#: Template/Super/ExternalCustomers/edit.ctp:136
+#: Template/Super/InternalCustomers/add.ctp:117
+#: Template/Super/InternalCustomers/edit.ctp:129
+#: Template/Super/UnitManagers/view.ctp:33
+msgid "Business Unit"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:115
+#: Template/Admin/BiUsers/edit.ctp:127
+#: Template/Admin/ExternalCustomers/add.ctp:127
+#: Template/Admin/ExternalCustomers/edit.ctp:137
+#: Template/Admin/InternalCustomers/add.ctp:118
+#: Template/Admin/InternalCustomers/edit.ctp:130
+#: Template/Super/ExternalCustomers/add.ctp:127
+#: Template/Super/ExternalCustomers/edit.ctp:137
+#: Template/Super/InternalCustomers/add.ctp:118
+#: Template/Super/InternalCustomers/edit.ctp:130
+msgid "Campaign"
+msgstr ""
+
+#: Template/Admin/BiUsers/add.ctp:117
+#: Template/Admin/BiUsers/edit.ctp:129
+#: Template/Admin/ExternalCustomers/add.ctp:129
+#: Template/Admin/ExternalCustomers/edit.ctp:139
+#: Template/Admin/InternalCustomers/add.ctp:120
+#: Template/Admin/InternalCustomers/edit.ctp:132
+#: Template/Super/ExternalCustomers/add.ctp:129
+#: Template/Super/ExternalCustomers/edit.ctp:139
+#: Template/Super/InternalCustomers/add.ctp:120
+#: Template/Super/InternalCustomers/edit.ctp:132
+msgid "Upload"
+msgstr ""
+
+#: Template/Admin/BiUsers/view.ctp:27
+#: Template/Admin/ExternalCustomers/view.ctp:27
+#: Template/Admin/InternalCustomers/view.ctp:27
+#: Template/Admin/UnitManagers/view.ctp:27
+#: Template/Admin/Users/view.ctp:27
+#: Template/Coordinador/Asesor/view.ctp:27
+#: Template/Coordinador/Users/view.ctp:27
+#: Template/Super/Admins/view.ctp:27
+#: Template/Super/Asesor/view.ctp:27
+#: Template/Super/ExternalCustomers/view.ctp:27
+#: Template/Super/InternalCustomers/view.ctp:27
+#: Template/Super/UnitManagers/view.ctp:27
+#: Template/Super/Users/view.ctp:27
+msgid "Token"
+msgstr ""
+
+#: Template/Admin/Business/add.ctp:6
+#: Template/Admin/Business/edit.ctp:11
+#: Template/Admin/Business/index.ctp:8
+#: Template/Coordinador/Committees/index.ctp:35
+#: Template/Super/Business/add.ctp:6
+#: Template/Super/Business/edit.ctp:11
+#: Template/Super/Business/index.ctp:8
+#: Template/Super/Element/aside/sidebar-menu.ctp:12
+msgid "Business"
+msgstr ""
+
+#: Template/Admin/Business/add.ctp:24
+#: Template/Admin/Business/edit.ctp:29
+#: Template/Admin/Business/view.ctp:7
+#: Template/Super/Business/add.ctp:24
+#: Template/Super/Business/edit.ctp:29
+#: Template/Super/Business/view.ctp:7
+msgid "Busines Information"
+msgstr ""
+
+#: Template/Admin/Business/index.ctp:10
+msgid "Todos los Usuarios"
+msgstr ""
+
+#: Template/Admin/Business/index.ctp:55
+#: Template/Admin/Coordinador/index.ctp:10
+#: Template/Super/Coordinador/index.ctp:10
+msgid "Coordinadores"
+msgstr ""
+
+#: Template/Admin/Business/index.ctp:61
+msgid "Asesores"
+msgstr ""
+
+#: Template/Admin/Business/reportusers.ctp:8
+msgid "Users Business"
+msgstr ""
+
+#: Template/Admin/Charges/add.ctp:6
+#: Template/Admin/Charges/edit.ctp:11
+#: Template/Admin/Charges/index.ctp:8
+msgid "Charges"
+msgstr ""
+
+#: Template/Admin/Charges/add.ctp:24
+#: Template/Admin/Charges/edit.ctp:29
+#: Template/Admin/Charges/view.ctp:7
+msgid "Charge Information"
+msgstr ""
+
+#: Template/Admin/Charges/add.ctp:36
+#: Template/Admin/Charges/edit.ctp:40
+msgid "These files extension are allowed: {0} "
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:12
+msgid "Name File"
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:14
+#: Template/Asesor/Committees/index.ctp:34
+#: Template/Element/search/tickets.ctp:44
+#: Template/Super/Offices/view.ctp:18
+#: Template/Super/StateReasons/view.ctp:12
+msgid "State"
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:16
+msgid "Records Obligation"
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:18
+msgid "Failed Obligation"
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:20
+msgid "Records Customer"
+msgstr ""
+
+#: Template/Admin/Charges/view.ctp:22
+msgid "Failed Customer"
+msgstr ""
+
+#: Template/Admin/Coordinador/add.ctp:7
+#: Template/Admin/Coordinador/edit.ctp:7
+#: Template/Obligations/resumen.ctp:509
+#: Template/Super/Coordinador/add.ctp:7
+#: Template/Super/Coordinador/edit.ctp:17
+msgid "Coordinador"
+msgstr ""
+
+#: Template/Admin/Customers/add.ctp:7
+#: Template/Admin/Customers/edit.ctp:7
+#: Template/Admin/Customers/index.ctp:9
+#: Template/Super/Customers/add.ctp:7
+#: Template/Super/Customers/edit.ctp:7
+#: Template/Super/Customers/index.ctp:9
+msgid "Customers"
+msgstr ""
+
+#: Template/Admin/Customers/add.ctp:25
+#: Template/Admin/Customers/edit.ctp:25
+#: Template/Admin/Customers/view.ctp:7
+#: Template/Super/Customers/add.ctp:25
+#: Template/Super/Customers/edit.ctp:25
+#: Template/Super/Customers/view.ctp:7
+msgid "Customer Information"
+msgstr ""
+
+#: Template/Admin/Customers/index.ctp:40
+#: Template/Super/Customers/index.ctp:40
+msgid "Contact name"
+msgstr ""
+
+#: Template/Admin/Customers/index.ctp:41
+#: Template/Super/Customers/index.ctp:41
+msgid "Contact email"
+msgstr ""
+
+#: Template/Admin/Customers/index.ctp:42
+#: Template/Super/Customers/index.ctp:42
+msgid "Contact position"
+msgstr ""
+
+#: Template/Admin/Customers/index.ctp:43
+#: Template/Super/Customers/index.ctp:43
+msgid "Contact phone"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:14
+#: Template/Super/Customers/view.ctp:14
+msgid "Contact Name"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:16
+#: Template/Super/Customers/view.ctp:16
+msgid "Contact Email"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:18
+#: Template/Super/Customers/view.ctp:18
+msgid "Contact Position"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:20
+#: Template/Super/Customers/view.ctp:20
+msgid "Contact Phone"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:22
+#: Template/Super/Customers/view.ctp:22
+msgid "Business Unit Count"
+msgstr ""
+
+#: Template/Admin/Customers/view.ctp:24
+#: Template/Super/Customers/view.ctp:24
+msgid "Business Units"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:16
+#: Template/Asesor/Element/header_home.ctp:16
+#: Template/Coordinador/Element/header_home.ctp:16
+#: Template/Element/header_home.ctp:28
+msgid "FECHA ACTUALIZACIÓN:"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:16
+#: Template/Asesor/Element/header_home.ctp:16
+#: Template/Coordinador/Element/header_home.ctp:16
+#: Template/Element/header_home.ctp:28
+msgid "SALIR"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:68
+msgid "Data"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:76
+#: Template/Admin/Users/index.ctp:9
+#: Template/Coordinador/Asesor/index.ctp:9
+msgid "Perfiles"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:84
+msgid "Reporte"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:90
+#: Template/Asesor/Element/header_home.ctp:79;85
+#: Template/Coordinador/Element/header_home.ctp:76
+msgid "SOS"
+msgstr ""
+
+#: Template/Admin/Element/header_home.ctp:96
+#: Template/Admin/Trainings/add.ctp:6
+#: Template/Admin/Trainings/edit.ctp:11
+#: Template/Admin/Trainings/index.ctp:8
+#: Template/Asesor/Trainings/index.ctp:8
+msgid "Trainings"
+msgstr ""
+
+#: Template/Admin/Element/search/charges.ctp:12
+#: Template/Admin/Element/search/users.ctp:38
+#: Template/Coordinador/Element/search/users.ctp:38
+#: Template/Element/search/generic.ctp:12
+#: Template/Super/Element/search/bi_users.ctp:38
+#: Template/Super/Element/search/external_customers.ctp:38
+#: Template/Super/Element/search/internal_customers.ctp:38
+#: Template/Super/Element/search/settings.ctp:37
+#: Template/Super/Element/search/unit_managers.ctp:38
+#: Template/Super/Element/search/users.ctp:38
+msgid "Search by name"
+msgstr ""
+
+#: Template/Admin/Element/search/logs.ctp:47
+#: Template/Admin/Element/search/negociaciones.ctp:46
+#: Template/Super/Element/search/access_activities.ctp:52
+#: Template/Super/Element/search/audits.ctp:46
+msgid "Search by date"
+msgstr ""
+
+#: Template/Admin/Element/search/logs.ctp:58
+#: Template/Admin/Element/search/negociaciones.ctp:57
+#: Template/Admin/Element/search/users.ctp:54
+#: Template/Coordinador/Element/search/users.ctp:53
+#: Template/Element/search/tickets.ctp:49
+#: Template/Element/search/tickets_admin.ctp:51
+#: Template/Super/Element/search/access_activities.ctp:66
+#: Template/Super/Element/search/access_logs.ctp:60
+#: Template/Super/Element/search/audits.ctp:58
+#: Template/Super/Element/search/bi_users.ctp:53
+#: Template/Super/Element/search/external_customers.ctp:54
+#: Template/Super/Element/search/internal_customers.ctp:53
+#: Template/Super/Element/search/settings.ctp:50
+#: Template/Super/Element/search/unit_managers.ctp:53
+#: Template/Super/Element/search/users.ctp:55
+msgid "Filter"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/add.ctp:9
+#: Template/Coordinador/Asesor/index.ctp:35
+#: Template/Super/Asesor/index.ctp:35
+#: Template/Super/ExternalCustomers/add.ctp:9
+msgid "External Customer"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/add.ctp:27
+#: Template/Admin/ExternalCustomers/edit.ctp:26
+#: Template/Super/ExternalCustomers/add.ctp:27
+#: Template/Super/ExternalCustomers/edit.ctp:26
+msgid "External Customer Information"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/add.ctp:53
+#: Template/Admin/ExternalCustomers/edit.ctp:52
+#: Template/Admin/ExternalCustomers/view.ctp:33
+#: Template/Super/ExternalCustomers/add.ctp:53
+#: Template/Super/ExternalCustomers/edit.ctp:52
+#: Template/Super/ExternalCustomers/view.ctp:33
+msgid "Customer"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/add.ctp:76
+#: Template/Admin/ExternalCustomers/edit.ctp:76
+#: Template/Super/ExternalCustomers/add.ctp:76
+#: Template/Super/ExternalCustomers/edit.ctp:76
+msgid "External customers can view dashboards for associated campaigns"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/add.ctp:128
+#: Template/Admin/ExternalCustomers/edit.ctp:138
+#: Template/Admin/InternalCustomers/add.ctp:119
+#: Template/Admin/InternalCustomers/edit.ctp:131
+#: Template/Super/ExternalCustomers/add.ctp:128
+#: Template/Super/ExternalCustomers/edit.ctp:138
+#: Template/Super/InternalCustomers/add.ctp:119
+#: Template/Super/InternalCustomers/edit.ctp:131
+msgid "Download"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/edit.ctp:8
+#: Template/Super/ExternalCustomers/edit.ctp:8
+msgid "External Customers"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:13
+#: Template/Super/ExternalCustomers/select_customer.ctp:13
+msgid "Select customer by create External Customer"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:17
+#: Template/Super/ExternalCustomers/select_customer.ctp:17
+msgid "Select Customer"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/select_customer.ctp:21
+#: Template/Super/ExternalCustomers/select_customer.ctp:21
+msgid "Next"
+msgstr ""
+
+#: Template/Admin/ExternalCustomers/view.ctp:7
+#: Template/Super/ExternalCustomers/view.ctp:7
+msgid "External Customer  Information"
+msgstr ""
+
+#: Template/Admin/InternalCustomers/add.ctp:8
+#: Template/Coordinador/Asesor/index.ctp:31
+#: Template/Super/Asesor/index.ctp:31
+#: Template/Super/InternalCustomers/add.ctp:8
+msgid "Internal Customer"
+msgstr ""
+
+#: Template/Admin/InternalCustomers/add.ctp:26
+#: Template/Admin/InternalCustomers/edit.ctp:26
+#: Template/Super/InternalCustomers/add.ctp:26
+#: Template/Super/InternalCustomers/edit.ctp:26
+msgid "Internal Customer Information"
+msgstr ""
+
+#: Template/Admin/InternalCustomers/add.ctp:70
+#: Template/Admin/InternalCustomers/edit.ctp:71
+#: Template/Super/InternalCustomers/add.ctp:70
+#: Template/Super/InternalCustomers/edit.ctp:71
+msgid "Internal customers can view dashboards for associated campaigns"
+msgstr ""
+
+#: Template/Admin/InternalCustomers/edit.ctp:8
+#: Template/Super/InternalCustomers/edit.ctp:8
+msgid "Internal Customers"
+msgstr ""
+
+#: Template/Admin/InternalCustomers/view.ctp:7
+#: Template/Super/InternalCustomers/view.ctp:7
+msgid "Internal Customer  Information"
+msgstr ""
+
+#: Template/Admin/IpsGroups/add.ctp:7
+#: Template/Admin/IpsGroups/edit.ctp:7
+#: Template/Admin/IpsGroups/index.ctp:9
+#: Template/Super/IpsGroups/add.ctp:7
+#: Template/Super/IpsGroups/edit.ctp:7
+#: Template/Super/IpsGroups/index.ctp:9
+msgid "Ips Groups"
+msgstr ""
+
+#: Template/Admin/IpsGroups/add.ctp:27
+#: Template/Admin/IpsGroups/edit.ctp:27
+#: Template/Super/IpsGroups/add.ctp:27
+#: Template/Super/IpsGroups/edit.ctp:27
+msgid "Ips Group Information"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:51
+#: Template/Asesor/Layout/default.ctp:53
+#: Template/Coordinador/Layout/default.ctp:51
+#: Template/Layout/asesor_2_bk.ctp:48
+#: Template/Layout/asesor_bk.ctp:50
+#: Template/Layout/default.ctp:18
+msgid "Loading data .. please wait.."
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:53;86;88
+#: Template/Asesor/Layout/_error.ctp:35
+#: Template/Asesor/Layout/default.ctp:55;91;93
+#: Template/Coordinador/Layout/default.ctp:53;89;91
+#: Template/Layout/_error.ctp:35
+#: Template/Layout/asesor_2_bk.ctp:50;74;76
+#: Template/Layout/asesor_bk.ctp:52;78;80
+#: Template/Layout/default.ctp:20;129;131
+#: Template/Error/_error500.ctp:41
+#: Template/Error/error400.ctp:36
+#: Template/Error/error404.ctp:20
+#: Template/Error/error500.ctp:20
+msgid "Error"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:54
+#: Template/Asesor/Layout/default.ctp:56
+#: Template/Coordinador/Layout/default.ctp:54
+#: Template/Layout/asesor_2_bk.ctp:51
+#: Template/Layout/asesor_bk.ctp:53
+#: Template/Layout/default.ctp:21
+msgid "Access denied / prohibited"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:55
+#: Template/Asesor/Layout/default.ctp:57
+#: Template/Coordinador/Layout/default.ctp:55
+#: Template/Layout/asesor_2_bk.ctp:52
+#: Template/Layout/asesor_bk.ctp:54
+#: Template/Layout/default.ctp:22
+msgid "Session may have expired due to inactivity"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:56
+#: Template/Asesor/Layout/default.ctp:58
+#: Template/Coordinador/Layout/default.ctp:56
+#: Template/Layout/asesor_2_bk.ctp:53
+#: Template/Layout/asesor_bk.ctp:55
+#: Template/Layout/default.ctp:23
+msgid "You are entering an unauthorized zone"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:57
+#: Template/Asesor/Layout/default.ctp:59
+#: Template/Coordinador/Layout/default.ctp:57
+#: Template/Layout/asesor_2_bk.ctp:54
+#: Template/Layout/asesor_bk.ctp:56
+#: Template/Layout/default.ctp:24
+msgid "If the problem persists, check with the platform administrator"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:94
+#: Template/Asesor/Layout/default.ctp:99
+#: Template/Coordinador/Layout/default.ctp:97
+#: Template/Layout/asesor_2_bk.ctp:82
+#: Template/Layout/asesor_bk.ctp:86
+#: Template/Layout/default.ctp:137
+msgid "Are you sure you want to delete this element?"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:96
+#: Template/Asesor/Layout/default.ctp:101
+#: Template/Coordinador/Layout/default.ctp:99
+#: Template/Layout/asesor_2_bk.ctp:84
+#: Template/Layout/asesor_bk.ctp:88
+#: Template/Layout/default.ctp:139
+msgid "Confirm Delete"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:100;113
+#: Template/Asesor/Layout/default.ctp:105
+#: Template/Coordinador/Layout/default.ctp:103
+#: Template/Element/modal_approved_ticket.ctp:15
+#: Template/Layout/asesor_2_bk.ctp:88
+#: Template/Layout/asesor_bk.ctp:92
+#: Template/Layout/default.ctp:143;160
+msgid "Cancel"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:107
+#: Template/Layout/default.ctp:154
+msgid "Are you sure you want to archive this element?"
+msgstr ""
+
+#: Template/Admin/Layout/default.ctp:109
+#: Template/Layout/default.ctp:156
+msgid "Confirm Archive User"
+msgstr ""
+
+#: Template/Admin/Logs/add.ctp:6
+#: Template/Admin/Logs/edit.ctp:11
+#: Template/Admin/Logs/index.ctp:8
+#: Template/Super/Element/aside/sidebar-menu.ctp:176
+msgid "Logs"
+msgstr ""
+
+#: Template/Admin/Logs/add.ctp:24
+#: Template/Admin/Logs/edit.ctp:29
+#: Template/Admin/Logs/view.ctp:7
+msgid "Log Information"
+msgstr ""
+
+#: Template/Admin/Logs/view.ctp:14
+msgid "Customer Type Identification Id"
+msgstr ""
+
+#: Template/Admin/Logs/view.ctp:16
+msgid "Customer Identification"
+msgstr ""
+
+#: Template/Admin/Logs/view.ctp:18
+msgid "Answer"
+msgstr ""
+
+#: Template/Admin/Roles/add.ctp:6
+#: Template/Admin/Roles/edit.ctp:6
+#: Template/Admin/Roles/index.ctp:9
+#: Template/Super/Element/aside/sidebar-menu.ctp:137
+#: Template/Super/Roles/add.ctp:6
+#: Template/Super/Roles/edit.ctp:6
+#: Template/Super/Roles/index.ctp:9
+msgid "Roles"
+msgstr ""
+
+#: Template/Admin/Roles/add.ctp:24
+#: Template/Admin/Roles/edit.ctp:24
+#: Template/Admin/Roles/view.ctp:7
+#: Template/Super/Roles/add.ctp:24
+#: Template/Super/Roles/edit.ctp:24
+#: Template/Super/Roles/view.ctp:7
+msgid "Role Information"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:14
+#: Template/Super/Roles/view.ctp:14
+msgid "Prefix"
+msgstr ""
+
+#: Template/Admin/SettingCategories/add.ctp:6
+#: Template/Admin/SettingCategories/edit.ctp:11
+#: Template/Admin/SettingCategories/index.ctp:8
+#: Template/Super/Element/aside/sidebar-menu.ctp:155
+#: Template/Super/SettingCategories/add.ctp:6
+#: Template/Super/SettingCategories/edit.ctp:11
+#: Template/Super/SettingCategories/index.ctp:8
+msgid "Setting Categories"
+msgstr ""
+
+#: Template/Admin/SettingCategories/add.ctp:24
+#: Template/Admin/SettingCategories/edit.ctp:29
+#: Template/Super/SettingCategories/add.ctp:24
+#: Template/Super/SettingCategories/edit.ctp:29
+msgid "Setting Category Information"
+msgstr ""
+
+#: Template/Admin/Settings/add.ctp:8
+#: Template/Admin/Settings/edit.ctp:6
+#: Template/Admin/Settings/index.ctp:8
+#: Template/Super/Element/aside/sidebar-menu.ctp:160
+#: Template/Super/Settings/add.ctp:8
+#: Template/Super/Settings/edit.ctp:6
+#: Template/Super/Settings/index.ctp:8
+msgid "Settings"
+msgstr ""
+
+#: Template/Admin/Settings/add.ctp:26
+#: Template/Admin/Settings/edit.ctp:24
+#: Template/Super/Settings/add.ctp:26
+#: Template/Super/Settings/edit.ctp:24
+msgid "Setting Information"
+msgstr ""
+
+#: Template/Admin/Settings/index.ctp:36
+#: Template/Super/Settings/index.ctp:36
+msgid "Category"
+msgstr ""
+
+#: Template/Admin/Settings/index.ctp:38
+#: Template/Super/Settings/index.ctp:38
+msgid "Label"
+msgstr ""
+
+#: Template/Admin/Settings/index.ctp:39
+#: Template/Super/Settings/index.ctp:39
+msgid "value"
+msgstr ""
+
+#: Template/Admin/Settings/index.ctp:40
+#: Template/Super/Settings/index.ctp:40
+msgid "Type key"
+msgstr ""
+
+#: Template/Admin/Settings/update.ctp:8
+#: Template/Super/Element/aside/sidebar-menu.ctp:165;171
+#: Template/Super/Settings/update.ctp:8
+msgid "Adjust Settings"
+msgstr ""
+
+#: Template/Admin/Tickets/add.ctp:6
+#: Template/Admin/Tickets/edit.ctp:11
+#: Template/Admin/Tickets/index.ctp:8
+#: Template/Pages/reports.ctp:53
+#: Template/Super/Tickets/add.ctp:6
+#: Template/Super/Tickets/edit.ctp:11
+#: Template/Super/Tickets/index.ctp:8
+#: Template/Tickets/add.ctp:6
+#: Template/Tickets/admin.ctp:8
+#: Template/Tickets/developing.ctp:11
+#: Template/Tickets/edit.ctp:11
+#: Template/Tickets/index.ctp:8
+#: Template/Tickets/solve.ctp:11
+msgid "Tickets"
+msgstr ""
+
+#: Template/Admin/Tickets/add.ctp:24
+#: Template/Admin/Tickets/edit.ctp:29
+#: Template/Admin/Tickets/view.ctp:9
+#: Template/Super/Tickets/add.ctp:24
+#: Template/Super/Tickets/edit.ctp:29
+#: Template/Super/Tickets/view.ctp:9
+#: Template/Tickets/add.ctp:24
+#: Template/Tickets/developing.ctp:29
+#: Template/Tickets/edit.ctp:29
+#: Template/Tickets/solve.ctp:29
+#: Template/Tickets/view.ctp:7
+msgid "Ticket Information"
+msgstr ""
+
+#: Template/Admin/Tickets/index.ctp:64
+#: Template/Super/Tickets/index.ctp:61
+#: Template/Tickets/admin.ctp:60
+msgid "Developing"
+msgstr ""
+
+#: Template/Admin/Tickets/index.ctp:70
+#: Template/Super/Tickets/index.ctp:67
+#: Template/Tickets/admin.ctp:66
+msgid "Solve"
+msgstr ""
+
+#: Template/Admin/Tickets/index.ctp:77
+#: Template/Element/modal_approved_ticket.ctp:16
+#: Template/Super/Tickets/index.ctp:74
+#: Template/Tickets/admin.ctp:73
+#: Template/Tickets/view.ctp:18
+msgid "Approved"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:14
+#: Template/Super/Tickets/view.ctp:14
+#: Template/Tickets/view.ctp:12
+msgid "Title"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:18
+#: Template/Super/Tickets/view.ctp:18
+msgid "Tickets Status"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:20
+#: Template/Super/Tickets/view.ctp:20
+msgid "Solved By"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:22
+#: Template/Super/Tickets/view.ctp:22
+msgid "Approved By"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:24
+#: Template/Super/Tickets/view.ctp:24
+msgid "Priority"
+msgstr ""
+
+#: Template/Admin/Tickets/view.ctp:28
+#: Template/Super/Tickets/view.ctp:28
+#: Template/Tickets/view.ctp:22
+msgid "Resolved Detail"
+msgstr ""
+
+#: Template/Admin/TrainingResources/add.ctp:6
+#: Template/Admin/TrainingResources/edit.ctp:11
+#: Template/Admin/TrainingResources/index.ctp:8
+msgid "Training Resources"
+msgstr ""
+
+#: Template/Admin/TrainingResources/add.ctp:24
+#: Template/Admin/TrainingResources/edit.ctp:29
+#: Template/Admin/TrainingResources/view.ctp:7
+msgid "Training Resource Information"
+msgstr ""
+
+#: Template/Admin/TrainingResources/add.ctp:34
+#: Template/Tickets/add.ctp:47;52;57
+msgid "resorce"
+msgstr ""
+
+#: Template/Admin/TrainingResources/view.ctp:12
+msgid "File Dir"
+msgstr ""
+
+#: Template/Admin/TrainingResources/view.ctp:14
+msgid "File Size"
+msgstr ""
+
+#: Template/Admin/TrainingResources/view.ctp:16
+msgid "File Type"
+msgstr ""
+
+#: Template/Admin/TrainingResources/view.ctp:18
+msgid "Training"
+msgstr ""
+
+#: Template/Admin/Trainings/add.ctp:24
+#: Template/Admin/Trainings/edit.ctp:29
+#: Template/Admin/Trainings/view.ctp:7
+#: Template/Asesor/Trainings/view.ctp:7
+msgid "Training Information"
+msgstr ""
+
+#: Template/Admin/Trainings/index.ctp:69
+msgid "Resources"
+msgstr ""
+
+#: Template/Admin/UnitManagers/add.ctp:8
+#: Template/Admin/UnitManagers/edit.ctp:8
+#: Template/Super/UnitManagers/add.ctp:8
+#: Template/Super/UnitManagers/edit.ctp:8
+msgid "Unit Managers"
+msgstr ""
+
+#: Template/Admin/UnitManagers/add.ctp:26
+#: Template/Admin/UnitManagers/edit.ctp:25
+#: Template/Super/UnitManagers/add.ctp:26
+#: Template/Super/UnitManagers/edit.ctp:25
+msgid "Manager Unit Information"
+msgstr ""
+
+#: Template/Admin/UnitManagers/view.ctp:7
+#: Template/Super/UnitManagers/view.ctp:7
+msgid "Unit Manager Information"
+msgstr ""
+
+#: Template/Admin/UnitManagers/view.ctp:41
+#: Template/Super/UnitManagers/view.ctp:41
+msgid "Archived"
+msgstr ""
+
+#: Template/Admin/Users/index.ctp:10
+msgid "Usuarios"
+msgstr ""
+
+#: Template/Alerts/alert.ctp:5
+msgid "Dashboards"
+msgstr ""
+
+#: Template/Asesor/CityOffices/oficinas_ciudad.ctp:17
+#: Template/Coordinador/CityOffices/oficinas_ciudad.ctp:17
+#: Template/Obligations/resumen.ctp:456
+msgid "Oficina"
+msgstr ""
+
+#: Template/Asesor/CityOffices/oficinas_ciudad.ctp:18
+#: Template/Coordinador/CityOffices/oficinas_ciudad.ctp:18
+#: Template/Obligations/resumen.ctp:488
+msgid "Dirección"
+msgstr ""
+
+#: Template/Asesor/CityOffices/oficinas_ciudad.ctp:19
+#: Template/Coordinador/CityOffices/oficinas_ciudad.ctp:19
+msgid "Horario"
+msgstr ""
+
+#: Template/Asesor/Committees/add.ctp:6
+#: Template/Asesor/Committees/edit.ctp:11
+#: Template/Asesor/Committees/index.ctp:8
+#: Template/Coordinador/Committees/add.ctp:6
+#: Template/Coordinador/Committees/edit.ctp:11
+#: Template/Coordinador/Committees/index.ctp:8
+msgid "Committees"
+msgstr ""
+
+#: Template/Asesor/Committees/add.ctp:24
+#: Template/Asesor/Committees/edit.ctp:29
+#: Template/Asesor/Committees/view.ctp:7
+#: Template/Coordinador/Committees/add.ctp:24
+#: Template/Coordinador/Committees/edit.ctp:29
+#: Template/Coordinador/Committees/view.ctp:8
+msgid "Committee Information"
+msgstr ""
+
+#: Template/Asesor/Committees/index.ctp:32
+#: Template/Coordinador/Committees/index.ctp:32
+msgid "Numero identificación"
+msgstr ""
+
+#: Template/Asesor/Committees/index.ctp:35
+#: Template/Asesor/Committees/view.ctp:83
+#: Template/Coordinador/Committees/index.ctp:34
+#: Template/Coordinador/Committees/view.ctp:87
+#: Template/Coordinador/HistoryCustomers/history.ctp:15
+#: Template/HistoryCustomers/history.ctp:15
+#: Template/Obligations/resumen.ctp:497
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:14
+msgid "Fecha"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:25
+#: Template/Coordinador/Committees/view.ctp:30
+#: Template/Element/history_customer.ctp:28
+msgid "Nombre Cliente"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:26
+#: Template/Coordinador/Committees/view.ctp:31
+msgid "Identificacion"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:34
+#: Template/Asesor/Customers/consult.ctp:324
+#: Template/Coordinador/Committees/view.ctp:37
+#: Template/Coordinador/Customers/consult-bk.ctp:330
+#: Template/Customers/consult.ctp:445
+msgid "Detalle de Productos"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:41;118
+#: Template/Asesor/Customers/consult.ctp:339
+#: Template/Asesor/Customers/information.ctp:79;213
+#: Template/Coordinador/Committees/view.ctp:44;122
+#: Template/Coordinador/Customers/consult-bk.ctp:345
+#: Template/Coordinador/Customers/information.ctp:79;213
+#: Template/Coordinador/HistoryCustomers/view.ctp:27;68
+#: Template/Customers/consult.ctp:462
+#: Template/Customers/information.ctp:79;213
+#: Template/HistoryCustomers/view.ctp:29;72
+#: Template/Obligations/oferta.ctp:25;248;349
+#: Template/Obligations/oferta_vehiculo.ctp:27
+#: Template/Obligations/pago_total_vehiculo.ctp:29
+#: Template/Obligations/resumen.ctp:23;60;108;191;236;341
+msgid "Tipo"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:43
+#: Template/Asesor/Customers/consult.ctp:341
+#: Template/Asesor/Customers/information.ctp:81;215
+#: Template/Asesor/Element/_resumen_cliente.ctp:18
+#: Template/Coordinador/Committees/view.ctp:46
+#: Template/Coordinador/Customers/consult-bk.ctp:347
+#: Template/Coordinador/Customers/information.ctp:81;215
+#: Template/Coordinador/HistoryCustomers/view.ctp:29
+#: Template/Customers/consult.ctp:466
+#: Template/Customers/information.ctp:81;215
+#: Template/Element/calculadora_vehiculo.ctp:52
+#: Template/HistoryCustomers/view.ctp:31
+#: Template/Obligations/pago_total_vehiculo.ctp:32
+#: Template/Obligations/resumen.ctp:25;62;110;193;238;343
+msgid "Saldo total"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:44;159
+#: Template/Asesor/Customers/consult.ctp:342
+#: Template/Asesor/Customers/information.ctp:82;216
+#: Template/Asesor/Obligations/normalizar.ctp:70
+#: Template/Coordinador/Committees/view.ctp:47;163;249
+#: Template/Coordinador/Customers/consult-bk.ctp:348
+#: Template/Coordinador/Customers/information.ctp:82;216
+#: Template/Coordinador/HistoryCustomers/view.ctp:30;108
+#: Template/Coordinador/Obligations/normalizar.ctp:70
+#: Template/Customers/consult.ctp:467
+#: Template/Customers/information.ctp:82;216
+#: Template/HistoryCustomers/view.ctp:32;112;149
+#: Template/Obligations/oferta.ctp:152;396
+#: Template/Obligations/resumen.ctp:26;111;157;239;282
+msgid "Cuota"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:45
+#: Template/Asesor/Customers/consult.ctp:343
+#: Template/Asesor/Customers/information.ctp:83;217
+#: Template/Coordinador/Committees/view.ctp:48
+#: Template/Coordinador/Customers/consult-bk.ctp:349
+#: Template/Coordinador/Customers/information.ctp:83;217
+#: Template/Coordinador/HistoryCustomers/view.ctp:31
+#: Template/Customers/consult.ctp:468
+#: Template/Customers/information.ctp:83;217
+#: Template/HistoryCustomers/view.ctp:33
+#: Template/Obligations/resumen.ctp:27
+msgid "Pago mínimo"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:46
+#: Template/Asesor/Customers/consult.ctp:344
+#: Template/Asesor/Customers/information.ctp:84;218
+#: Template/Coordinador/Committees/view.ctp:49
+#: Template/Coordinador/Customers/consult-bk.ctp:350
+#: Template/Coordinador/Customers/information.ctp:84;218
+#: Template/Coordinador/HistoryCustomers/view.ctp:32
+#: Template/Customers/consult.ctp:469
+#: Template/Customers/information.ctp:84;218
+#: Template/Element/calculadora_vehiculo.ctp:58
+#: Template/HistoryCustomers/view.ctp:34
+#: Template/Obligations/pago_total_vehiculo.ctp:34
+msgid "Días mora"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:47
+#: Template/Asesor/Customers/consult.ctp:345
+#: Template/Asesor/Customers/information.ctp:85;219
+#: Template/Asesor/Obligations/normalizar.ctp:71
+#: Template/Coordinador/Committees/view.ctp:50
+#: Template/Coordinador/Customers/consult-bk.ctp:351
+#: Template/Coordinador/Customers/information.ctp:85;219
+#: Template/Coordinador/HistoryCustomers/view.ctp:33
+#: Template/Coordinador/Obligations/normalizar.ctp:71
+#: Template/Customers/consult.ctp:470
+#: Template/Customers/information.ctp:85;219
+#: Template/HistoryCustomers/view.ctp:35
+#: Template/Obligations/resumen.ctp:153
+msgid "Tasa EA"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:48
+#: Template/Asesor/Customers/consult.ctp:346
+#: Template/Asesor/Customers/information.ctp:86
+#: Template/Asesor/Obligations/normalizar.ctp:72
+#: Template/Coordinador/Committees/view.ctp:51
+#: Template/Coordinador/Customers/consult-bk.ctp:352
+#: Template/Coordinador/Customers/information.ctp:86
+#: Template/Coordinador/HistoryCustomers/view.ctp:34
+#: Template/Coordinador/Obligations/normalizar.ctp:72
+#: Template/Customers/consult.ctp:471
+#: Template/Customers/information.ctp:86
+#: Template/HistoryCustomers/view.ctp:36
+#: Template/Obligations/resumen.ctp:149
+msgid "Tasa EM"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:49
+#: Template/Asesor/Customers/consult.ctp:347
+#: Template/Coordinador/Customers/consult-bk.ctp:353
+#: Template/Customers/consult.ctp:472
+msgid "Fecha de corte"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:75
+#: Template/Coordinador/Committees/view.ctp:77
+msgid "Detalle de Gestión"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:84
+#: Template/Coordinador/Committees/view.ctp:88
+#: Template/Coordinador/HistoryCustomers/history.ctp:16
+#: Template/HistoryCustomers/history.ctp:16
+msgid "Hora"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:87
+#: Template/Coordinador/Committees/view.ctp:91
+#: Template/Coordinador/HistoryCustomers/history.ctp:19
+#: Template/HistoryCustomers/history.ctp:19
+msgid "Alternativa"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:88
+#: Template/Coordinador/Committees/view.ctp:92
+#: Template/Coordinador/HistoryCustomers/history.ctp:20
+#: Template/HistoryCustomers/history.ctp:20
+msgid "Pago Acordado"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:89
+#: Template/Coordinador/Committees/view.ctp:93
+#: Template/Coordinador/HistoryCustomers/history.ctp:22
+#: Template/HistoryCustomers/history.ctp:22
+msgid "Usuario"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:120
+#: Template/Coordinador/Committees/view.ctp:124
+#: Template/Coordinador/HistoryCustomers/view.ctp:70
+#: Template/HistoryCustomers/view.ctp:74
+#: Template/Obligations/oferta.ctp:27;250;351
+#: Template/Obligations/oferta_vehiculo.ctp:29
+#: Template/Obligations/pago_total_vehiculo.ctp:31
+msgid "Alternativa de Negociación"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:121;161
+#: Template/Asesor/Obligations/normalizar.ctp:73
+#: Template/Coordinador/Committees/view.ctp:125;165;214;250
+#: Template/Coordinador/HistoryCustomers/view.ctp:71;110
+#: Template/Coordinador/Obligations/normalizar.ctp:73
+#: Template/HistoryCustomers/view.ctp:75;114;150
+#: Template/Obligations/oferta.ctp:31;154;251;352;397
+#: Template/Obligations/oferta_vehiculo.ctp:30
+#: Template/Obligations/resumen.ctp:145;278
+msgid "Plazo"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:122
+#: Template/Coordinador/Committees/view.ctp:126
+#: Template/Coordinador/HistoryCustomers/view.ctp:72
+#: Template/HistoryCustomers/view.ctp:76
+#: Template/Obligations/oferta.ctp:32;252;353
+#: Template/Obligations/oferta_vehiculo.ctp:32
+msgid "Nueva Cuota"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:153
+#: Template/Coordinador/Committees/view.ctp:157
+msgid "Unificación Productos Consumos"
+msgstr ""
+
+#: Template/Asesor/Committees/view.ctp:160
+#: Template/Coordinador/Committees/view.ctp:164
+#: Template/Coordinador/HistoryCustomers/view.ctp:109
+#: Template/HistoryCustomers/view.ctp:113
+#: Template/Obligations/oferta.ctp:153
+msgid "Tasa"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:31
+#: Template/Coordinador/Customers/consult-bk.ctp:32
+#: Template/Customers/consult.ctp:32
+msgid "Tipo Documento"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:32
+#: Template/Coordinador/Customers/consult-bk.ctp:33
+#: Template/Customers/consult.ctp:33
+msgid "Número Documento"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:61
+#: Template/Coordinador/Customers/consult-bk.ctp:62
+#: Template/Customers/consult.ctp:53
+msgid "HISTORIAL CLIENTE"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:73
+#: Template/Coordinador/Customers/consult-bk.ctp:74
+#: Template/Customers/consult.ctp:65
+msgid "Deuda Actual"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:77;92;108;174
+#: Template/Coordinador/Customers/consult-bk.ctp:78;93;109
+#: Template/Customers/consult.ctp:69;84;100;173;191
+msgid ""
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:88
+#: Template/Coordinador/Customers/consult-bk.ctp:89
+#: Template/Customers/consult.ctp:80
+msgid "Ingreso Actual"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:124
+#: Template/Coordinador/Customers/consult-bk.ctp:125
+#: Template/Customers/consult.ctp:208
+msgid "Ingreso Propio"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:130
+#: Template/Coordinador/Customers/consult-bk.ctp:131
+#: Template/Customers/consult.ctp:214
+msgid "Ingreso Terceros"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:136
+#: Template/Coordinador/Customers/consult-bk.ctp:137
+#: Template/Customers/consult.ctp:220
+msgid "Mixto"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:185
+#: Template/Coordinador/Customers/consult-bk.ctp:187
+#: Template/Customers/consult.ctp:271
+msgid "editar"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:201
+#: Template/Asesor/Customers/information.ctp:14
+#: Template/Coordinador/Customers/consult-bk.ctp:208
+#: Template/Coordinador/Customers/information.ctp:14
+#: Template/Customers/consult.ctp:292
+#: Template/Customers/information.ctp:14
+msgid "Productos"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:202
+#: Template/Coordinador/Customers/consult-bk.ctp:209
+#: Template/Customers/consult.ctp:293
+msgid "Saldo Total"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:203
+#: Template/Coordinador/Customers/consult-bk.ctp:210
+#: Template/Customers/consult.ctp:294
+msgid "Pagos minimos"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:204
+#: Template/Asesor/Element/_resumen_cliente.ctp:20
+#: Template/Coordinador/Customers/consult-bk.ctp:211
+#: Template/Customers/consult.ctp:295
+msgid "Cuotas pactadas"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:210
+#: Template/Asesor/Element/_resumen_cliente.ctp:25
+#: Template/Coordinador/Customers/consult-bk.ctp:217
+#: Template/Customers/consult.ctp:301
+msgid "Hipotecario"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:218
+#: Template/Asesor/Element/_resumen_cliente.ctp:32
+#: Template/Coordinador/Customers/consult-bk.ctp:225
+#: Template/Customers/consult.ctp:309
+msgid "Vehículo"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:226
+#: Template/Asesor/Element/_resumen_cliente.ctp:46
+#: Template/Coordinador/Customers/consult-bk.ctp:233
+#: Template/Customers/consult.ctp:317
+msgid "Rotativos"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:234
+#: Template/Asesor/Element/_resumen_cliente.ctp:39
+#: Template/Coordinador/Customers/consult-bk.ctp:241
+#: Template/Customers/consult.ctp:325
+msgid "Fijos"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:242
+#: Template/Asesor/Element/_resumen_cliente.ctp:53
+#: Template/Coordinador/Customers/consult-bk.ctp:249
+#: Template/Customers/consult.ctp:351
+msgid "Total"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:258
+#: Template/Coordinador/Customers/consult-bk.ctp:265
+#: Template/Customers/consult.ctp:368
+msgid "Nuevas Cuotas"
+msgstr ""
+
+#: Template/Asesor/Customers/consult.ctp:388
+#: Template/Asesor/Customers/information.ctp:278
+#: Template/Coordinador/Customers/consult-bk.ctp:396
+#: Template/Coordinador/Customers/information.ctp:278
+#: Template/Customers/consult.ctp:541
+#: Template/Customers/information.ctp:278
+msgid "Continuar"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:15;286
+#: Template/Coordinador/Customers/information.ctp:15;286
+#: Template/Customers/information.ctp:15;286
+msgid "Oferta"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:16;290
+#: Template/Coordinador/Customers/information.ctp:16;290
+#: Template/Customers/information.ctp:16;290
+msgid "Normalización"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:17;294
+#: Template/Coordinador/Customers/information.ctp:17;294
+#: Template/Customers/information.ctp:17;294
+msgid "Resumen"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:41
+#: Template/Coordinador/Customers/information.ctp:41
+#: Template/Customers/information.ctp:41
+msgid "Ingresar la siguiente información"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:45
+#: Template/Coordinador/Customers/information.ctp:45
+#: Template/Customers/information.ctp:45
+msgid "Correo"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:49
+#: Template/Coordinador/Customers/information.ctp:49
+#: Template/Customers/information.ctp:49
+msgid "Actividad Laboral"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:52
+#: Template/Coordinador/Customers/information.ctp:52
+#: Template/Customers/information.ctp:52
+#: Template/Obligations/resumen.ctp:448;458;513
+msgid "seleccionar"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:58
+#: Template/Coordinador/Customers/information.ctp:58
+#: Template/Customers/information.ctp:58
+msgid "Capacidad de pago"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:72
+#: Template/Coordinador/Customers/information.ctp:72
+#: Template/Customers/information.ctp:72
+msgid "Obligaciones Negociables"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:87;220
+#: Template/Coordinador/Customers/information.ctp:87;220
+#: Template/Customers/information.ctp:87;220
+msgid "Moneda"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:88
+#: Template/Coordinador/Customers/information.ctp:88
+#: Template/Customers/information.ctp:88
+msgid "Marca"
+msgstr ""
+
+#: Template/Asesor/Customers/information.ctp:206
+#: Template/Coordinador/Customers/information.ctp:206
+#: Template/Customers/information.ctp:206
+msgid "Obligaciones No Negociables"
+msgstr ""
+
+#: Template/Asesor/Element/_datos_cliente.ctp:11
+msgid "Datos cliente"
+msgstr ""
+
+#: Template/Asesor/Element/_datos_cliente.ctp:14
+msgid "Nombre"
+msgstr ""
+
+#: Template/Asesor/Element/_datos_cliente.ctp:15
+msgid "Tipo identificación"
+msgstr ""
+
+#: Template/Asesor/Element/_datos_cliente.ctp:16
+msgid "Identificación"
+msgstr ""
+
+#: Template/Asesor/Element/_datos_cliente.ctp:18
+msgid "Capacidad de pago inicial"
+msgstr ""
+
+#: Template/Asesor/Element/_resumen_cliente.ctp:11
+msgid "Resumen actual cliente"
+msgstr ""
+
+#: Template/Asesor/Element/_resumen_cliente.ctp:19
+msgid "Pagos mínimos"
+msgstr ""
+
+#: Template/Asesor/Element/_resumen_cliente.ctp:21
+msgid "Nuevas cuotas"
+msgstr ""
+
+#: Template/Asesor/Element/header_home.ctp:66
+#: Template/Coordinador/Element/header_home.ctp:64
+msgid "Comite"
+msgstr ""
+
+#: Template/Asesor/Element/header_home.ctp:73
+#: Template/Coordinador/Element/header_home.ctp:70
+msgid "Gestionar clientes"
+msgstr ""
+
+#: Template/Asesor/Element/header_home.ctp:92
+msgid "Vive Davinegociador"
+msgstr ""
+
+#: Template/Asesor/Obligations/evaluar.ctp:230
+#: Template/Asesor/Obligations/normalizar.ctp:145
+#: Template/Coordinador/Obligations/evaluar.ctp:230
+#: Template/Coordinador/Obligations/normalizar.ctp:145
+msgid "Si"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:23
+#: Template/Coordinador/Obligations/normalizar.ctp:23
+msgid "Capacidad de pago:"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:32
+#: Template/Coordinador/Obligations/normalizar.ctp:32
+msgid "Informado cliente:"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:36
+#: Template/Coordinador/Obligations/normalizar.ctp:36
+msgid "Sugerido"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:47
+#: Template/Coordinador/Obligations/normalizar.ctp:47
+msgid "Comportamiento Ingresos"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:61
+#: Template/Coordinador/Obligations/normalizar.ctp:61
+msgid "Negociación:"
+msgstr ""
+
+#: Template/Asesor/Obligations/normalizar.ctp:144
+#: Template/Coordinador/Obligations/normalizar.ctp:144
+#: Template/Obligations/oferta.ctp:150;394;488
+#: Template/Obligations/oferta_vehiculo.ctp:78
+msgid "Acepta"
+msgstr ""
+
+#: Template/Asesor/Trainings/index.ctp:73
+#: Template/Element/history_customer.ctp:17
+msgid "Historial Cliente"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:9
+#: Template/Bake/Template/index.ctp:16
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:10
+msgid "<%= Inflector::humanize($action) %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:27
+#: Template/Bake/Template/view.ctp:42
+msgid "<%= $singularHumanName %> Information"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:51
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:55;70;77;83
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:63
+msgid "<%= Inflector::humanize(Inflector::singularize(Inflector::underscore($alias))) %>"
+msgstr ""
+
+#: Template/Coordinador/Asesor/index.ctp:15
+#: Template/Coordinador/Users/index.ctp:15
+#: Template/Element/aside/sidebar-menu.ctp:2
+#: Template/Super/Admins/index.ctp:19
+#: Template/Super/Asesor/index.ctp:15
+#: Template/Super/Element/aside/sidebar-menu.ctp:9
+#: Template/Super/Users/index.ctp:19
+msgid "Administrator"
+msgstr ""
+
+#: Template/Coordinador/Asesor/index.ctp:23
+#: Template/Super/Asesor/index.ctp:23
+msgid "Unit Manager"
+msgstr ""
+
+#: Template/Coordinador/Asesor/index.ctp:27
+#: Template/Super/Asesor/index.ctp:27
+msgid "Bi User"
+msgstr ""
+
+#: Template/Coordinador/Committees/index.ctp:48
+msgid "Gestionar"
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:213
+#: Template/Obligations/oferta.ctp:308
+msgid "Valor a pagar"
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:215
+msgid "% Condonación."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:216
+#: Template/Obligations/oferta.ctp:401
+msgid "Valor condonación."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:217
+msgid "Pago total Experto."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:218
+msgid "% Condonación Experto."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:219
+msgid "Valor condonación Experto."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:251
+#: Template/HistoryCustomers/view.ctp:151
+msgid "% Cond 1."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:252
+#: Template/HistoryCustomers/view.ctp:152
+msgid "Valor condonación 1."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:253
+#: Template/HistoryCustomers/view.ctp:153
+msgid "% Cond 2."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:254
+#: Template/HistoryCustomers/view.ctp:154
+msgid "Valor condonación 2."
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:255
+#: Template/HistoryCustomers/view.ctp:155
+msgid "Pago inicial"
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:302
+msgid "Aceptar"
+msgstr ""
+
+#: Template/Coordinador/Committees/view.ctp:303
+msgid "Rechazar"
+msgstr ""
+
+#: Template/Coordinador/Customers/consult-bk.ctp:317
+#: Template/Customers/consult.ctp:428
+msgid "Pediente Negociación"
+msgstr ""
+
+#: Template/Coordinador/Customers/consult-bk.ctp:319
+#: Template/Customers/consult.ctp:432
+msgid "Pediente Comite"
+msgstr ""
+
+#: Template/Coordinador/Customers/consult-bk.ctp:321
+#: Template/Customers/consult.ctp:434
+msgid "Con Negociación"
+msgstr ""
+
+#: Template/Coordinador/HistoryCustomers/history.ctp:21
+#: Template/HistoryCustomers/history.ctp:21
+msgid "Estado"
+msgstr ""
+
+#: Template/Coordinador/HistoryCustomers/view.ctp:10
+#: Template/HistoryCustomers/view.ctp:12
+msgid "Fecha de Gestión"
+msgstr ""
+
+#: Template/Coordinador/Users/index.ctp:9
+msgid "Lista de Perfiles"
+msgstr ""
+
+#: Template/Coordinador/Users/index.ctp:23
+msgid "Consultor"
+msgstr ""
+
+#: Template/Customers/consult.ctp:150
+msgid "Pago total castigada"
+msgstr ""
+
+#: Template/Customers/consult.ctp:160
+msgid "Pago total vehiculo"
+msgstr ""
+
+#: Template/Customers/consult.ctp:168
+msgid "Pago inicial castigada"
+msgstr ""
+
+#: Template/Customers/consult.ctp:186
+msgid "Pago Total Hipotecario"
+msgstr ""
+
+#: Template/Customers/consult.ctp:333
+msgid "Total Vigente"
+msgstr ""
+
+#: Template/Customers/consult.ctp:342
+msgid "Total Castigada"
+msgstr ""
+
+#: Template/Customers/consult.ctp:464
+msgid "C.26"
+msgstr ""
+
+#: Template/Customers/consult.ctp:465
+msgid "company"
+msgstr ""
+
+#: Template/Customers/consult.ctp:524
+msgid "Unificar consumo"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:27
+msgid "Calculadora Vehículo"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:54
+#: Template/Obligations/pago_total_vehiculo.ctp:33
+msgid "Saldo capital"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:56
+msgid "Acierta seguimiento"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:60
+#: Template/Obligations/pago_total_vehiculo.ctp:35
+msgid "Tipo cartera"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:72
+msgid "Avalúo garantia"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:74
+msgid "Fecha avalúo"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:78
+msgid "Tipo avalúo"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:86
+msgid "Deuda parqueadero"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:88
+msgid "Deuda comparendos"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:90
+msgid "Deuda impuestos"
+msgstr ""
+
+#: Template/Element/calculadora_vehiculo.ctp:92
+msgid "Gastos mantenimiento"
+msgstr ""
+
+#: Template/Element/footer.ctp:6
+msgid "Version"
+msgstr ""
+
+#: Template/Element/modal_approved_ticket.ctp:9
+msgid "Are you sure you want to approved this ticket?"
+msgstr ""
+
+#: Template/Element/modal_approved_ticket.ctp:11
+msgid "Confirm Approved Ticket"
+msgstr ""
+
+#: Template/Element/modal_mensaje.ctp:5
+#: Template/Element/modal_update_rate_tdc.ctp:15
+#: Template/Super/Element/modal_update_rate_tdc.ctp:15
+msgid "Alerta del sistema"
+msgstr ""
+
+#: Template/Element/modal_update_password.ctp:22
+msgid "Update password"
+msgstr ""
+
+#: Template/Element/modal_update_password.ctp:25
+#: Template/Users/profile.ctp:76
+msgid "New Password"
+msgstr ""
+
+#: Template/Element/modal_update_password.ctp:26
+#: Template/Users/profile.ctp:77
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Element/nav-top.ctp:29
+#: Template/Users/profile.ctp:7
+msgid "Profile"
+msgstr ""
+
+#: Template/Element/nav-top.ctp:33
+msgid "Sign out"
+msgstr ""
+
+#: Template/Element/search/tickets.ctp:38
+#: Template/Element/search/tickets_admin.ctp:38
+msgid "Search by title"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:28
+msgid "Pago sugerido"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:29
+msgid "Pagos Acumulados"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:30
+msgid "Pago real"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:205
+msgid "Abono Real"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:300
+msgid "Pagos vehículo"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:312
+#: Template/Obligations/oferta_vehiculo.ctp:31
+msgid "Condonación"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:316
+msgid "Valor condonación"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:398
+msgid "% Cond I."
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:399
+msgid "Valor condonación I."
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:400
+msgid "% Cond."
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:402
+msgid "Pago inicial."
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:486
+msgid "Acepta comite"
+msgstr ""
+
+#: Template/Obligations/oferta.ctp:490
+#: Template/Obligations/oferta_vehiculo.ctp:79
+msgid "Rechaza"
+msgstr ""
+
+#: Template/Obligations/pago_total_vehiculo.ctp:158
+msgid "Pago cliente"
+msgstr ""
+
+#: Template/Obligations/pago_total_vehiculo.ctp:170
+msgid "Enviar oferta"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:15
+msgid "Condonación Total"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:18;35
+msgid "Pago Total"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:31
+msgid "Tir Inicial"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:33
+msgid "Condonación Capital"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:37
+msgid "Tir final"
+msgstr ""
+
+#: Template/Obligations/resultado.ctp:39
+msgid "Delta Tir"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:12
+msgid "Resumen negociación"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:18
+msgid "Obligaciones Sin Cambio"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:55
+msgid "Alternativas"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:63;194
+msgid "Cuota anterior"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:64;195
+msgid "Nuevo plazo"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:65;196
+msgid "Nueva tasa EA"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:66;197
+msgid "Nueva cuota"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:67;198;345
+msgid "Estrategia"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:103;133
+msgid "Unificación de obligaciones"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:141;274;384;410
+msgid "Saldo"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:161
+msgid "Observación"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:168;315
+msgid "Pago inicial acordado cliente"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:186
+msgid "Castigada con garantía"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:231
+msgid "Unificación de obligaciones Castigada"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:266
+msgid "Unificación de obligaciones castigada"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:286
+msgid "Tasa interes mensual"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:290
+msgid "Tasa interes anual"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:294
+msgid "% Condonacion inicial"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:298
+msgid "Condonacion inicial"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:303
+msgid "% Condonacion final"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:307
+msgid "Condonacion final"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:336
+msgid "Otras alternativas"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:344
+msgid "Valor del pago"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:372;377;403
+msgid "Situación cliente"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:378;404
+msgid "Inicial"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:379;405
+msgid "Final"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:389;415
+msgid "Cuotas"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:398
+msgid "Situación cliente cartera castigada"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:428
+msgid "Cita centro de cartera"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:434
+msgid "Entrega Documentos"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:445;476
+msgid "ciudad"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:530
+msgid "Enviar a Comité"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:532
+msgid "Finalizar"
+msgstr ""
+
+#: Template/Obligations/resumen.ctp:549
+msgid "Oficinas"
+msgstr ""
+
+#: Template/Pages/reports.ctp:7
+#: Template/Super/Admins/index.ctp:9
+#: Template/Super/Asesor/index.ctp:9
+#: Template/Super/Element/aside/sidebar-menu.ctp:126
+#: Template/Super/Users/index.ctp:9
+#: Template/Users/profile.ctp:6
+msgid "Users"
+msgstr ""
+
+#: Template/Pages/reports.ctp:12;42;58
+msgid "More info"
+msgstr ""
+
+#: Template/Pages/reports.ctp:37
+msgid "Log"
+msgstr ""
+
+#: Template/Super/Admins/edit.ctp:45
+msgid "Habilitar Accesos"
+msgstr ""
+
+#: Template/Super/Admins/index.ctp:15
+#: Template/Super/Users/index.ctp:15
+msgid "Super"
+msgstr ""
+
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:6
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:11
+#: Template/Super/AnnualEffectiveRateTdc/index.ctp:8
+msgid "Annual Effective Rate Tdc"
+msgstr ""
+
+#: Template/Super/AnnualEffectiveRateTdc/add.ctp:24
+#: Template/Super/AnnualEffectiveRateTdc/edit.ctp:29
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:7
+msgid "Annual Effective Rate Tdc Information"
+msgstr ""
+
+#: Template/Super/AnnualEffectiveRateTdc/view.ctp:12
+msgid "Rate"
+msgstr ""
+
+#: Template/Super/Business/view.ctp:14
+msgid "nit"
+msgstr ""
+
+#: Template/Super/Business/view.ctp:16
+msgid "name_contact"
+msgstr ""
+
+#: Template/Super/Business/view.ctp:18
+msgid "phone_contact"
+msgstr ""
+
+#: Template/Super/CityOffices/add.ctp:6
+#: Template/Super/CityOffices/edit.ctp:11
+#: Template/Super/CityOffices/index.ctp:8
+msgid "City Offices"
+msgstr ""
+
+#: Template/Super/CityOffices/add.ctp:24
+#: Template/Super/CityOffices/edit.ctp:29
+#: Template/Super/CityOffices/view.ctp:7
+msgid "City Office Information"
+msgstr ""
+
+#: Template/Super/CityOffices/index.ctp:69
+#: Template/Super/Offices/index.ctp:8
+msgid "branch offices"
+msgstr ""
+
+#: Template/Super/CndCodes/add.ctp:6
+#: Template/Super/CndCodes/edit.ctp:11
+#: Template/Super/CndCodes/index.ctp:8
+msgid "Cnd Codes"
+msgstr ""
+
+#: Template/Super/CndCodes/add.ctp:24
+#: Template/Super/CndCodes/edit.ctp:29
+#: Template/Super/CndCodes/view.ctp:7
+msgid "Cnd Code Information"
+msgstr ""
+
+#: Template/Super/CndCodes/view.ctp:12
+#: Template/Super/LegalCodes/view.ctp:12
+#: Template/Super/ProductCodes/view.ctp:14
+msgid "Code"
+msgstr ""
+
+#: Template/Super/CndCodes/view.ctp:14
+msgid "Not Negotiate"
+msgstr ""
+
+#: Template/Super/CndCodes/view.ctp:16
+msgid "Message"
+msgstr ""
+
+#: Template/Super/Conditions/add.ctp:7
+#: Template/Super/Conditions/edit.ctp:11
+#: Template/Super/Conditions/index.ctp:10
+#: Template/Super/Conditions/index_hp.ctp:10
+#: Template/Super/Conditions/sort.ctp:7
+#: Template/Super/Element/aside/sidebar-menu.ctp:52
+msgid "Conditions"
+msgstr ""
+
+#: Template/Super/Conditions/add.ctp:26
+#: Template/Super/Conditions/edit.ctp:30
+#: Template/Super/Conditions/view.ctp:7
+msgid "Condition Information"
+msgstr ""
+
+#: Template/Super/Conditions/add.ctp:38
+#: Template/Super/Conditions/edit.ctp:42
+msgid "Select option"
+msgstr ""
+
+#: Template/Super/Conditions/index.ctp:23;25
+#: Template/Super/Conditions/index_hp.ctp:23;25
+#: Template/Super/Conditions/sort.ctp:8
+msgid "Sort"
+msgstr ""
+
+#: Template/Super/Conditions/index.ctp:86
+#: Template/Super/Conditions/index_hp.ctp:90
+msgid "Porcentaje pago minimo"
+msgstr ""
+
+#: Template/Super/Conditions/sort.ctp:35
+#: Template/Super/Conditions/view.ctp:14
+msgid "Operator"
+msgstr ""
+
+#: Template/Super/Conditions/view.ctp:12
+msgid "Types Condition"
+msgstr ""
+
+#: Template/Super/CustomerTypeIdentifications/add.ctp:6
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:11
+#: Template/Super/CustomerTypeIdentifications/index.ctp:8
+msgid "Customer Type Identifications"
+msgstr ""
+
+#: Template/Super/CustomerTypeIdentifications/add.ctp:24
+#: Template/Super/CustomerTypeIdentifications/edit.ctp:29
+#: Template/Super/CustomerTypeIdentifications/view.ctp:7
+msgid "Customer Type Identification Information"
+msgstr ""
+
+#: Template/Super/CustomerTypeIdentifications/view.ctp:12
+#: Template/Super/TypeObligations/view.ctp:12
+#: Template/TypeObligations/view.ctp:12
+msgid "Type"
+msgstr ""
+
+#: Template/Super/Element/ips.ctp:30
+#: Template/Super/Element/schedules.ctp:34
+msgid "Remove"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:7
+msgid "Home"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:17
+#: Template/Super/TypeObligations/add.ctp:6
+#: Template/Super/TypeObligations/edit.ctp:11
+#: Template/Super/TypeObligations/index.ctp:8
+#: Template/TypeObligations/add.ctp:6
+#: Template/TypeObligations/edit.ctp:11
+#: Template/TypeObligations/index.ctp:8
+msgid "Type Obligations"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:22
+msgid "Tasa EA TDC"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:27
+msgid "cities"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:33
+msgid "Tabla Jurídica"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:38
+msgid "Códigos Productos"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:44
+msgid "Códigos CND"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:56
+msgid "Tasa piso"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:61
+msgid "Tiempo Normalización"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:66
+msgid "Tiempo Rediferido"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:71
+msgid "Tasa Anual Castigada"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:76
+msgid "Porcentaje de Condonación"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:81
+msgid "Porcentaje de disminución"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:86
+msgid "Politica acierta"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:92
+msgid "Tasa desvalorización"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:100
+msgid "Condonación vigente"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:105
+msgid "Condonación castigada"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:111
+msgid "Zona gris ISF"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:117
+msgid "% Pago sugerido"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:124
+msgid "Users and group access"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:142
+msgid "Type Identifications"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:148
+msgid "State reasons"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:152
+msgid "Configuration"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:178
+msgid "Sessions"
+msgstr ""
+
+#: Template/Super/Element/aside/sidebar-menu.ctp:188
+msgid "Ticket"
+msgstr ""
+
+#: Template/Super/Element/search/access_logs.ctp:47
+msgid "Search by date login"
+msgstr ""
+
+#: Template/Super/Element/search/access_logs.ctp:55
+#: Template/Users/profile.ctp:56
+msgid "Role"
+msgstr ""
+
+#: Template/Super/Element/search/bi_users.ctp:48
+#: Template/Super/Element/search/external_customers.ctp:49
+#: Template/Super/Element/search/internal_customers.ctp:48
+msgid "Active"
+msgstr ""
+
+#: Template/Super/Element/search/bi_users.ctp:48
+#: Template/Super/Element/search/external_customers.ctp:49
+#: Template/Super/Element/search/internal_customers.ctp:48
+msgid "Inactive"
+msgstr ""
+
+#: Template/Super/Element/search/codes.ctp:12
+#: Template/Super/Element/search/legal_codes.ctp:12
+msgid "Search by code"
+msgstr ""
+
+#: Template/Super/LegalCodes/add.ctp:6
+#: Template/Super/LegalCodes/edit.ctp:11
+#: Template/Super/LegalCodes/index.ctp:8
+msgid "Legal Codes"
+msgstr ""
+
+#: Template/Super/LegalCodes/add.ctp:24
+#: Template/Super/LegalCodes/edit.ctp:29
+#: Template/Super/LegalCodes/view.ctp:7
+msgid "Legal Code Information"
+msgstr ""
+
+#: Template/Super/LegalCodes/index.ctp:72
+msgid "Valor por ciudad"
+msgstr ""
+
+#: Template/Super/LegalCodes/view.ctp:14
+msgid "Apply Mortgage Credit"
+msgstr ""
+
+#: Template/Super/LegalCodes/view.ctp:16
+msgid "Apply Consumer Credit"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:6
+#: Template/Super/Offices/edit.ctp:11
+msgid "Offices"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:24
+#: Template/Super/Offices/edit.ctp:29
+#: Template/Super/Offices/view.ctp:7
+msgid "Office Information"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:44
+#: Template/Super/Schedules/add.ctp:6
+#: Template/Super/Schedules/edit.ctp:11
+#: Template/Super/Schedules/index.ctp:8
+msgid "Schedules"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:48
+#: Template/Super/Schedules/view.ctp:16
+msgid "Start Time"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:49
+#: Template/Super/Schedules/view.ctp:18
+msgid "End Time"
+msgstr ""
+
+#: Template/Super/Offices/add.ctp:50
+msgid "commentary"
+msgstr ""
+
+#: Template/Super/Offices/index.ctp:74
+msgid "schedules"
+msgstr ""
+
+#: Template/Super/Offices/view.ctp:14
+msgid "Address"
+msgstr ""
+
+#: Template/Super/Offices/view.ctp:16
+#: Template/Super/ValueStages/view.ctp:14
+msgid "City Office"
+msgstr ""
+
+#: Template/Super/ProductCodes/add.ctp:6
+#: Template/Super/ProductCodes/edit.ctp:11
+#: Template/Super/ProductCodes/index.ctp:8
+msgid "Product Codes"
+msgstr ""
+
+#: Template/Super/ProductCodes/add.ctp:24
+#: Template/Super/ProductCodes/edit.ctp:29
+#: Template/Super/ProductCodes/view.ctp:7
+msgid "Product Code Information"
+msgstr ""
+
+#: Template/Super/ProductCodes/view.ctp:16
+msgid "Exclud Offer"
+msgstr ""
+
+#: Template/Super/ProductCodes/view.ctp:18
+msgid "Without Garment"
+msgstr ""
+
+#: Template/Super/Schedules/add.ctp:24
+#: Template/Super/Schedules/edit.ctp:29
+#: Template/Super/Schedules/view.ctp:7
+msgid "Schedule Information"
+msgstr ""
+
+#: Template/Super/Schedules/view.ctp:12
+msgid "Commentary"
+msgstr ""
+
+#: Template/Super/Schedules/view.ctp:14
+msgid "Office"
+msgstr ""
+
+#: Template/Super/StateReasons/add.ctp:6
+#: Template/Super/StateReasons/edit.ctp:11
+#: Template/Super/StateReasons/index.ctp:8
+msgid "State Reasons"
+msgstr ""
+
+#: Template/Super/StateReasons/add.ctp:24
+#: Template/Super/StateReasons/edit.ctp:29
+#: Template/Super/StateReasons/view.ctp:7
+msgid "State Reason Information"
+msgstr ""
+
+#: Template/Super/TypeObligations/add.ctp:24
+#: Template/Super/TypeObligations/edit.ctp:29
+#: Template/Super/TypeObligations/view.ctp:7
+#: Template/TypeObligations/add.ctp:24
+#: Template/TypeObligations/edit.ctp:29
+#: Template/TypeObligations/view.ctp:7
+msgid "Type Obligation Information"
+msgstr ""
+
+#: Template/Super/TypeObligations/view.ctp:16
+#: Template/TypeObligations/view.ctp:16
+msgid "Term"
+msgstr ""
+
+#: Template/Super/ValueStages/add.ctp:6
+#: Template/Super/ValueStages/edit.ctp:11
+#: Template/Super/ValueStages/index.ctp:8
+msgid "Value Stages"
+msgstr ""
+
+#: Template/Super/ValueStages/add.ctp:24
+#: Template/Super/ValueStages/edit.ctp:29
+#: Template/Super/ValueStages/view.ctp:7
+msgid "Value Stage Information"
+msgstr ""
+
+#: Template/Super/ValueStages/view.ctp:12
+msgid "Legal Code"
+msgstr ""
+
+#: Template/Super/ValueStages/view.ctp:16
+msgid "Value"
+msgstr ""
+
+#: Template/Tickets/admin.ctp:37
+msgid "ticket type error"
+msgstr ""
+
+#: Template/Tickets/view.ctp:16
+msgid "Resolved"
+msgstr ""
+
+#: Template/Users/get_token.ctp:18
+msgid "Get Token"
+msgstr ""
+
+#: Template/Users/get_token.ctp:19
+msgid "Login"
+msgstr ""
+
+#: Template/Users/login.ctp:14
+msgid "Identification or Email"
+msgstr ""
+
+#: Template/Users/login.ctp:19
+msgid "Password"
+msgstr ""
+
+#: Template/Users/profile.ctp:23
+msgid "Profile Information"
+msgstr ""
+
+#: Template/Users/profile.ctp:79
+msgid "Leave empty if you do not want to change"
+msgstr ""
+
+#: View/Helper/NestedHelper.php:31
+msgid "Image no found"
+msgstr ""
+
+#: Template/Error/_error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error404.ctp:22
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:21
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
